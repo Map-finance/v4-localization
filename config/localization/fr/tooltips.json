@@ -1,10 +1,10 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": "Votre adresse dYdX Chain « {DYDX_ADDRESS} » a été créée à partir de la signature de l'adresse Ethereum « {EVM_ADDRESS} »."
+      "BODY": "Votre adresse H2 Chain « {DYDX_ADDRESS} » a été créée à partir de la signature de l'adresse Ethereum « {EVM_ADDRESS} »."
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "Votre adresse dYdX Chain « {DYDX_ADDRESS} » a été créée à partir de la signature de l'adresse Solana « {SOLANA_ADDRESS} »."
+      "BODY": "Votre adresse H2 Chain « {DYDX_ADDRESS} » a été créée à partir de la signature de l'adresse Solana « {SOLANA_ADDRESS} »."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Signature patrimoniale",
@@ -126,7 +126,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Prix limite",
-      "BODY": "En identifiant un prix limite, vous placez un ordre de limite Take Profit et\/ou un ordre Stop Limit. Cliquez sur {DOCUMENTATION_LINK} pour plus de détails."
+      "BODY": "En identifiant un prix limite, vous placez un ordre de limite Take Profit et/ou un ordre Stop Limit. Cliquez sur {DOCUMENTATION_LINK} pour plus de détails."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "slippage",
@@ -186,7 +186,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Financement net",
-      "BODY": "Financement total gagné\/payé pour la durée de vie de la position actuelle. Se réinitialise si vous fermez votre position ou changez de côté de position (long à court, ou vice versa)."
+      "BODY": "Financement total gagné/payé pour la durée de vie de la position actuelle. Se réinitialise si vous fermez votre position ou changez de côté de position (long à court, ou vice versa)."
     },
     "OPEN_INTEREST": {
       "TITLE": "Intérêt ouvert",
@@ -302,11 +302,11 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Prix de déclenchement",
-      "BODY": "Lorsque le prix oracle de ce marché croise votre prix de déclenchement, votre ordre Stop\/Take Profit sera soit converti en ordre de limite, soit exécuté en tant qu'ordre au marché."
+      "BODY": "Lorsque le prix oracle de ce marché croise votre prix de déclenchement, votre ordre Stop/Take Profit sera soit converti en ordre de limite, soit exécuté en tant qu'ordre au marché."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Perte\/Bénéfice non réalisé",
-      "BODY": "Perte\/bénéfice total si vous deviez fermer complètement le reste de votre position actuelle au prix oracle actuel. Réinitialise si vous fermez votre position ou changez de côté de position (long à court ou vice versa)."
+      "TITLE": "Perte/Bénéfice non réalisé",
+      "BODY": "Perte/bénéfice total si vous deviez fermer complètement le reste de votre position actuelle au prix oracle actuel. Réinitialise si vous fermez votre position ou changez de côté de position (long à court ou vice versa)."
     },
     "REWARD_HISTORY": {
       "BODY": "L'heure est affichée en temps universel coordonné (UTC)"

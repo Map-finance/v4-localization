@@ -1,14 +1,14 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": " 您的 dYdX 链地址“{DYDX_ADDRESS}”根据以太坊地址“{EVM_ADDRESS}”的签名创建。"
+      "BODY": " 您的 H2 链地址“{DYDX_ADDRESS}”根据以太坊地址“{EVM_ADDRESS}”的签名创建。"
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "您的dYdX链地址“{DYDX_ADDRESS}”是根据Solana地址“{SOLANA_ADDRESS}”的签名创建的"
+      "BODY": "您的H2链地址“{DYDX_ADDRESS}”是根据Solana地址“{SOLANA_ADDRESS}”的签名创建的"
     },
     "LEGACY_SIGNING": {
       "TITLE": "旧版签名",
-      "BODY": "仅当您之前使用硬件钱包签名\/旧版签名生成过密钥，才勾选此选项。"
+      "BODY": "仅当您之前使用硬件钱包签名/旧版签名生成过密钥，才勾选此选项。"
     },
     "REMEMBER_ME": {
       "TITLE": "记住我",
@@ -126,7 +126,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "限价",
-      "BODY": "通过确定限价，您可以下达止盈限价单和\/或止损限价单。点击{DOCUMENTATION_LINK}了解详情。"
+      "BODY": "通过确定限价，您可以下达止盈限价单和/或止损限价单。点击{DOCUMENTATION_LINK}了解详情。"
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "滑点",
@@ -302,7 +302,7 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "触发价格",
-      "BODY": "当该市场的预言机价格超过您的触发价格时，您的止损\/止盈订单将转换为限价订单或作为市价订单执行。"
+      "BODY": "当该市场的预言机价格超过您的触发价格时，您的止损/止盈订单将转换为限价订单或作为市价订单执行。"
     },
     "UNREALIZED_PNL": {
       "TITLE": "未实现的盈亏",

@@ -1,14 +1,14 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": "\"{DYDX_ADDRESS}\" dYdX Zinciri adresiniz \"{EVM_ADDRESS}\" Ethereum adresinin imzasından oluşturulmuştur."
+      "BODY": "\"{DYDX_ADDRESS}\" H2 Zinciri adresiniz \"{EVM_ADDRESS}\" Ethereum adresinin imzasından oluşturulmuştur."
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "\"{DYDX_ADDRESS}\" dYdX Zinciri adresiniz \"{SOLANA_ADDRESS}\" Solana adresinin imzasından oluşturulmuştur."
+      "BODY": "\"{DYDX_ADDRESS}\" H2 Zinciri adresiniz \"{SOLANA_ADDRESS}\" Solana adresinin imzasından oluşturulmuştur."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Eski İmza",
-      "BODY": "Bu seçeneği yalnızca anahtarlarınızı oluşturmak için donanım cüzdan imzası\/eski imza kullandıysanız işaretleyin."
+      "BODY": "Bu seçeneği yalnızca anahtarlarınızı oluşturmak için donanım cüzdan imzası/eski imza kullandıysanız işaretleyin."
     },
     "REMEMBER_ME": {
       "TITLE": "Beni Hatırla",
@@ -122,7 +122,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Limit Fiyatı",
-      "BODY": "Bir limit fiyatı belirleyerek, bir Kâr Alma Limit Emri ve\/veya bir Stop Limit Emri vermiş olursunuz. Daha fazla bilgi için {DOCUMENTATION_LINK} bağlantısına tıklayın."
+      "BODY": "Bir limit fiyatı belirleyerek, bir Kâr Alma Limit Emri ve/veya bir Stop Limit Emri vermiş olursunuz. Daha fazla bilgi için {DOCUMENTATION_LINK} bağlantısına tıklayın."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Kayma",
@@ -229,8 +229,8 @@
       "BODY": "Emriniz için beklenen gerçekleşme fiyatı ile alış veya satış tarafındaki en iyi emir arasındaki fark. Bu değer daha büyük alım satım hacimleri için artacaktır."
     },
     "REALIZED_PNL": {
-      "TITLE": "Gerçekleşen Kâr\/Zarar",
-      "BODY": "Bu pozisyon için kısmi kapatmalar, ücretler ve fonlama yoluyla gerçekleşmiş toplam kâr\/zarar. Pozisyonunuzu tamamen kapatırsanız veya pozisyon taraflarını değiştirirseniz (uzundan kısaya veya tam tersi) sıfırlanır."
+      "TITLE": "Gerçekleşen Kâr/Zarar",
+      "BODY": "Bu pozisyon için kısmi kapatmalar, ücretler ve fonlama yoluyla gerçekleşmiş toplam kâr/zarar. Pozisyonunuzu tamamen kapatırsanız veya pozisyon taraflarını değiştirirseniz (uzundan kısaya veya tam tersi) sıfırlanır."
     },
     "REDUCE_ONLY": {
       "TITLE": "Sadece Azalt",
@@ -294,10 +294,10 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Tetikleme Fiyatı",
-      "BODY": "Bu piyasanın oracle fiyatı tetikleme fiyatınızla çakıştığında, durdurma\/kâr alma emriniz ya bir limit emrine dönüştürülür, ya da bir piyasa emri olarak gerçekleştirilir."
+      "BODY": "Bu piyasanın oracle fiyatı tetikleme fiyatınızla çakıştığında, durdurma/kâr alma emriniz ya bir limit emrine dönüştürülür, ya da bir piyasa emri olarak gerçekleştirilir."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Gerçekleşmemiş Kâr \/ Zarar",
+      "TITLE": "Gerçekleşmemiş Kâr / Zarar",
       "BODY": "Mevcut pozisyonunuzun geri kalanını mevcut oracle fiyatından tamamen kapatacak olursanız ortaya çıkacak toplam kâr veya zarar. Pozisyonunuzu kapatır veya yönünü değiştirirseniz sıfırlanır (uzundan kısaya veya tam tersi)."
     },
     "REWARD_HISTORY": {

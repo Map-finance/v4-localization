@@ -127,7 +127,7 @@
       "DECREASED": "verringert",
       "DECREASING": "Verringernd",
       "DEFAULT": "Standard",
-      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Standard für alle Märkte in Positionen\/Orders\/Fills",
+      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Standard für alle Märkte in Positionen/Orders/Fills",
       "DEFI": "DeFi",
       "DEGRADED": "Abgebaut",
       "DEPIN": "DePIN",
@@ -149,7 +149,7 @@
       "DONT_SHOW_ME_AGAIN": "Zeigen Sie mir das nicht wieder",
       "DOWNLOAD_IOS_APP": "iOS-App herunterladen",
       "DOWNLOAD_MOBILE_APP": "Mobile App herunterladen",
-      "DYDX_CHAIN_ADDRESS": "dYdX-Chain-Adresse",
+      "DYDX_CHAIN_ADDRESS": "H2-Chain-Adresse",
       "DYDX_CHAIN": "dYdX Chain",
       "EARNED": "Verdient",
       "EDIT": "Bearbeiten",
@@ -302,12 +302,12 @@
       "PRIVACY": "Datenschutz",
       "PRIZE": "Preis",
       "PROFILE": "Profil",
-      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Nach Gewinn \/ Verlust",
-      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Gewinn \/ Verlust ($)",
-      "PROFIT_AND_LOSS_ABSOLUTE": "Absoluter Gewinn\/Verlust",
-      "PROFIT_AND_LOSS_PERCENT_BY": "Nach Gewinn \/ Verlust (%)",
-      "PROFIT_AND_LOSS_PERCENT_LABEL": "Gewinn \/ Verlust (%)",
-      "PROFIT_AND_LOSS_PERCENT": "Relativer Gewinn\/Verlust",
+      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Nach Gewinn / Verlust",
+      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Gewinn / Verlust ($)",
+      "PROFIT_AND_LOSS_ABSOLUTE": "Absoluter Gewinn/Verlust",
+      "PROFIT_AND_LOSS_PERCENT_BY": "Nach Gewinn / Verlust (%)",
+      "PROFIT_AND_LOSS_PERCENT_LABEL": "Gewinn / Verlust (%)",
+      "PROFIT_AND_LOSS_PERCENT": "Relativer Gewinn/Verlust",
       "PROMOTION": "Promotion",
       "QUERY_NOT_FOUND": "„{QUERY}“ wurde nicht gefunden",
       "QUEUED": "Warteschlange",
@@ -1290,7 +1290,7 @@
       "PROFILE_SHARE_USERNAME": "Meinen Benutzernamen anzeigen",
       "PROFILE_SHARE_ADDRESS": "Meine Brieftaschenadresse anzeigen",
       "SAVE_ORDER_AMOUNT": "Orderbetrag speichern",
-      "TAKE_PROFIT_STOP_LOSS": "Take-Profit \/ Stop-Loss"
+      "TAKE_PROFIT_STOP_LOSS": "Take-Profit / Stop-Loss"
     },
     "MORE_LINKS_MODAL": {
       "DOCUMENTATION_DESCRIPTION": "Traden Sie mit unserer API",
@@ -1318,7 +1318,7 @@
       "AVG_ENTRY_PRICE": "Durchschn. Einstiegspreis",
       "CUSTOM_AMOUNT_TOOLTIP": "Die Anpassung Ihres benutzerdefinierten Betrags gilt sowohl für Take-Profit- als auch für Stop-Loss-Orders.",
       "ENTER_TRIGGERS": "Trigger eingeben",
-      "LIMIT_PRICE_TOOLTIP": "Durch die Bestimmung eines Limitpreises platzieren Sie eine Take-Profit-Limit-Order und\/oder eine Stop-Limit-Order. Klicken Sie {DOCUMENTATION_LINK}für weitere Details.",
+      "LIMIT_PRICE_TOOLTIP": "Durch die Bestimmung eines Limitpreises platzieren Sie eine Take-Profit-Limit-Order und/oder eine Stop-Limit-Order. Klicken Sie {DOCUMENTATION_LINK}für weitere Details.",
       "MULTIPLE_ORDERS_FOUND": "Mehrere Orders gefunden.",
       "PRICE_TRIGGERS": "Preisauslöser",
       "PRICE_TRIGGERS_DESCRIPTION": "Minimieren Sie Verluste und sichern Sie Gewinne.",
@@ -1459,7 +1459,7 @@
       "AVERAGE_CLOSE": "Durchschnittlicher Abschluss",
       "AVERAGE_CLOSE_SHORT": "Schließen",
       "AVERAGE_OPEN": "Durchschnittlich geöffnet",
-      "AVERAGE_OPEN_CLOSE": "Durchschn. Öffnen \/ Schließen",
+      "AVERAGE_OPEN_CLOSE": "Durchschn. Öffnen / Schließen",
       "AVERAGE_OPEN_SHORT": "Eröffnen",
       "AVG_OPEN": "Durchschn. Eröffnen",
       "BASELINE_POSITION_SIZE": "Ausgangsposition Größe",
@@ -1472,7 +1472,7 @@
       "BUY_AMOUNT_ASSET": "Kaufen {AMOUNT} {ASSET}",
       "BUY_LONG": "| Long kaufen",
       "BUY_MARK_TOOLTIP": "Gekauft {ASSET_SIZE} {ASSET} bei {PRICE}",
-      "BUYS_SELLS_TOGGLE": "Kauft\/verkauft",
+      "BUYS_SELLS_TOGGLE": "Kauft/verkauft",
       "BUYS_SELLS_TOGGLE_TOOLTIP": "Anzeigen von historischen Käufen und Verkäufen",
       "CANCEL_ALL": "Alle abbrechen",
       "CANCEL_ORDER": "Order stornieren",
@@ -1505,7 +1505,7 @@
       "EDIT_MARGIN": "Marge bearbeiten",
       "EDIT_STOP_LOSS": "Stop-Loss bearbeiten",
       "EDIT_TAKE_PROFIT": "Take-Profit bearbeiten",
-      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Take-Profit-\/Stop-Loss-Auslöser bearbeiten",
+      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Take-Profit-/Stop-Loss-Auslöser bearbeiten",
       "ENTER_AMOUNT": "Geben Sie den Betrag ein",
       "ENTER_LIMIT_PRICE": "Geben Sie das Preislimit ein",
       "ENTER_TRIGGER_PRICE": "Geben Sie den Trigger-Preis ein",
@@ -2241,7 +2241,7 @@
       "MODAL_BUY_CTA": "USDC kaufen",
       "MODAL_CONFIRMATION": "Schließen Sie den Order-Vorgang auf Banxa ab, um USDC mit Fiat-Währung zu kaufen, und zwar ohne Gasgebühren. Prüfen Sie den Status Ihrer Order in Ihrer E-Mail oder wenden Sie sich an {BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "Auf Banxa abschließen",
-      "MODAL_LEGAL_DISCLAIMER": "Indem Sie auf \"USDC kaufen\" klicken, erkennen Sie an und erklären sich damit einverstanden, dass dieser Service Ihnen direkt von Banxa.com Pty Ltd. (\"Banxa\") angeboten wird und dYdX Trading Inc. (\"dYdX\") nicht beteiligt ist; dieser Dienst und jeder Kauf oder Verkauf von Kryptowährung im Austausch gegen einen Wert (einschließlich Fiat-Währung, Kryptowährung und Darlehen) erst erfolgt, nachdem Sie die Webseite und das Protokoll von dYdX verlassen haben; und jede Übertragung von Werten (einschließlich Senden, Empfangen und Verwahren von Werten) erfolgt direkt zwischen Ihrer Ethereum-Netzwerkadresse und Banxa. Dieser Service ist für Personen mit Wohnsitz in den Vereinigten Staaten nicht verfügbar. Sie erklären sich außerdem damit einverstanden, dass alle von Banxa angeforderten Informationen (einschließlich Kartennummer und KYC) nicht an dYdX weitergegeben werden und dass Sie dYdX nicht für irgendeinen Aspekt einer Transaktion oder Übertragung zwischen Ihnen und Banxa haftbar machen werden. Im Falle eines Widerspruchs gilt die englische Version dieser Erklärung, die Sie in den dYdX-Nutzungsbedingungen auf https:\/\/dydx.exchange\/legal einsehen können.",
+      "MODAL_LEGAL_DISCLAIMER": "Indem Sie auf \"USDC kaufen\" klicken, erkennen Sie an und erklären sich damit einverstanden, dass dieser Service Ihnen direkt von Banxa.com Pty Ltd. (\"Banxa\") angeboten wird und dYdX Trading Inc. (\"dYdX\") nicht beteiligt ist; dieser Dienst und jeder Kauf oder Verkauf von Kryptowährung im Austausch gegen einen Wert (einschließlich Fiat-Währung, Kryptowährung und Darlehen) erst erfolgt, nachdem Sie die Webseite und das Protokoll von dYdX verlassen haben; und jede Übertragung von Werten (einschließlich Senden, Empfangen und Verwahren von Werten) erfolgt direkt zwischen Ihrer Ethereum-Netzwerkadresse und Banxa. Dieser Service ist für Personen mit Wohnsitz in den Vereinigten Staaten nicht verfügbar. Sie erklären sich außerdem damit einverstanden, dass alle von Banxa angeforderten Informationen (einschließlich Kartennummer und KYC) nicht an dYdX weitergegeben werden und dass Sie dYdX nicht für irgendeinen Aspekt einer Transaktion oder Übertragung zwischen Ihnen und Banxa haftbar machen werden. Im Falle eines Widerspruchs gilt die englische Version dieser Erklärung, die Sie in den dYdX-Nutzungsbedingungen auf https://dydx.exchange/legal einsehen können.",
       "MODAL_NEED_HELP": "Brauchen Sie Hilfe?",
       "MODAL_SUBTITLE": "Kaufen Sie USDC über Banxa. Gelder werden direkt auf Ihr Konto eingezahlt,{NO_GAS_FEES_STYLED}",
       "NO_GAS_FEES_STYLED": "keine Gasgebühren erforderlich",
@@ -2291,7 +2291,7 @@
       "DEPOSIT_PROMO_STEP_3_VIEW_BONUS_TRANSFER": "Übertrag ansehen"
     },
     "REWARDS": {
-      "EPOCH_DISTRIBUTION_DESCRIPTION": "Alle 28 Tage wird\/werden {AMOUNT} {SYMBOL} an Händler auf dYdX verteilt. Sie erhalten Prämien proportional zu den von Ihnen gezahlten Gebühren, geteilt durch die von allen Händlern in dieser Epoche gezahlten Gebühren.",
+      "EPOCH_DISTRIBUTION_DESCRIPTION": "Alle 28 Tage wird/werden {AMOUNT} {SYMBOL} an Händler auf dYdX verteilt. Sie erhalten Prämien proportional zu den von Ihnen gezahlten Gebühren, geteilt durch die von allen Händlern in dieser Epoche gezahlten Gebühren.",
       "EPOCH_ENDS_IN": "Epoche endet in",
       "HOW_DO_DYDX_REWARDS_WORK": "Wie funktionieren die $DYDX-Prämien?",
       "REWARDS_CLAIMABLE": "Trading-Prämien können 7 Tage nach dem Ende jeder Epoche {DYDX_COMMUNITY}über von Smart Contracts, die von der bereitgestellt werden, beansprucht {DYDX_FOUNDATION}werden. Die Prämien für den Handel basieren auf Daten, die vom dYdX-Produkt bereitgestellt werden.",
@@ -2405,7 +2405,7 @@
       "LAUNCH_A_MARKET": "Einen Markt starten",
       "LAUNCH_ANOTHER_MARKET": "Einen weiteren Markt starten",
       "LAUNCH_MARKET": "Startmarkt",
-      "LAUNCH_MARKET_AGREEMENT": "Durch Klicken unten stimmen Sie zu, dass (a) ein erhebliches Risiko eines wirtschaftlichen Verlusts durch die Markteinführung besteht; (b) Sie allein verantwortlich für Verluste oder Haftung aus der Markteinführung sind; (c) es gibt keine festen oder garantierten Gewinne aus der Markteinführung; alle aufgeführten Gewinne sind unverbindlich und können erheblich variieren; (d) Sie die Entscheidung zur Markteinführung unabhängig getroffen haben und sich nicht auf Empfehlungen anderer Parteien (einschließlich des Betreibers dieser Website und des Softwareentwicklers des Codes) verlassen haben; und (e) Sie Ihre eigene Sorgfalt durchgeführt und\/oder einen qualifizierten Fachmann konsultiert haben, um Sie hinsichtlich der Rechtmäßigkeit, der Einhaltung der Vorschriften, der steuerlichen Behandlung, der Investitionen und der finanziellen Eignung der Markteinführung zu beraten.",
+      "LAUNCH_MARKET_AGREEMENT": "Durch Klicken unten stimmen Sie zu, dass (a) ein erhebliches Risiko eines wirtschaftlichen Verlusts durch die Markteinführung besteht; (b) Sie allein verantwortlich für Verluste oder Haftung aus der Markteinführung sind; (c) es gibt keine festen oder garantierten Gewinne aus der Markteinführung; alle aufgeführten Gewinne sind unverbindlich und können erheblich variieren; (d) Sie die Entscheidung zur Markteinführung unabhängig getroffen haben und sich nicht auf Empfehlungen anderer Parteien (einschließlich des Betreibers dieser Website und des Softwareentwicklers des Codes) verlassen haben; und (e) Sie Ihre eigene Sorgfalt durchgeführt und/oder einen qualifizierten Fachmann konsultiert haben, um Sie hinsichtlich der Rechtmäßigkeit, der Einhaltung der Vorschriften, der steuerlichen Behandlung, der Investitionen und der finanziellen Eignung der Markteinführung zu beraten.",
       "LAUNCH_MARKET_TERMS": "Markteinführungsvereinbarung",
       "LAUNCH_MARKETS": "Märkteeinführung",
       "LAUNCHING_MARKET_LOADING": "Market wird gestartet ...",
@@ -2489,7 +2489,7 @@
     },
     "RECLAIM_CHILD_SUBACCOUNT_FUNDS_MODAL": {
       "NO_FUNDS_TO_RECLAIM": "Es stehen keine Mittel zur Verfügung, die Sie beanspruchen können.",
-      "RECLAIM_FUNDS_SIGNING": "Nach der Rückforderung werden Sie aufgefordert, {NUM_TRANSACTIONS} Vorgang\/Vorgänge zu unterzeichnen, um die zuvor als Sicherheiten für den isolierten Margin-Handel verwendeten Mittel zurückzugeben."
+      "RECLAIM_FUNDS_SIGNING": "Nach der Rückforderung werden Sie aufgefordert, {NUM_TRANSACTIONS} Vorgang/Vorgänge zu unterzeichnen, um die zuvor als Sicherheiten für den isolierten Margin-Handel verwendeten Mittel zurückzugeben."
     }
   },
   "TOKEN_MIGRATION": {
@@ -2858,7 +2858,7 @@
       "TRANSFERS_PAUSED_ACTION": "Transfers pausiert"
     },
     "ONBOARDING": {
-      "ALWAYS_VERIFY_URL": "Überprüfen und verifizieren Sie immer, ob Sie sich auf https:\/\/trade.dydx.exchange befinden, wenn Sie Ihre Schlüssel wiederherstellen.",
+      "ALWAYS_VERIFY_URL": "Überprüfen und verifizieren Sie immer, ob Sie sich auf https://trade.dydx.exchange befinden, wenn Sie Ihre Schlüssel wiederherstellen.",
       "NOBLE_CHAIN_ONLY": "Diese Adresse ist nur für Noble USDC-Überweisungen an die Noble Chain bestimmt. Der Versand von Geld aus anderen Blockchains führt zum Verlust dieser Gelder."
     },
     "TRADE_BOX": {

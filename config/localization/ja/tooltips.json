@@ -1,14 +1,14 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": "dYdXチェーンアドレス「{DYDX_ADDRESS}」は、イーサリアムアドレス「{EVM_ADDRESS}」の署名から作成されました。"
+      "BODY": "H2チェーンアドレス「{DYDX_ADDRESS}」は、イーサリアムアドレス「{EVM_ADDRESS}」の署名から作成されました。"
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "dYdXチェーンアドレス「{DYDX_ADDRESS}」は、Solanaアドレス「{SOLANA_ADDRESS}」の署名から作成されました。"
+      "BODY": "H2チェーンアドレス「{DYDX_ADDRESS}」は、Solanaアドレス「{SOLANA_ADDRESS}」の署名から作成されました。"
     },
     "LEGACY_SIGNING": {
       "TITLE": "レガシー署名",
-      "BODY": "以前にハードウェアウォレット署名\/レガシー署名を使用してキーを生成した場合にのみ、このオプションにチェックを入れてください。"
+      "BODY": "以前にハードウェアウォレット署名/レガシー署名を使用してキーを生成した場合にのみ、このオプションにチェックを入れてください。"
     },
     "REMEMBER_ME": {
       "TITLE": "情報を記憶する",
@@ -126,7 +126,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "指値注文価格",
-      "BODY": "指値を特定することで、利益確定指値注文および\/または逆指値注文を行うことになります。{DOCUMENTATION_LINK}をクリック詳細をご覧ください。"
+      "BODY": "指値を特定することで、利益確定指値注文および/または逆指値注文を行うことになります。{DOCUMENTATION_LINK}をクリック詳細をご覧ください。"
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "スリッページ",

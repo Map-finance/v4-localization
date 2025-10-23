@@ -1,14 +1,14 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": "Seu endereço de cadeia dYdX “{DYDX_ADDRESS}” foi criado a partir da assinatura do endereço Ethereum “{EVM_ADDRESS}”."
+      "BODY": "Seu endereço de cadeia H2 “{DYDX_ADDRESS}” foi criado a partir da assinatura do endereço Ethereum “{EVM_ADDRESS}”."
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "Seu endereço da cadeia dYdX “{DYDX_ADDRESS}” foi criado a partir da assinatura do endereço Solana “{SOLANA_ADDRESS}”."
+      "BODY": "Seu endereço da cadeia H2 “{DYDX_ADDRESS}” foi criado a partir da assinatura do endereço Solana “{SOLANA_ADDRESS}”."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Assinatura legada",
-      "BODY": "Marque esta opção apenas se você já usou a assinatura com carteira de hardware\/assinatura legada para gerar suas chaves."
+      "BODY": "Marque esta opção apenas se você já usou a assinatura com carteira de hardware/assinatura legada para gerar suas chaves."
     },
     "REMEMBER_ME": {
       "TITLE": "Lembrar-me",
@@ -110,7 +110,7 @@
     },
     "LEVERAGE": {
       "TITLE": "Alavancagem",
-      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia \/ perderia em um trade com o mesmo movimento de preço."
+      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia / perderia em um trade com o mesmo movimento de preço."
     },
     "LIMIT_CLOSE": {
       "TITLE": "Fechamento limite",
@@ -122,7 +122,7 @@
     },
     "LIMIT_PRICE_LEARN_MORE": {
       "TITLE": "Preço limite",
-      "BODY": "Ao identificar um preço limite, você está realizando uma ordem limite de Take profit e\/ou de Stop. Clique em {DOCUMENTATION_LINK} para mais detalhes."
+      "BODY": "Ao identificar um preço limite, você está realizando uma ordem limite de Take profit e/ou de Stop. Clique em {DOCUMENTATION_LINK} para mais detalhes."
     },
     "LIMIT_PRICE_SLIPPAGE": {
       "TITLE": "Slippage",
@@ -178,7 +178,7 @@
     },
     "NET_FUNDING": {
       "TITLE": "Financiamento líquido",
-      "BODY": "Financiamento total ganho\/pago para a vida útil da posição atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
+      "BODY": "Financiamento total ganho/pago para a vida útil da posição atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
     },
     "OPEN_INTEREST": {
       "TITLE": "Contratos em aberto",
@@ -214,7 +214,7 @@
     },
     "POSITION_LEVERAGE": {
       "TITLE": "Alavancagem de posição",
-      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia \/ perderia em um trade com o mesmo movimento de preço."
+      "BODY": "A alavancagem altera o multiplicador nos seus ganhos ou perdas. Aumentar sua alavancagem aumenta o quanto você ganharia / perderia em um trade com o mesmo movimento de preço."
     },
     "POST_ONLY": {
       "TITLE": "Somente postagem",
@@ -229,8 +229,8 @@
       "BODY": "A diferença entre o preço de execução esperado para sua ordem e a melhor ordem na compra ou venda. Essa diferença será maior para trades maiores."
     },
     "REALIZED_PNL": {
-      "TITLE": "Lucro\/perda realizados",
-      "BODY": "Lucros\/perdas totais realizados para esta posição por meio de fechamentos parciais, taxas e financiamento. É redefinido se você fechar totalmente sua posição ou alterar o tipo de posição (long para short ou vice-versa)."
+      "TITLE": "Lucro/perda realizados",
+      "BODY": "Lucros/perdas totais realizados para esta posição por meio de fechamentos parciais, taxas e financiamento. É redefinido se você fechar totalmente sua posição ou alterar o tipo de posição (long para short ou vice-versa)."
     },
     "REDUCE_ONLY": {
       "TITLE": "Apenas redução",
@@ -253,8 +253,8 @@
       "BODY": "A diferença de preço entre a oferta mais elevada (ou seja, o preço pelo qual um comprador está disposto a comprar) e o menor preço de venda (o preço pelo qual o vendedor está disposto a fazer a venda) de um ativo."
     },
     "STEP_SIZE": {
-      "TITLE": "Intervalo de aumento\/redução",
-      "BODY": "O intervalo de aumento\/redução é o menor fator permitido a valores de ordem neste mercado."
+      "TITLE": "Intervalo de aumento/redução",
+      "BODY": "O intervalo de aumento/redução é o menor fator permitido a valores de ordem neste mercado."
     },
     "STOP_LOSS": {
       "TITLE": "Stop loss",
@@ -294,11 +294,11 @@
     },
     "TRIGGER_PRICE": {
       "TITLE": "Preço de disparo",
-      "BODY": "Quando o preço do oráculo deste mercado cruzar seu preço de disparo, sua ordem de stop\/take profit será convertida em uma ordem limite ou será executada como uma ordem de mercado."
+      "BODY": "Quando o preço do oráculo deste mercado cruzar seu preço de disparo, sua ordem de stop/take profit será convertida em uma ordem limite ou será executada como uma ordem de mercado."
     },
     "UNREALIZED_PNL": {
-      "TITLE": "Lucros \/ perdas não realizados",
-      "BODY": "O total de lucro\/perda se você fechasse completamente o restante da sua posição atual no preço do oráculo atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
+      "TITLE": "Lucros / perdas não realizados",
+      "BODY": "O total de lucro/perda se você fechasse completamente o restante da sua posição atual no preço do oráculo atual. É redefinido se você fechar sua posição ou alterar o tipo de posição (long para short, ou vice-versa)."
     },
     "REWARD_HISTORY": {
       "BODY": "A hora é exibida no Tempo Universal Coordenado (UTC)"

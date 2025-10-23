@@ -127,7 +127,7 @@
       "DECREASED": "diminué",
       "DECREASING": "Décroissant",
       "DEFAULT": "Par défaut",
-      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Par défaut, tous les marchés dans les positions \/ ordres \/ exécutions",
+      "DEFAULT_TO_ALL_MARKETS_IN_POSITIONS": "Par défaut, tous les marchés dans les positions / ordres / exécutions",
       "DEFI": "DeFi",
       "DEGRADED": "Dégradé",
       "DEPIN": "DePIN",
@@ -149,7 +149,7 @@
       "DONT_SHOW_ME_AGAIN": "Ne me montrez plus ce message",
       "DOWNLOAD_IOS_APP": "Télécharger l'application iOS",
       "DOWNLOAD_MOBILE_APP": "Télécharger l'application mobile",
-      "DYDX_CHAIN_ADDRESS": "Adresse de la chaîne dYdX",
+      "DYDX_CHAIN_ADDRESS": "Adresse de la chaîne H2",
       "DYDX_CHAIN": " Chaîne dYdX",
       "EARNED": "Gagné",
       "EDIT": "Modifier",
@@ -303,11 +303,11 @@
       "PRIVATE": "Privé",
       "PRIZE": "Prix",
       "PROFILE": "Profil",
-      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Par Bénéfice \/ Perte",
-      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Bénéfice \/ Perte ($)",
+      "PROFIT_AND_LOSS_ABSOLUTE_BY": "Par Bénéfice / Perte",
+      "PROFIT_AND_LOSS_ABSOLUTE_LABEL": "Bénéfice / Perte ($)",
       "PROFIT_AND_LOSS_ABSOLUTE": "Bénéfice et perte absolus",
-      "PROFIT_AND_LOSS_PERCENT_BY": "Par Bénéfice \/ Perte (Pourcentage)",
-      "PROFIT_AND_LOSS_PERCENT_LABEL": "Bénéfice \/ Perte (%)",
+      "PROFIT_AND_LOSS_PERCENT_BY": "Par Bénéfice / Perte (Pourcentage)",
+      "PROFIT_AND_LOSS_PERCENT_LABEL": "Bénéfice / Perte (%)",
       "PROFIT_AND_LOSS_PERCENT": "Bénéfice et perte relatifs",
       "PROMOTION": "Promotion",
       "QUERY_NOT_FOUND": "Aucun résultat pour « {QUERY} »",
@@ -431,7 +431,7 @@
       "WELCOME_BACK": "Bienvenue à nouveau",
       "WHITEPAPER": "Livre blanc",
       "WITHDRAW": "Retrait",
-      "WITHDRAW_SLIPPAGE_WARNING": "Vous payez  ${DOLLAR_AMOUNT} ({PERCENT_AMOUNT} %) de frais et\/ou de slippage lors de ce retrait. Le choix d'une chaîne cible ou d'un montant de retrait différent ou l'attente de plusieurs minutes peut entraîner des frais moins élevés.",
+      "WITHDRAW_SLIPPAGE_WARNING": "Vous payez  ${DOLLAR_AMOUNT} ({PERCENT_AMOUNT} %) de frais et/ou de slippage lors de ce retrait. Le choix d'une chaîne cible ou d'un montant de retrait différent ou l'attente de plusieurs minutes peut entraîner des frais moins élevés.",
       "YES": "Oui",
       "YOU": "Vous",
       "YOUR_ACCOUNT": "Votre compte",
@@ -1314,7 +1314,7 @@
       "PROFILE_SHARE_USERNAME": "Afficher mon nom d'utilisateur",
       "PROFILE_SHARE_ADDRESS": "Afficher l'adresse de mon portefeuille",
       "SAVE_ORDER_AMOUNT": "Enregistrer le montant de l'ordre",
-      "TAKE_PROFIT_STOP_LOSS": "Take Profit \/ Stop Loss"
+      "TAKE_PROFIT_STOP_LOSS": "Take Profit / Stop Loss"
     },
     "MORE_LINKS_MODAL": {
       "DOCUMENTATION_DESCRIPTION": "Tradez avec notre API",
@@ -1342,7 +1342,7 @@
       "AVG_ENTRY_PRICE": "Moy. Prix d'entrée",
       "CUSTOM_AMOUNT_TOOLTIP": "L'ajustement de votre montant personnalisé s'appliquera aux ordres Take Profit et Stop Loss.",
       "ENTER_TRIGGERS": "Saisir le(s) déclencheur(s)",
-      "LIMIT_PRICE_TOOLTIP": "En identifiant un prix limite, vous placez un ordre de limite Take Profit et\/ou un ordre stop limit. Cliquez ici {DOCUMENTATION_LINK} pour plus d'informations.",
+      "LIMIT_PRICE_TOOLTIP": "En identifiant un prix limite, vous placez un ordre de limite Take Profit et/ou un ordre stop limit. Cliquez ici {DOCUMENTATION_LINK} pour plus d'informations.",
       "MULTIPLE_ORDERS_FOUND": "Plusieurs ordres trouvés.",
       "PRICE_TRIGGERS": "Déclencheurs de prix",
       "PRICE_TRIGGERS_DESCRIPTION": "Minimiser les pertes et sécuriser les profits.",
@@ -1485,7 +1485,7 @@
       "AVERAGE_CLOSE": "Clôture moyenne",
       "AVERAGE_CLOSE_SHORT": "Fermer",
       "AVERAGE_OPEN": "Ouverture moyenne",
-      "AVERAGE_OPEN_CLOSE": "Moy. Ouvrir \/ Fermer",
+      "AVERAGE_OPEN_CLOSE": "Moy. Ouvrir / Fermer",
       "AVERAGE_OPEN_SHORT": "Ouvert",
       "AVG_OPEN": "Moy. Ouvert",
       "BASELINE_POSITION_SIZE": "Taille de la position de base",
@@ -1498,7 +1498,7 @@
       "BUY_AMOUNT_ASSET": "Acheter {AMOUNT} {ASSET}",
       "BUY_LONG": "Acheter | Long",
       "BUY_MARK_TOOLTIP": "Acheté {ASSET_SIZE} {ASSET} à {PRICE}",
-      "BUYS_SELLS_TOGGLE": "Achats\/ventes",
+      "BUYS_SELLS_TOGGLE": "Achats/ventes",
       "BUYS_SELLS_TOGGLE_TOOLTIP": "Afficher l'historique des achats et des ventes",
       "CANCEL_ALL": "Tout annuler",
       "CANCEL_ORDER": "Annuler l'ordre",
@@ -1531,7 +1531,7 @@
       "EDIT_MARGIN": "Modifier la marge",
       "EDIT_STOP_LOSS": "Modifier l'arrêt de la perte",
       "EDIT_TAKE_PROFIT": "Modifier le take profit",
-      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Modifier les déclencheurs de Take Profit \/ Stop Loss",
+      "EDIT_TAKE_PROFIT_STOP_LOSS_TRIGGERS": "Modifier les déclencheurs de Take Profit / Stop Loss",
       "ENTER_AMOUNT": "Saisissez le montant",
       "ENTER_LIMIT_PRICE": "Introduire le prix limite",
       "ENTER_TRIGGER_PRICE": "Introduire le prix de déclenchement",
@@ -2353,7 +2353,7 @@
       "MODAL_BUY_CTA": "Achetez des USDC",
       "MODAL_CONFIRMATION": "Complétez le flux de commande sur Banxa pour acheter des USDC avec de la monnaie fiat, sans frais de gaz. Vérifiez l'état de votre commande dans votre boite e-mail ou contactez {BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "Terminer sur Banxa",
-      "MODAL_LEGAL_DISCLAIMER": "En cliquant sur « Achetez des USDC », vous reconnaissez et acceptez que ce service vous est fourni directement par Banxa.com Pty Ltd. (« Banxa ») et n'implique pas dYdX Trading Inc. (« dYdX ») ; Ce service et tout achat ou vente de crypto-monnaie en échange d'une valeur (y compris la monnaie fiduciaire, la cryptomonnaie et un prêt) n'auront lieu qu'une fois que vous avez quitté le site Web et le protocole dYdX ; et toute transmission de valeur (y compris la valeur d'envoi, de réception et de conservation) aura lieu directement entre votre adresse du réseau Ethereum et Banxa. Ce service n'est pas disponible pour les personnes situées aux États-Unis. Vous acceptez également que toute information qui vous est demandée par Banxa (y compris le numéro de carte et l'« identité du client ») n'est pas transmise à dYdX et vous ne tiendrez pas dYdX responsable de tout aspect de transaction ou de transmission entre vous et Banxa. En cas de conflit, la version anglaise de cette déclaration prévaudra. On peut y accéder dans les Conditions d'utilisation de dYdX à l'adresse https:\/\/dydx.exchange\/legal.",
+      "MODAL_LEGAL_DISCLAIMER": "En cliquant sur « Achetez des USDC », vous reconnaissez et acceptez que ce service vous est fourni directement par Banxa.com Pty Ltd. (« Banxa ») et n'implique pas dYdX Trading Inc. (« dYdX ») ; Ce service et tout achat ou vente de crypto-monnaie en échange d'une valeur (y compris la monnaie fiduciaire, la cryptomonnaie et un prêt) n'auront lieu qu'une fois que vous avez quitté le site Web et le protocole dYdX ; et toute transmission de valeur (y compris la valeur d'envoi, de réception et de conservation) aura lieu directement entre votre adresse du réseau Ethereum et Banxa. Ce service n'est pas disponible pour les personnes situées aux États-Unis. Vous acceptez également que toute information qui vous est demandée par Banxa (y compris le numéro de carte et l'« identité du client ») n'est pas transmise à dYdX et vous ne tiendrez pas dYdX responsable de tout aspect de transaction ou de transmission entre vous et Banxa. En cas de conflit, la version anglaise de cette déclaration prévaudra. On peut y accéder dans les Conditions d'utilisation de dYdX à l'adresse https://dydx.exchange/legal.",
       "MODAL_NEED_HELP": "Besoin d'aide ?",
       "MODAL_SUBTITLE": "Achetez des USDC via Banxa. Les fonds seront directement déposés sur votre compte, {NO_GAS_FEES_STYLED}.",
       "NO_GAS_FEES_STYLED": "pas de frais de gaz requis",
@@ -2517,7 +2517,7 @@
       "LAUNCH_A_MARKET": "Lancer un marché",
       "LAUNCH_ANOTHER_MARKET": "Lancer un autre marché",
       "LAUNCH_MARKET": "Lancer un marché",
-      "LAUNCH_MARKET_AGREEMENT": "En cliquant ci-dessous, vous acceptez que (a) il existe un risque matériel de perte financière en lançant un marché ; (b) vous êtes seul responsable de toute perte ou responsabilité liée au lancement d'un marché ; (c) il n'y a pas de gains fixes ou garantis lors du lancement d'un marché, tous les gains indiqués sont indicatifs et pourraient varier de manière significative ; (d) vous avez pris de manière indépendante la décision de lancer le marché et ne vous êtes fié à aucune recommandation d'une autre partie (y compris, l'opérateur de ce site et le développeur du logiciel du code) ; et (e) vous avez effectué votre propre diligence et\/ou fait appel à un professionnel qualifié pour vous informer de la légalité, du respect de la réglementation, du traitement fiscal, de l'investissement et de l'adéquation financière du lancement d'un marché.",
+      "LAUNCH_MARKET_AGREEMENT": "En cliquant ci-dessous, vous acceptez que (a) il existe un risque matériel de perte financière en lançant un marché ; (b) vous êtes seul responsable de toute perte ou responsabilité liée au lancement d'un marché ; (c) il n'y a pas de gains fixes ou garantis lors du lancement d'un marché, tous les gains indiqués sont indicatifs et pourraient varier de manière significative ; (d) vous avez pris de manière indépendante la décision de lancer le marché et ne vous êtes fié à aucune recommandation d'une autre partie (y compris, l'opérateur de ce site et le développeur du logiciel du code) ; et (e) vous avez effectué votre propre diligence et/ou fait appel à un professionnel qualifié pour vous informer de la légalité, du respect de la réglementation, du traitement fiscal, de l'investissement et de l'adéquation financière du lancement d'un marché.",
       "LAUNCH_MARKET_TERMS": "Lancer l'accord de marché",
       "LAUNCH_MARKETS": "Marchés de lancement",
       "LAUNCHING_MARKET_LOADING": "Lancement du marché...",
@@ -2746,7 +2746,7 @@
       "VALIDATOR_RESPONSE_500": "Erreur de connexion au réseau. Veuillez réessayer.",
       "TIMESTAMP_DISCREPANCY": "Pour des raisons de sécurité, nous vérifions les horodatages lors de l'authentification de votre compte. Assurez-vous que votre horloge système est correctement synchronisée et actualisez l'application.",
       "FAILED_COMMIT_CONFIRMATION": "Impossible de confirmer la transaction de la chaîne. Vous pouvez actualiser pour obtenir le dernier état.",
-      "NO_ORDERS_TO_CANCEL": "Impossible de trouver l'ordre\/les ordres ouvert(s) à annuler.",
+      "NO_ORDERS_TO_CANCEL": "Impossible de trouver l'ordre/les ordres ouvert(s) à annuler.",
       "NO_POSITIONS_TO_CLOSE": "Impossible de trouver des positions ouvertes à fermer.",
       "UNKNOWN_VALIDATOR_HEIGHT": "Impossible de soumettre l'ordre car la hauteur de la chaîne est inconnue. Veuillez réessayer.",
       "NO_LOCAL_WALLET": "Impossible de soumettre l'ordre car l'état du portefeuille local est inconnu. Veuillez réessayer."
@@ -2923,7 +2923,7 @@
       "WALLET_NO_TRANSACTIONS": "Ce portefeuille n'a pas de fonds et aucune transaction précédente. Veuillez déposer des fonds dans votre portefeuille pour continuer l'intégration."
     },
     "TURNKEY_ONBOARDING": {
-      "INVALID_TURNKEY_EMAIL_LINK": "Votre lien e-mail a expiré ou vous utilisez un appareil\/navigateur différent de celui utilisé pour vous connecter. Veuillez réessayer.",
+      "INVALID_TURNKEY_EMAIL_LINK": "Votre lien e-mail a expiré ou vous utilisez un appareil/navigateur différent de celui utilisé pour vous connecter. Veuillez réessayer.",
       "USER_ALREADY_HAS_TURNKEY": "Cet e-mail est déjà associé à un compte dYdX. Connectez-vous en utilisant le champ de saisie de l'e-mail."
     },
     "DEPOSIT_MODAL": {
@@ -2992,7 +2992,7 @@
       "TRANSFERS_PAUSED_ACTION": "Transferts suspendus"
     },
     "ONBOARDING": {
-      "ALWAYS_VERIFY_URL": "Vérifiez toujours que vous êtes sur https:\/\/trade.dydx.exchange lors de la récupération de vos clés.",
+      "ALWAYS_VERIFY_URL": "Vérifiez toujours que vous êtes sur https://trade.dydx.exchange lors de la récupération de vos clés.",
       "NOBLE_CHAIN_ONLY": "Cette adresse est uniquement destinée aux transferts USDC de Noble vers la chaîne Noble. L'envoi de fonds provenant d'autres chaînes de blocs entraînera la perte de ces fonds."
     },
     "TRADE_BOX": {

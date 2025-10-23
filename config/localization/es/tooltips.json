@@ -1,10 +1,10 @@
 {
   "GENERAL": {
     "DYDX_ADDRESS_FROM_ETHEREUM": {
-      "BODY": "Tu dirección de la cadena dYdX \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección de Ethereum \"{EVM_ADDRESS}\"."
+      "BODY": "Tu dirección de la cadena H2 \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección de Ethereum \"{EVM_ADDRESS}\"."
     },
     "DYDX_ADDRESS_FROM_SOLANA": {
-      "BODY": "Tu dirección de la cadena dYdX \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección de Solana \"{SOLANA_ADDRESS}\"."
+      "BODY": "Tu dirección de la cadena H2 \"{DYDX_ADDRESS}\" se creó a partir de la firma de la dirección de Solana \"{SOLANA_ADDRESS}\"."
     },
     "LEGACY_SIGNING": {
       "TITLE": "Firma de patrimonio",
