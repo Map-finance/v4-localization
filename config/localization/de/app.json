@@ -2820,7 +2820,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "Der Betrag muss größer als {NUMBER} {TOKEN}",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "Ungültige dYdX-Chain-Adresse.",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "Ungültige H2-Chain-Adresse.",
       "TRANSFER_INVALID_ETH_ADDRESS": "Wir konnten kein mit dieser Wallet-Adresse verknüpftes Konto finden.",
       "TRANSFER_MORE_THAN_FREE": "Sie können nicht mehr als Ihre kostenlosen Sicherheiten übertragen.",
       "TRANSFER_TO_YOURSELF": "Sie können keine direkte Überweisung an Ihre eigene Wallet-Adresse durchführen.",

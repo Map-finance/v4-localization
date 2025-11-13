@@ -2951,7 +2951,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "金额必须大于 {NUMBER} {TOKEN}",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "无效的 dYdX 链地址。",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "无效的 H2 链地址。",
       "TRANSFER_INVALID_ETH_ADDRESS": "我们无法找到与此钱包地址关联的账户。",
       "TRANSFER_MORE_THAN_FREE": "您的转账金额不得超过可用质押品的金额。",
       "TRANSFER_TO_YOURSELF": "您无法直接转帐到自己的钱包地址。",

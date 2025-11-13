@@ -2951,7 +2951,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "金額は、{NUMBER}{TOKEN}より大きくなければなりません",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "無効なdYdXチェーンアドレスです。",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "無効なH2チェーンアドレスです。",
       "TRANSFER_INVALID_ETH_ADDRESS": "このウォレットアドレスに関連付けられている口座が見つかりませんでした。",
       "TRANSFER_MORE_THAN_FREE": "担保不要額を超える金額を送金することはできません。",
       "TRANSFER_TO_YOURSELF": "自分自身のウォレットアドレスへのダイレクト送金はできません。",

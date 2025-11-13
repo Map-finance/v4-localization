@@ -2820,7 +2820,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "La cantidad debe ser mayor que {NUMBER} {TOKEN}",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "Dirección de la cadena dYdX no válida.",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "Dirección de la cadena H2 no válida.",
       "TRANSFER_INVALID_ETH_ADDRESS": "No hemos podido encontrar una cuenta asociada a esta dirección de la billetera.",
       "TRANSFER_MORE_THAN_FREE": "No puedes transferir más que la garantía gratuita.",
       "TRANSFER_TO_YOURSELF": "No puedes realizar una transferencia directa a tu propia dirección de billetera.",

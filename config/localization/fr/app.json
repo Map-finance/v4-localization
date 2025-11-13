@@ -2951,7 +2951,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "Le montant doit être supérieur à {NUMBER} {TOKEN}",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "Adresse de la chaîne dYdX invalide.",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "Adresse de la chaîne H2 invalide.",
       "TRANSFER_INVALID_ETH_ADDRESS": "Nous n'avons pas pu trouver de compte associé à cette adresse de portefeuille.",
       "TRANSFER_MORE_THAN_FREE": "Vous ne pouvez pas transférer plus que votre collatéral disponible.",
       "TRANSFER_TO_YOURSELF": "Vous ne pouvez pas effectuer de transfert direct vers votre propre adresse de portefeuille.",

@@ -2951,7 +2951,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "Сумма должна быть больше {NUMBER} {TOKEN}",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "Неверный адрес блокчейна dYdX.",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "Неверный адрес блокчейна H2.",
       "TRANSFER_INVALID_ETH_ADDRESS": "Нам не удалось найти счет, связанный с этим адресом кошелька.",
       "TRANSFER_MORE_THAN_FREE": "Вы не можете перевести сумму, которая превышает сумму свободного залогового обеспечения.",
       "TRANSFER_TO_YOURSELF": "Вы не можете выполнить прямой перевод на адрес собственного кошелька.",

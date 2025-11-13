@@ -2820,7 +2820,7 @@
     },
     "TRANSFER_MODAL": {
       "AMOUNT_MINIMUM_ERROR": "Miktar {NUMBER} {TOKEN} tutarından büyük olmalıdır",
-      "TRANSFER_INVALID_DYDX_ADDRESS": "Geçersiz dYdX Zincir adresi.",
+      "TRANSFER_INVALID_DYDX_ADDRESS": "Geçersiz H2 Zincir adresi.",
       "TRANSFER_INVALID_ETH_ADDRESS": "Bu cüzdan adresi ile ilişkili bir hesap bulamadık.",
       "TRANSFER_MORE_THAN_FREE": "Ücretsiz teminatınızdan daha fazlasını transfer edemezsiniz.",
       "TRANSFER_TO_YOURSELF": "Kendi cüzdan adresinize doğrudan transfer işlemi yapamazsınız.",
