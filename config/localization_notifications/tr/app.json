@@ -94,7 +94,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "Gaz miktarı düşük mü?",
-      "BODY": "dYdX zinciri üzerinde gaz ücretlerini ödemek için cüzdan bakiyenizin ${MIN_RANGE} - ${MAX_RANGE} arasında kalmasını öneririz."
+      "BODY": "H2 zinciri üzerinde gaz ücretlerini ödemek için cüzdan bakiyenizin ${MIN_RANGE} - ${MAX_RANGE} arasında kalmasını öneririz."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Fonları geri al",

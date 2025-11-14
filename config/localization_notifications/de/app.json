@@ -94,7 +94,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "Wenig Gas?",
-      "BODY": "Wir empfehlen, dass Ihr Wallet-Guthaben zwischen {MIN_RANGE} $ – {MAX_RANGE} $ bleibt, um Gasgebühren auf der dYdX-Blockchain zu bezahlen."
+      "BODY": "Wir empfehlen, dass Ihr Wallet-Guthaben zwischen {MIN_RANGE} $ – {MAX_RANGE} $ bleibt, um Gasgebühren auf der H2-Blockchain zu bezahlen."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Mittel zurückfordern",

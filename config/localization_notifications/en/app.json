@@ -102,7 +102,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "Low on Gas?",
-      "BODY": "We recommend your wallet balance remain between ${MIN_RANGE} - ${MAX_RANGE} to pay for gas fees on dYdX chain."
+      "BODY": "We recommend your wallet balance remain between ${MIN_RANGE} - ${MAX_RANGE} to pay for gas fees on H2 chain."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Reclaim funds",

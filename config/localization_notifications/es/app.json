@@ -94,7 +94,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "¿Poco gas?",
-      "BODY": "Recomendamos que el balance de tu billetera permanezca entre ${MIN_RANGE} - ${MAX_RANGE} para pagar las tarifas de gas en la cadena dYdX."
+      "BODY": "Recomendamos que el balance de tu billetera permanezca entre ${MIN_RANGE} - ${MAX_RANGE} para pagar las tarifas de gas en la cadena H2."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Recuperar fondos",

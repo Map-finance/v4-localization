@@ -102,7 +102,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "À court de gaz ?",
-      "BODY": "Nous vous recommandons de maintenir votre solde de portefeuille entre {MIN_RANGE} $ et {MAX_RANGE} $ pour payer les frais de gaz sur la chaîne dYdX."
+      "BODY": "Nous vous recommandons de maintenir votre solde de portefeuille entre {MIN_RANGE} $ et {MAX_RANGE} $ pour payer les frais de gaz sur la chaîne H2."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Récupérer des fonds",

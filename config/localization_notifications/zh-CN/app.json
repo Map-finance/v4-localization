@@ -102,7 +102,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "Gas 不足？",
-      "BODY": "我们建议您将钱包余额保持在 {MIN_RANGE} 美元至 {MAX_RANGE} 美元之间，以便支付 dYdX 链的 Gas 费。"
+      "BODY": "我们建议您将钱包余额保持在 {MIN_RANGE} 美元至 {MAX_RANGE} 美元之间，以便支付 H2 链的 Gas 费。"
     },
     "RECLAIM_FUNDS": {
       "TITLE": "收回资金",

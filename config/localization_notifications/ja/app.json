@@ -102,7 +102,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "ガス代が不足していますか？",
-      "BODY": "dYdXチェーンのガス代を支払うには、ウォレット残高は${MIN_RANGE}〜${MAX_RANGE}の間に維持することを推奨します。"
+      "BODY": "H2チェーンのガス代を支払うには、ウォレット残高は${MIN_RANGE}〜${MAX_RANGE}の間に維持することを推奨します。"
     },
     "RECLAIM_FUNDS": {
       "TITLE": "資金の回収",

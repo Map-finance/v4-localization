@@ -94,7 +94,7 @@
     },
     "LOW_ON_GAS": {
       "TITLE": "Está com pouco gas?",
-      "BODY": "Recomendamos que o saldo da carteira permaneça entre US${MIN_RANGE} e US${MAX_RANGE} para pagar taxas de gas na cadeia dYdX."
+      "BODY": "Recomendamos que o saldo da carteira permaneça entre US${MIN_RANGE} e US${MAX_RANGE} para pagar taxas de gas na cadeia H2."
     },
     "RECLAIM_FUNDS": {
       "TITLE": "Reivindicar fundos",
