@@ -1821,7 +1821,12 @@
       "FILLS_LABEL": "Execuções",
       "MARKET_CAP_TRILLION": "US${0}T MC",
       "MARKET_CAP_BILLION": "US${0}B MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "Livro de ordens",
+      "TOTAL_ASSETS": "Ativos totais",
+      "SPOT_POSITIONS": "Posições spot",
+      "NO_BALANCE_DATA_AVAILABLE": "Nenhum dado de saldo disponível",
+      "SPOT_POSITIONS_DESCRIPTION": "Visualize suas posições de ativos spot"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "Vender limite de draft a {PRICE}",

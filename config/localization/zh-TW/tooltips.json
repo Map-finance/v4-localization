@@ -1,0 +1,455 @@
+{
+  "GENERAL": {
+    "DYDX_ADDRESS_FROM_ETHEREUM": {
+      "BODY": " 您的 H2 鏈地址“{DYDX_ADDRESS}”根據以太坊地址“{EVM_ADDRESS}”的簽名創建。"
+    },
+    "DYDX_ADDRESS_FROM_SOLANA": {
+      "BODY": "您的H2鏈地址“{DYDX_ADDRESS}”是根據Solana地址“{SOLANA_ADDRESS}”的簽名創建的"
+    },
+    "LEGACY_SIGNING": {
+      "TITLE": "舊版簽名",
+      "BODY": "僅當您之前使用硬件錢包簽名/舊版簽名生成過密鑰，才勾選此選項。"
+    },
+    "REMEMBER_ME": {
+      "TITLE": "記住我",
+      "BODY": "僅在您使用屬於自己的安全設備時，才使用“記住我”選項。如果您使用的是公共設備或非安全設備，選擇此項可能導致您的密鑰和信息泄露給他人。"
+    }
+  },
+  "AFFILIATES": {
+    "AFFILIATE_COMMISSIONS": {
+      "TITLE": "聯盟佣金",
+      "BODY": "聯盟成員通過推薦用户支付的吃單費賺取佣金。要生成聯盟佣金分成，被推薦用户在進行交易時，其滾動 30 天交易量必須低於 5000 萬美元。"
+    }
+  },
+  "PORTFOLIO": {
+    "HOLDING_HEDGIES": {
+      "TITLE": "Hedgies 折扣",
+      "BODY": "持有一個{NFT}將使您的費用折扣等級提高一級。持有多個不會獲得額外的等級提升。"
+    }
+  },
+  "TRADE": {
+    "ACCOUNT_LEVERAGE": {
+      "TITLE": "賬户槓桿",
+      "BODY": "您的賬户槓桿取決於所有敞口頭寸。由於您的賬户是交叉保證金賬户，因此每個敞口頭寸都有其自身的槓桿，同時也會影響整體賬户槓桿。"
+    },
+    "AVAILABLE_BALANCE": {
+      "TITLE": "可用餘額",
+      "BODY": "交叉保證金賬户中可用於交易或提現的質押金額。"
+    },
+    "BASE_POSITION_NOTIONAL": {
+      "TITLE": "基準頭寸名義價值",
+      "BODY": "保證金要求未增加時的最大頭寸數量。"
+    },
+    "BRACKET_ORDER_SL": {
+      "TITLE": "止損",
+      "BODY": "當前觸發價，用於執行該一籃子訂單的止損操作。"
+    },
+    "BRACKET_ORDER_TP": {
+      "TITLE": "止盈",
+      "BODY": "當前觸發價，用於執行該一籃子訂單的止盈操作。"
+    },
+    "BUYING_POWER": {
+      "TITLE": "購買力",
+      "BODY": "這代表您的總可用購買力。您的購買力取決於交易所可用的最大槓桿，並且不會根據您選擇的市場而變化。"
+    },
+    "CROSS_FREE_COLLATERAL": {
+      "TITLE": "交叉可用質押品",
+      "BODY": "交叉保證金賬户中可用於交易或提現的質押金額。"
+    },
+    "CROSS_MARGIN_USAGE": {
+      "TITLE": "交叉保證金使用率",
+      "BODY": "敞口頭寸使用的交叉保證金百分比。"
+    },
+    "CUSTOM_AMOUNT": {
+      "TITLE": "自定義金額",
+      "BODY": "調整您的自定義金額將適用於止盈和止損訂單。"
+    },
+    "DEFAULT_EXECUTION": {
+      "TITLE": "默認執行",
+      "BODY": "您的訂單將在開盤時與任何交叉訂單成交。如果您的訂單未全部成交，它將保持未結狀態，直至成交、取消或過期。"
+    },
+    "EQUITY": {
+      "TITLE": "賬户淨值",
+      "BODY": "您的賬户總價值。"
+    },
+    "EXPECTED_PRICE": {
+      "TITLE": "預期價格",
+      "BODY": "您訂單的預期執行價格。由於訂單簿在網絡處理前可能發生變化，此價格僅是估計值。"
+    },
+    "FEE": {
+      "TITLE": "交易費用",
+      "BODY": "交易費用由網絡根據交易量的百分比收取。交易費用將分配給驗證人和DYDX質押人。在dYdX上交易不會產生gas費。"
+    },
+    "FILL_OR_KILL": {
+      "TITLE": "全部成交否則取消指令",
+      "BODY": "“全部成交否則取消指令”訂單在執行時必須全部成交，否則將自動取消。"
+    },
+    "FREE_COLLATERAL": {
+      "TITLE": "可用質押品",
+      "BODY": "您可以提現的最大金額。當可用質押品為0或負時，您的賬户正在使用最大槓桿。"
+    },
+    "GOOD_TIL": {
+      "TITLE": "有效至",
+      "BODY": "距您的訂單到期時間。"
+    },
+    "IMMEDIATE_OR_CANCEL": {
+      "TITLE": "立即成交否則取消指令",
+      "BODY": "您的訂單將在開盤時與任何交叉訂單成交，然後取消任何未成交的訂單金額。"
+    },
+    "INDEX_PRICE": {
+      "TITLE": "預言機價格",
+      "BODY": "止損單根據預言機價格觸發。預言機價格彙總了來自多個交易所的價格數據，可保護您免受閃電崩潰等事件的影響。"
+    },
+    "INITIAL_MARGIN_FRACTION": {
+      "TITLE": "初始保證金比例",
+      "BODY": "初始保證金比例定義了交易者在開倉時初始可使用的槓桿額度。IMF按交易者頭寸名義價值除以賬户淨值計算。如果交易者的保證金比例超過初始保證金比例，則交易者將不能再增加頭寸。"
+    },
+    "INITIAL_STOP": {
+      "TITLE": "初始止損",
+      "BODY": "初始止損價基於您的追蹤百分比計算。"
+    },
+    "LEVERAGE": {
+      "TITLE": "槓桿",
+      "BODY": "槓桿將改變您盈虧的倍數。提高槓杆會在相同價格波動下放大您的盈虧金額。"
+    },
+    "LIMIT_CLOSE": {
+      "TITLE": "限價平倉",
+      "BODY": "限價平倉可能不會立即執行，只有達到輸入的價格後才會成交。監控訂單選項卡，檢查其狀態。"
+    },
+    "IOC_LIMIT_CLOSE": {
+      "TITLE": "限價平倉",
+      "BODY": "限價平倉操作將立即執行或取消訂單。限價應用於設置平倉訂單的可接受滑點範圍。如果您想在達到價格時平倉，請設置止盈或止損訂單。"
+    },
+    "LIMIT_PRICE": {
+      "TITLE": "限價",
+      "BODY": "此訂單隻能以指定的限價或更好的價格全部成交。如果您的訂單在下單時交叉，則您的訂單將以最有利的價格與任何交叉訂單成交。"
+    },
+    "LIMIT_PRICE_LEARN_MORE": {
+      "TITLE": "限價",
+      "BODY": "通過確定限價，您可以下達止盈限價單和/或止損限價單。點擊{DOCUMENTATION_LINK}瞭解詳情。"
+    },
+    "LIMIT_PRICE_SLIPPAGE": {
+      "TITLE": "滑點",
+      "BODY": "您的觸發價和限價之間的百分比差異。"
+    },
+    "LIQUIDATION_PRICE": {
+      "TITLE": "清算價格",
+      "BODY": "如果{SYMBOL}的預言機價格降到清算價格以下，您的頭寸將被清算。清算後，頭寸將自動平倉，並收取至少1%的清算費用（可能會更高，具體取決於清算時的流動性）。"
+    },
+    "LIQUIDATION_PRICE_SHORT": {
+      "TITLE": "清算價格",
+      "BODY": "如果{SYMBOL}的預言機價格漲到清算價格以上，您的頭寸將被清算。清算後，頭寸將自動平倉，並收取至少1%的清算費用（可能會更高，具體取決於清算時的流動性）。"
+    },
+    "LIQUIDATION_PRICE_LONG": {
+      "TITLE": "清算價格",
+      "BODY": "如果{SYMBOL}的預言機價格降到清算價格以下，您的頭寸將被清算。清算後，頭寸將自動平倉，並收取至少1%的清算費用（可能會更高，具體取決於清算時的流動性）。"
+    },
+    "LIQUIDATION_PRICE_GENERAL": {
+      "TITLE": "清算價格",
+      "BODY": "如果頭寸市場預言機價格超過清算價格，您的頭寸將被清算。清算後，頭寸將自動平倉，並收取至少1%的清算費用（可能會更高，具體取決於清算時的流動性）。"
+    },
+    "LIQUIDITY": {
+      "TITLE": "流動性",
+      "BODY": "從盤口提取流動性的交易（例如市價或交叉限價訂單）將作為吃單訂單執行。為盤口增加流動性並由另一方實現成交的限價訂單將作為掛單訂單成交。"
+    },
+    "MAINTENANCE_MARGIN_FRACTION": {
+      "TITLE": "維持保證金比例",
+      "BODY": "維持保證金比例決定了交易者何時被強平。它按交易者頭寸名義價值除以賬户淨值計算。如果交易者的保證金比例超過維持保證金比例，則其頭寸將被自動平倉（清算）。清算引擎將在交易者支付最高1.5%的清算罰金後，儘可能保留賬户中的正值資金。"
+    },
+    "MAKER_FEE": {
+      "TITLE": "掛單費",
+      "BODY": "為盤口增加流動性並由另一方成交的限價訂單將作為掛單訂單成交。掛單訂單的費用比吃單訂單的費用低。"
+    },
+    "MARGIN_USAGE": {
+      "TITLE": "保證金使用比例",
+      "BODY": "敞口頭寸使用的總保證金百分比。"
+    },
+    "MARGIN_USED": {
+      "TITLE": "使用的保證金",
+      "BODY": "敞口頭寸使用的交叉保證金百分比。"
+    },
+    "MAX_WITHDRAW": {
+      "TITLE": "快速提現上限",
+      "BODY": "允許單次快速提現的最大金額。"
+    },
+    "MAXIMUM_LEVERAGE": {
+      "TITLE": "最大槓桿",
+      "BODY": "此市場允許的最大槓桿。為限制風險，超過某個閾值後，最大槓桿隨倉位成比例降低。"
+    },
+    "MAXIMUM_REWARDS": {
+      "TITLE": "預估獎勵",
+      "BODY": "一邊在dYdX上交易，一邊賺取獎勵。實際獎勵可能有所不同。"
+    },
+    "MAXIMUM_REWARDS_SEPT_2025": {
+      "TITLE": "DYDX獎勵",
+      "BODY": "在 DYDX 賺取 {REWARD_PERCENT}% 的費用返還，並通過 dYdX Surge 爭奪您的份額{REWARD_AMOUNT}！當月末支付獎勵"
+    },
+    "NET_FUNDING": {
+      "TITLE": "淨資金",
+      "BODY": "當前頭寸存續期間賺取或支付的資金總額。如果將頭寸平倉或更改頭寸方向（多頭轉為空頭，或反之），則重置。"
+    },
+    "OPEN_INTEREST": {
+      "TITLE": "未平倉合約數量",
+      "BODY": "未平倉合約數量代表此市場上所有敞口頭寸的總數量。"
+    },
+    "ORACLE_PRICE": {
+      "TITLE": "預言機價格",
+      "BODY": "槓桿和清算根據鏈上預言機價格確定。預言機價格彙總了來自多個交易所的價格數據，可保護您免受閃電崩潰等事件的影響。"
+    },
+    "ORDER_AMOUNT": {
+      "TITLE": "訂單金額",
+      "BODY": "要買入或賣出的{SYMBOL}金額。這是訂單成交時頭寸將增加或減少的金額，而不是您得到的頭寸金額。"
+    },
+    "ORDER_AMOUNT_USD": {
+      "TITLE": "訂單金額",
+      "BODY": "要買入或賣出的{SYMBOL}美元金額。這是訂單成交時頭寸將增加或減少的金額，而不是您得到的頭寸金額。"
+    },
+    "PARTIAL_CLOSE_STOP_LOSS": {
+      "TITLE": "止損是部分平倉",
+      "BODY": "您的止損配置不是為了將整個頭寸平倉。這可能是因為您設置了自定義金額，或者因為您在添加此觸發器後更改了頭寸數量。"
+    },
+    "PARTIAL_CLOSE_TAKE_PROFIT": {
+      "TITLE": "止盈是部分平倉",
+      "BODY": "您的止盈配置不是為了將整個頭寸平倉。這可能是因為您設置了自定義金額，或者因為您在添加此觸發器後更改了頭寸數量。"
+    },
+    "PORTFOLIO_VALUE": {
+      "TITLE": "資產組合價值",
+      "BODY": "您賬户的總權益價值。"
+    },
+    "POSITION_MARGIN": {
+      "TITLE": "頭寸保證金",
+      "BODY": "擔保倉位的質押品金額。"
+    },
+    "POSITION_LEVERAGE": {
+      "TITLE": "頭寸槓桿",
+      "BODY": "槓桿將改變您盈虧的倍數。提高槓杆會在相同價格波動下放大您的盈虧金額。"
+    },
+    "POST_ONLY": {
+      "TITLE": "僅掛單",
+      "BODY": "啓用僅掛單的訂單隻能作為掛單訂單下達。如果訂單在下單時與其他訂單交叉，則將自動取消。"
+    },
+    "POST_ONLY_TIMEINFORCE_GTT": {
+      "TITLE": "僅掛單",
+      "BODY": "僅當有效時間設置為“Good Til Time”（有效截止時間）時，才可使用僅掛單功能。"
+    },
+    "PRICE_IMPACT": {
+      "TITLE": "價格差",
+      "BODY": "您的訂單與買方或賣方最佳訂單之間預期執行價格的差值。交易量越大，此差值越大。"
+    },
+    "REALIZED_PNL": {
+      "TITLE": "已實現盈虧",
+      "BODY": "此頭寸通過部分平倉、費用和資金實現的總損益。如果將頭寸完全平倉或更改頭寸方向（從多頭變成空頭，或從空頭變成多頭），則重置。"
+    },
+    "REDUCE_ONLY": {
+      "TITLE": "只減倉",
+      "BODY": "只減倉功能可以防止訂單改變您的頭寸方向（多頭轉為空頭，或反之）。設置只減倉的訂單會隨頭寸變化自動調整大小或取消。"
+    },
+    "REDUCE_ONLY_TIMEINFORCE_IOC": {
+      "TITLE": "只減倉",
+      "BODY": "僅當有效時間設置為立即成交否則取消(IOC)時，才可使用僅減倉功能。"
+    },
+    "REDUCE_ONLY_EXECUTION_IOC": {
+      "TITLE": "只減倉",
+      "BODY": "僅當執行設置為IOC時，才可使用僅減倉功能。"
+    },
+    "REWARDS_EARNED": {
+      "TITLE": "已賺取的獎勵",
+      "BODY": "一邊在dYdX上交易，一邊賺取獎勵。"
+    },
+    "SPREAD": {
+      "TITLE": "點差",
+      "BODY": "資產最高買價（買方願意買入的價格）和最低賣價（賣方願意賣出的價格）之間的價格差額。"
+    },
+    "STEP_SIZE": {
+      "TITLE": "步長",
+      "BODY": "步長是指市場上允許的最小訂單數量增量。"
+    },
+    "STOP_LOSS": {
+      "TITLE": "止損",
+      "BODY": "在預言機價格超過觸發價後，止損單將平倉以防止進一步虧損。"
+    },
+    "STOP_LOSS_ABOVE_LIQUIDATION_PRICE": {
+      "TITLE": "高於清算價格的止損",
+      "BODY": "止損價格已高於清算價格。原因可能是資金變動、提取資金或保證金要求發生變化。"
+    },
+    "STOP_LOSS_BELOW_LIQUIDATION_PRICE": {
+      "TITLE": "低於清算價格的止損",
+      "BODY": "止損價格已低於清算價格。原因可能是資金變動、提取資金或保證金要求發生變化。"
+    },
+    "TAKER_FEE": {
+      "TITLE": "吃單費",
+      "BODY": "從盤口提取流動性的交易（例如市價或交叉限價訂單）將作為吃單訂單執行。吃單訂單的費用比掛單訂單的費用高。"
+    },
+    "TAKE_PROFIT": {
+      "TITLE": "止盈",
+      "BODY": "允許交易者通過指定止盈價格平倉敞口頭寸，以設定目標並保護利潤。"
+    },
+    "TARGET_LEVERAGE": {
+      "TITLE": "目標槓桿",
+      "BODY": "目標槓桿設置為﻿{TARGET_LEVERAGE}倍，這決定了您下單時使用的保證金額度。"
+    },
+    "TICK_SIZE": {
+      "TITLE": "最小報價數量",
+      "BODY": "最小報價數量是此市場上的最小价格變動。"
+    },
+    "TIME_IN_FORCE": {
+      "TITLE": "有效時間",
+      "BODY": "所選的有效時間選項決定訂單在到期或全部成交前保持有效狀態的時長。"
+    },
+    "TRAILING_PERCENT": {
+      "TITLE": "追蹤百分比",
+      "BODY": "追蹤百分比設置了止損價將“追蹤”預言機價格的百分比。當預言機價格朝有利於您頭寸的方向波動時，您訂單的止損價就將根據您指定的追蹤百分比進行更新。"
+    },
+    "TRIGGER_PRICE": {
+      "TITLE": "觸發價格",
+      "BODY": "當該市場的預言機價格超過您的觸發價格時，您的止損/止盈訂單將轉換為限價訂單或作為市價訂單執行。"
+    },
+    "UNREALIZED_PNL": {
+      "TITLE": "未實現的盈虧",
+      "BODY": "如果您以當前預言機價格將當前頭寸剩餘部分全部平倉可獲得的總損益。如果將頭寸平倉或更改頭寸方向（多頭轉為空頭，或反之），則重置。"
+    },
+    "REWARD_HISTORY": {
+      "BODY": "以協調世界時(UTC)顯示時間"
+    }
+  },
+  "DEPOSIT": {
+    "AVAILABLE_GASLESS_DEPOSITS": {
+      "TITLE": "可用",
+      "BODY": "您符合條件！存入至少{GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}即可啓用無gas存款。"
+    },
+    "BRIDGE_FEES_DEPOSIT": {
+      "TITLE": "橋接費用",
+      "BODY": "橋接費用是支付給其他協議的費用，以完成該存款所需的橋接、轉賬和互換操作。"
+    },
+    "DISABLED_GASLESS_DEPOSITS": {
+      "TITLE": "不可用",
+      "BODY": "無gas存款暫時不可用。別擔心，很快就會恢復！"
+    },
+    "GAS_FEES_DEPOSIT": {
+      "TITLE": "Gas費",
+      "BODY": "Gas費是源鏈（此處為{SOURCE_CHAIN}）上的交易費用。"
+    },
+    "GASLESS_DEPOSITS": {
+      "TITLE": "無gas存款",
+      "BODY": "存入{GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}或以上，dYdX將承擔您的gas費。您每三天可享受一次無gas存款。需遵守相關規則。"
+    },
+    "LOWEST_FEE_DEPOSITS": {
+      "TITLE": "最低費用存款",
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDC存款費用最低。"
+    },
+    "MINIMUM_DEPOSIT_AMOUNT": {
+      "TITLE": "最低存款金額",
+      "BODY": "包括橋接過程中由於流動性變化而可能發生的任何滑點"
+    },
+    "SWAP": {
+      "TITLE": "互換和存款",
+      "BODY": "存入非USDC資產時，您的資產將通過0x API自動轉換為USDC。設置最大滑點可指定轉換失敗前允許的滑點幅度。"
+    }
+  },
+  "TRANSFER_AND_DEPOSIT": {
+    "ALLOWANCE_AND_DEPOSIT_NETWORK_FEE": {
+      "TITLE": "網絡費",
+      "BODY": "這是存款和固定限額交易的gas成本，是支付給以太坊礦工的。您只需為存入的每項資產設置一次限額。"
+    },
+    "DEPOSIT_NETWORK_FEE": {
+      "TITLE": "網絡費",
+      "BODY": "這是存款交易的gas成本，是支付給以太坊礦工的。"
+    }
+  },
+  "TRIGGER_ORDERS": {
+    "UNEQUAL_ORDER_SIZES": {
+      "TITLE": "不均等訂單數量",
+      "BODY": "您的止盈和止損訂單數量不一致。如需修改訂單數量，請取消並重新下訂單。"
+    }
+  },
+  "WITHDRAW": {
+    "FAST_WITHDRAW_FEE": {
+      "TITLE": "快速提現費",
+      "BODY": "快速提現會立即發出，dYdX將承擔gas成本並收取費用。如果要免費提現，請使用正常提現（您自行承擔gas成本，並且必須等待Layer 2確認）。"
+    },
+    "GAS_FEES": {
+      "TITLE": "Gas費",
+      "BODY": "Gas費是源鏈（此處為dYdX）上的交易費用。"
+    },
+    "LOWEST_FEE_WITHDRAWALS": {
+      "TITLE": "提現費用最低",
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDC提現費用最低。"
+    },
+    "BRIDGE_FEES": {
+      "TITLE": "橋接費用",
+      "BODY": "橋接費用是支付給其他協議的費用，以完成該提現所需的橋接、轉賬和互換操作。"
+    },
+    "MINIMUM_AMOUNT_RECEIVED": {
+      "TITLE": "最低收到金額",
+      "BODY": "包括橋接過程中由於流動性變化而可能發生的任何滑點"
+    },
+    "WITHDRAW_TYPES": {
+      "TITLE": "提現類型",
+      "BODY": "dYdX支持兩種從Layer 2提現的類型。快速提現需支付少量費用，但無需gas費用且立即發送。正常提現免費，但需兩步操作，耗時較長，並且用户必須自行承擔gas費用。"
+    }
+  },
+  "STAKE": {
+    "VALIDATOR_SELECTION": {
+      "TITLE": "選定的驗證者",
+      "BODY": "根據最低質押量，從預先配置的一組未削減的驗證者中選出驗證者。"
+    }
+  },
+  "EMAIL_NOTIFICATIONS": {
+    "VERIFY_EMAIL": {
+      "TITLE": "驗證電子郵件地址",
+      "BODY": " 請點擊我們發送給您的電子郵件中的鏈接，這將幫助我們驗證您的電子郵件地址的所有權。"
+    }
+  },
+  "TOKEN_MIGRATION": {
+    "DYDX_CHAIN_SETTLEMENT": {
+      "TITLE": "dYdX鏈結算",
+      "BODY": "為確保協議安全，dYdX 鏈驗證者延遲了dYdX鏈DYDX的結算。"
+    }
+  },
+  "TRADE_CHART": {
+    "OHLC": {
+      "TITLE": "OHLC",
+      "BODY": "通過中間價啓用或禁用OHLC（開盤價-最高價-最低價-收盤價）數據。禁用此功能將只顯示歷史交易的OHLC數據。"
+    }
+  },
+  "NEW_MARKET_WIDGET": {
+    "REFERENCE_PRICE": {
+      "TITLE": "參考價格",
+      "BODY": "參考價格是市場價格的30天滾動平均值，用作在dYdX鏈上自動計算市場參數的輸入。 參考價格應與市場當前價格大致相同（即向下取整至相同的10的冪次）。"
+    },
+    "SELF_REPORTED_CMC": {
+      "BODY": "此值在CoinMarketCap上自行報告"
+    }
+  },
+  "VAULT": {
+    "ESTIMATED_AMOUNT_RECEIVED": {
+      "BODY": "提現時預計收到的金額，即提現金額減去預計滑點金額。此金額基於當前條件估算。實際金額可能因執行時的實際情況而異。"
+    },
+    "ESTIMATED_SLIPPAGE": {
+      "BODY": "提現時預計的滑點金額。滑點源於保險庫需調整當前頭寸以釋放保證金，從而滿足提現金額需求。此金額基於當前條件估算。實際金額可能因執行時的實際情況而異。"
+    },
+    "AVAILABLE_TO_WITHDRAW": {
+      "BODY": "您可以提現的金額，即您的保險庫餘額減去為新市場上市而鎖定的任何金額。"
+    },
+    "YOUR_VAULT_BALANCE": {
+      "BODY": "您存款的當前價值。這是基於保險庫的當前淨值和頭寸計算得出的。"
+    },
+    "YOUR_ALL_TIME_PNL": {
+      "BODY": "一段時間內的總盈虧。這包括您的保險庫存款的歷史盈虧。"
+    },
+    "VAULT_APR": {
+      "BODY": "估計年化收益率(APR)是過去一個月的年化回報率。實際回報取決於未來收益（協議收益分成和盈虧），具有不確定性，不能得到保證。{LEARN_MORE}"
+    },
+    "VAULT_APR_90D": {
+      "BODY": "估計年化收益率(APR)是過去90天的年化回報率。實際回報取決於未來收益（協議收益分成和盈虧），具有不確定性，不能得到保證。{LEARN_MORE}"
+    }
+  },
+  "SIMPLE_UI": {
+    "BUYING_POWER_SIMPLE": {
+      "BODY": "這是存款可獲得的最大敞口金額。它不是您可以存入或提現的金額。購買力可能快速變化，即使虧損時也可能為正。"
+    },
+    "RISK": {
+      "BODY": "這是您的敞口頭寸作為保證金持有的存款百分比。隨市場價格變化可能快速變動。"
+    }
+  }
+}

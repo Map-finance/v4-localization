@@ -1,0 +1,265 @@
+{
+  "NOTIFICATIONS": {
+    "AFFILIATE_BOOSTER": {
+      "TITLE": "Booster計劃現已上線",
+      "BODY": "現在，關聯會員可以參與一個為期4周的新“Booster計劃”，該計劃根據新用户推薦提供每週獎勵。檢查您的資格並瞭解其運作方式{HERE_LINK}。"
+    },
+    "BLOCK_REWARD": {
+      "TITLE": "已獲得獎勵",
+      "BODY": "您已獲得 {BLOCK_REWARD_AMOUNT} {TOKEN_NAME} 交易獎勵。"
+    },
+    "CANCEL_OLD_TRIGGERS": {
+      "TITLE": "取消舊觸發價格",
+      "BODY": "您有來自不存在倉位的孤兒觸發訂單。"
+    },
+    "CONDITIONAL_ORDERS_REVAMP": {
+      "TITLE": "刷新後的條件單體驗！",
+      "BODY": "dYdX鏈上的有條件訂單已完全修改！現在比以往更可靠、直觀且高效。查看更多詳情 {TWITTER_LINK}。"
+    },
+    "DELEVERAGED": {
+      "TITLE": "頭寸去槓桿化",
+      "BODY": "您在{MARKET}中的{SIDE}頭寸已去槓桿化。"
+    },
+    "DISCOVERY_PROGRAM": {
+      "TITLE": "30分鐘內最高可賺200美元！",
+      "BODY": "通過參與用户訪談和分享反饋，使您獲得最佳交易體驗。名額有限，請點擊{HERE_LINK}註冊或瞭解更多信息！"
+    },
+    "FINAL_SETTLEMENT": {
+      "TITLE": "頭寸已結算",
+      "BODY": "{MARKET}已平倉。您在{MARKET}上的{SIDE}頭寸已完成最終結算。"
+    },
+    "FOK_DEPRECATION": {
+      "TITLE": "全部成交否則取消(FOK)訂單已棄用",
+      "BODY": "全部成交否則取消(FOK)訂單已被棄用。其他訂單類型仍然可用。"
+    },
+    "IN_APP_STAKING_LIVE": {
+      "TITLE": "您現在可以質押DYDX！",
+      "BODY": "收到USDC獎勵。"
+    },
+    "INCENTIVES_SEASON_BEGUN": {
+      "TITLE": "第{SEASON_NUMBER}季已開始！",
+      "BODY": " 在第{PREV_SEASON_NUMBER}季中，獲得的獎勵中位數為{DYDX_AMOUNT}DYDX (~\n{USDC_AMOUNT}USDC)！"
+    },
+    "INCENTIVES_SEASON_ENDED": {
+      "TITLE": "第{SEASON_NUMBER}季已結束！",
+      "BODY": "感謝您參與啓動激勵計劃。敬請關注未來獎勵計劃的最新動態！"
+    },
+    "ISOLATED_MARGIN_LIVE": {
+      "TITLE": "逐倉保證金已上線",
+      "BODY": "逐倉保證金現已上線！要了解更多信息，請訪問{LEARN_MORE}。"
+    },
+    "REWARDS_DISTRIBUTED": {
+      "TITLE": "第{SEASON_NUMBER}季啓動獎勵已發放！",
+      "BODY": "第{SEASON_NUMBER}季獎勵 + {DYDX_AMOUNT} DYDX"
+    },
+    "OFFSETTING": {
+      "TITLE": "頭寸抵消",
+      "BODY": "您在{MARKET}上的{SIDE}頭寸已用於抵消去槓桿化頭寸。"
+    },
+    "ORDER_FILL": {
+      "TITLE": "訂單已成交",
+      "BODY": "您的{SIDE} {AMOUNT} {MARKET}訂單已按{AVERAGE_PRICE}美元成交。"
+    },
+    "ORDER_PARTIAL_FILL": {
+      "TITLE": "訂單已部分成交",
+      "BODY": "您的{SIDE} {AMOUNT} {MARKET}訂單有{FILLED_AMOUNT} {MARKET}已成交。"
+    },
+    "ORDER_TRIGGERED": {
+      "TITLE": "訂單已觸發",
+      "BODY": "您的{SIDE} {AMOUNT} {MARKET}訂單已觸發。"
+    },
+    "ORDER_CANCEL": {
+      "TITLE": "訂單已取消",
+      "BODY": "您的{SIDE} {AMOUNT} {MARKET}訂單已取消。"
+    },
+    "ORDER_CANCEL_WITH_PARTIAL_FILL": {
+      "TITLE": "訂單已取消，部分成交",
+      "BODY": "您的{SIDE} {AMOUNT} {MARKET}訂單已取消，{TOTAL_FILLED}部分成交。"
+    },
+    "LIQUIDATION": {
+      "TITLE": "頭寸已清算",
+      "BODY": "您在{MARKET}中的{SIDE}頭寸已被清算。"
+    },
+    "POSITION_CLOSED": {
+      "TITLE": "頭寸已平倉",
+      "BODY": " 您在{MARKET}中的頭寸已被平倉。"
+    },
+    "PUMP_COMPETITION": {
+      "TITLE": "PUMP交易者可獲得$10K獎勵",
+      "BODY": "已在dYdX上線，最高可達5倍槓桿。限時獎勵。"
+    },
+    "DEPOSIT_SUCCESS": {
+      "TITLE": "存款成功",
+      "BODY": "您的{AMOUNT} {ASSET}存款已確認。"
+    },
+    "FAST_WITHDRAW_SUCCESS": {
+      "TITLE": "快速提現成功",
+      "BODY": "您的{AMOUNT} {ASSET}快速提現已確認。"
+    },
+    "LIQUIDITY_TIER_UPDATE_SOL_USD": {
+      "TITLE": "以20倍槓桿交易SOL-USD",
+      "BODY": "SOL-USD和所有逐倉市場現在都可使用最高20倍的槓桿進行交易。"
+    },
+    "LOW_ON_GAS": {
+      "TITLE": "Gas 不足？",
+      "BODY": "我們建議您將錢包餘額保持在 {MIN_RANGE} 美元至 {MAX_RANGE} 美元之間，以便支付 H2 鏈的 Gas 費。"
+    },
+    "RECLAIM_FUNDS": {
+      "TITLE": "收回資金",
+      "BODY": "您先前有 {FUNDS_TO_RECLAIM} 資金作為質押品持有，現在可以收回了。"
+    },
+    "RELEASE_REWARDS_AND_FULL_TRADING": {
+      "TITLE": "獎勵和交易功能已在dYdX鏈上線！",
+      "BODY": "完整交易已在dYdX鏈上線！這包括質押獎勵、交易獎勵以及Chaos Labs為期6個月的啓動激勵計劃。瞭解更多關於{DOS_BLOGPOST}和{TRADING_BLOGPOST}的信息（第三方鏈接）。"
+    },
+    "SLOW_WITHDRAWAL_PENDING": {
+      "TITLE": "待處理的正常提現",
+      "BODY": "您的{AMOUNT} {ASSET}提現將在12小時內處理完成。"
+    },
+    "SLOW_WITHDRAWAL_SUCCESS": {
+      "TITLE": "正常提現成功",
+      "BODY": "您的{AMOUNT} {ASSET}提現已確認。"
+    },
+    "STOP_LOSS_TRIGGER_CREATING": {
+      "TITLE": "止損",
+      "BODY": "正在創建止損觸發點{NEW_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_CREATING_ERROR": {
+      "TITLE": "止損",
+      "BODY": "無法創建止損觸發點{NEW_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_CREATED": {
+      "TITLE": "止損",
+      "BODY": "已創建止損觸發點{NEW_VALUE}。"
+    },
+    "SURGE_S2_BOOSTED_MARKETS": {
+      "TITLE": "Surge S2: 推出 2 倍獎勵",
+      "BODY": "第 2 季將對熱門市場的交易提供積分加成！ AIXBT、KAITO、SUI、XRP 市場將以 2 倍獎勵啓動！"
+    },
+    "SURGE_BOOSTED_MARKETS": {
+      "TITLE": "Surge S{SEASON_NUMBER}：角逐 200 萬美元獎勵",
+      "BODY": "第{SEASON_NUMBER}季將對熱門市場的交易提供積分加成！{MARKETS_LIST}市場將以 2 倍獎勵啓動！"
+    },
+    "SURGE_BASIC_SEASON": {
+      "TITLE": "Surge S{SEASON_NUMBER}：爭奪百萬{AMOUNT_MILLIONS}美元",
+      "BODY": "Season{SEASON_NUMBER}將根據交易者在排行榜上的倉位向其分配${AMOUNT_MILLIONS}M。交易更多，贏得更多！"
+    },
+    "SURGE_PAYOUT": {
+      "TITLE": "Surge S{SEASON_NUMBER}：您獲得了 {DYDX_REWARDS} dYdX 獎勵",
+      "BODY": "Surge S{SEASON_NUMBER} 排行榜獎勵現已開始發放，請查看 dYdX 餘額瞭解獎勵發放進度！"
+    },
+    "SURGE_SEASON_ENDING": {
+      "TITLE": "Surge S{SEASON_NUMBER}：還剩 {DAYS_LEFT} 天",
+      "BODY": "每月向 dYdX 交易者發放的獎勵高達 200 萬美元以上。排行榜衝刺時間還剩 {DAYS_LEFT} 天！"
+    },
+    "TAKE_PROFIT_TRIGGER_CREATING": {
+      "TITLE": "止盈",
+      "BODY": "正在創建止盈觸發點{NEW_VALUE}。"
+    },
+    "TAKE_PROFIT_TRIGGER_CREATING_ERROR": {
+      "TITLE": "止盈",
+      "BODY": "無法創建止盈觸發點{NEW_VALUE}。"
+    },
+    "TAKE_PROFIT_TRIGGER_CREATED": {
+      "TITLE": "止盈",
+      "BODY": " 已創建止盈觸發點{NEW_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_UPDATING": {
+      "TITLE": "止損",
+      "BODY": "您的止損觸發點正在更新為{NEW_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_UPDATING_ERROR": {
+      "TITLE": "止損",
+      "BODY": "您的止損觸發點{OLD_VALUE}無法更新。"
+    },
+    "STOP_LOSS_TRIGGER_UPDATED": {
+      "TITLE": "止損",
+      "BODY": "您的止損觸發點現設置為{NEW_VALUE}"
+    },
+    "TAKE_PROFIT_TRIGGER_UPDATING": {
+      "TITLE": "止盈",
+      "BODY": "您的止盈觸發點正在更新為{NEW_VALUE}。"
+    },
+    "TAKE_PROFIT_TRIGGER_UPDATING_ERROR": {
+      "TITLE": "止盈",
+      "BODY": "您的止盈觸發點{OLD_VALUE}無法更新。"
+    },
+    "TAKE_PROFIT_TRIGGER_UPDATED": {
+      "TITLE": "止盈",
+      "BODY": "您的止盈觸發點現設置為{NEW_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_REMOVING": {
+      "TITLE": "止損",
+      "BODY": "正在移除止損觸發點{OLD_VALUE}。"
+    },
+    "STOP_LOSS_TRIGGER_REMOVING_ERROR": {
+      "TITLE": "止損",
+      "BODY": "止損觸發點{OLD_VALUE}無法取消。"
+    },
+    "STOP_LOSS_TRIGGER_REMOVED": {
+      "TITLE": "止損",
+      "BODY": "止損觸發點{OLD_VALUE}已移除。"
+    },
+    "TAKE_PROFIT_TRIGGER_REMOVING": {
+      "TITLE": "止盈",
+      "BODY": "正在移除止盈觸發點{OLD_VALUE}。"
+    },
+    "TAKE_PROFIT_TRIGGER_REMOVING_ERROR": {
+      "TITLE": "止盈",
+      "BODY": "止盈觸發點{OLD_VALUE}無法取消。"
+    },
+    "TAKE_PROFIT_TRIGGER_REMOVED": {
+      "TITLE": "止盈",
+      "BODY": "止盈觸發點{OLD_VALUE}已移除。"
+    },
+    "TOP_100_WALLET_ADDRESSES": {
+      "TITLE": "想要更多支持？",
+      "BODY": "感謝您成為dYdX的大交易者！團隊希望為您提供更高水平的個性化支持，以及直接與我們聯繫的機會。",
+      "ACTION": "聯繫我們 →"
+    },
+    "TWITTER_DYDX_200B_GIVEAWAY": {
+      "TITLE": "2萬美元贈品",
+      "BODY": "為慶祝累計交易量超過2000億美元，dYdX正在舉辦Twitter贈品活動，您有機會領取200美元。2024年8月16日23:59（協調世界時）之後，將隨機選出100名獲獎者{HERE_LINK}。"
+    },
+    "MARKET_WIND_DOWN": {
+      "TITLE": "{MARKET}市場已清算",
+      "BODY": "在{DATE}，{MARKET}市場已完成最終結算。現有頭寸已平倉，未平倉訂單現已取消。查閲有關最終結算的更多信息{HERE_LINK}。"
+    },
+    "MARKET_WIND_DOWN_PROPOSAL": {
+      "TITLE": "{MARKET}市場清算的實時提案",
+      "BODY": "目前有一項關於清算{MARKET}市場的實時提案。如果通過，{MARKET}市場將於{DATE}進入最終結算。現有頭寸將平倉，未平倉訂單將取消。查閲有關該提議的更多信息{HERE_LINK}。"
+    },
+    "TWO_MARKET_WIND_DOWN": {
+      "TITLE": "{MARKET_1}和{MARKET_2}市場已清算",
+      "BODY": "在{DATE}，{MARKET_1}和{MARKET_2}市場已完成最終結算。現有頭寸已平倉，未平倉訂單現已取消。查閲有關最終結算的更多信息{HERE_LINK}。"
+    },
+    "TWO_MARKET_WIND_DOWN_PROPOSAL": {
+      "TITLE": "{MARKET_1}和{MARKET_2}市場清算的實時提案",
+      "BODY": "目前有一項關於清算{MARKET_1}和{MARKET_2}市場的實時提案。如果通過，{MARKET_1}和{MARKET_2}市場將於{DATE}進入最終結算。現有頭寸將平倉，未平倉訂單將取消。查閲有關該提議的更多信息{HERE_LINK}。"
+    },
+    "MARKET_PARAM_UPDATE": {
+      "TITLE": "更新{MARKET}參數的實時提案",
+      "BODY": "目前有一項更新{MARKET}市場參數的實時提案。如果通過，{MARKET}市場會將Coinbase Pro {MARKET}作為唯一的預言機來源。查閲有關該提議的更多信息{HERE_LINK}。"
+    },
+    "TRUMPWIN_MARKET_LAUNCH": {
+      "TITLE": "押注美國總統大選！",
+      "BODY": "{MARKET}現已上線。如果唐納德·J·特朗普贏得2024年大選，這個市場將結算為1美元。否則，它將以0.001美元結算。"
+    },
+    "KEPLR_SUPPORT": {
+      "TITLE": "dYdX現在支持Keplr！",
+      "BODY": "您現在可以通過Keplr錢包連接並使用dYdX！立即試用。"
+    },
+    "PHANTOM_SUPPORT": {
+      "TITLE": "dYdX現在支持Phantom！",
+      "BODY": "您現在可以通過Phantom錢包連接並使用dYdX！立即試用。"
+    },
+    "SIMPLE_IOS_RELEASE": {
+      "TITLE": "iOS上全新的簡化體驗",
+      "BODY": "現在，移動交易者可以使用全新的簡化體驗。立即在 iOS 上從專業切換到簡化。"
+    },
+    "UPGRADE_MARKETS_TO_CROSS_MARGIN": {
+      "TITLE": "升級市場，以交叉保證金",
+      "BODY": "一項從逐倉保證金升級到{MARKETS}全倉保證金的治理提案目前正在進行中，這可能會對這些市場的未平倉頭寸造成影響，且可增加清算風險。 強烈建議交易者謹慎行事，並在必要時考慮平倉。"
+    }
+  }
+}

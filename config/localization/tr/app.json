@@ -1821,7 +1821,12 @@
       "FILLS_LABEL": "Dolumlar",
       "MARKET_CAP_TRILLION": "US${0}T MC",
       "MARKET_CAP_BILLION": "US${0}M MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "Emir Defteri",
+      "TOTAL_ASSETS": "Toplam Varlıklar",
+      "SPOT_POSITIONS": "Spot Pozisyonlar",
+      "NO_BALANCE_DATA_AVAILABLE": "Bakiye Verisi Yok",
+      "SPOT_POSITIONS_DESCRIPTION": "Spot varlık pozisyonlarınızı görüntüleyin"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "{PRICE} fiyattan Limit Satışı Taslağı Oluştur",

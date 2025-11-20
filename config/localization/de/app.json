@@ -1821,7 +1821,12 @@
       "FILLS_LABEL": "Ausführungen",
       "MARKET_CAP_TRILLION": "US${0}B MC",
       "MARKET_CAP_BILLION": "US${0}Mrd. MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "Orderbuch",
+      "TOTAL_ASSETS": "Gesamtvermögen",
+      "SPOT_POSITIONS": "Spot-Positionen",
+      "NO_BALANCE_DATA_AVAILABLE": "Keine Guthabendaten verfügbar",
+      "SPOT_POSITIONS_DESCRIPTION": "Zeigen Sie Ihre Spot-Asset-Positionen an"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "Entwurfslimit Verkaufen bei {PRICE}",

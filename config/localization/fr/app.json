@@ -1850,7 +1850,12 @@
       "FILLS_LABEL": "Exécutions",
       "MARKET_CAP_TRILLION": "US${0}B MC",
       "MARKET_CAP_BILLION": "US${0}Mrd MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "Carnet d'ordres",
+      "TOTAL_ASSETS": "Actifs totaux",
+      "SPOT_POSITIONS": "Positions spot",
+      "NO_BALANCE_DATA_AVAILABLE": "Aucune donnée de solde disponible",
+      "SPOT_POSITIONS_DESCRIPTION": "Voir vos positions d'actifs spot"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "Établir l'ordre de vente limité à {PRICE}",
@@ -1984,7 +1989,7 @@
       "APPLE_DESC": "Ce compte Apple a été utilisé pour générer votre portefeuille blockchain. Vous aurez besoin d'un accès pour la récupération du compte.",
       "EMAIL_DESC": "Cet e-mail a été utilisé pour générer votre portefeuille blockchain. Vous aurez besoin d'un accès pour la récupération du compte.",
       "EXPORT_DESC": "Votre phrase de départ sert à sécuriser vos portefeuilles. Consultez la phrase secrète pour vos portefeuilles source et de trading ci-dessous.",
-      "EXPORT_DYDX_WALLET": "Exporter le portefeuille dYdX",
+      "EXPORT_DYDX_WALLET": "Exporter le portefeuille H2",
       "EXPORT_SOURCE_WALLET": "Exporter le portefeuille source",
       "EXPORT_PHRASE_DESC": "Votre phrase de récupération prête à l’usage est utilisée pour vos dépôts et retraits. Votre phrase de récupération dYdX sécurise votre compte perpétuel sur la chaîne dYdX. Assurez-vous de garder les deux en lieu sûr.",
       "GOOGLE_DESC": "Ce compte Google a été utilisé pour générer votre portefeuille blockchain. Vous aurez besoin d'un accès pour la récupération du compte.",

@@ -1850,7 +1850,12 @@
       "FILLS_LABEL": "체결",
       "MARKET_CAP_TRILLION": "US${0}조 MC",
       "MARKET_CAP_BILLION": "US${0}억 MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "호가창",
+      "TOTAL_ASSETS": "총 자산",
+      "SPOT_POSITIONS": "현물 포지션",
+      "NO_BALANCE_DATA_AVAILABLE": "잔액 데이터 없음",
+      "SPOT_POSITIONS_DESCRIPTION": "현물 자산 포지션 보기"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "처음 한도 판매 지점: {PRICE}",
@@ -1984,7 +1989,7 @@
       "APPLE_DESC": "이 Apple 계정은 온체인 지갑을 생성하는 데 사용되었습니다. 계정 복구를 위해 액세스가 필요합니다.",
       "EMAIL_DESC": "이 이메일은 온체인 지갑을 생성하는 데 사용되었습니다. 계정 복구를 위해 액세스가 필요합니다.",
       "EXPORT_DESC": "귀하의 시드 문구는 지갑을 보호하는 데 사용됩니다. 아래에서 소스 및 거래 지갑의 시드 문구를 확인하세요.",
-      "EXPORT_DYDX_WALLET": "dYdX 지갑 내보내기",
+      "EXPORT_DYDX_WALLET": "H2 지갑 내보내기",
       "EXPORT_SOURCE_WALLET": "소스 지갑 내보내기",
       "EXPORT_PHRASE_DESC": "귀하의 턴키 시드 문구는 입금과 인출에 사용됩니다. 귀하의 dYdX 시드 문구는 dYdX 체인에서 귀하의 무기한 계정을 보호합니다. 이 모두를 안전하게 보호하세요.",
       "GOOGLE_DESC": "이 Google 계정은 온체인 지갑을 생성하는 데 사용되었습니다. 계정 복구를 위해 액세스가 필요합니다.",

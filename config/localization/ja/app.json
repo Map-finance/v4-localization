@@ -1850,7 +1850,12 @@
       "FILLS_LABEL": "約定",
       "MARKET_CAP_TRILLION": "US${0}兆 MC",
       "MARKET_CAP_BILLION": "US${0}億 MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "注文板",
+      "TOTAL_ASSETS": "総資産",
+      "SPOT_POSITIONS": "現物ポジション",
+      "NO_BALANCE_DATA_AVAILABLE": "残高データがありません",
+      "SPOT_POSITIONS_DESCRIPTION": "現物資産のポジションを表示"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "{PRICE}で指値売り注文を出す",

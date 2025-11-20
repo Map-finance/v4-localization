@@ -1851,7 +1851,12 @@
       "FILLS_LABEL": "Fills",
       "MARKET_CAP_TRILLION": "US${0}T MC",
       "MARKET_CAP_BILLION": "US${0}B MC",
-      "SLASH_SEPARATOR": " / "
+      "SLASH_SEPARATOR": " / ",
+      "ORDERBOOK": "Orderbook",
+      "TOTAL_ASSETS": "Total Assets",
+      "SPOT_POSITIONS": "Spot Positions",
+      "NO_BALANCE_DATA_AVAILABLE": "No Balance Data Available",
+      "SPOT_POSITIONS_DESCRIPTION": "View your spot asset positions"
     },
     "TRADING_VIEW": {
       "DRAFT_LIMIT_SELL": "Draft Limit Sell at {PRICE}",
@@ -1985,7 +1990,7 @@
       "APPLE_DESC": "This Apple account was used to generate your on-chain wallet. You will need access for account recovery.",
       "EMAIL_DESC": "This email was used to generate your on-chain wallet. You will need access for account recovery.",
       "EXPORT_DESC": "Your seed phrase is used to secure your wallets. View the seed phrase for your source & trading wallets below.",
-      "EXPORT_DYDX_WALLET": "Export dYdX wallet",
+      "EXPORT_DYDX_WALLET": "Export H2 wallet",
       "EXPORT_SOURCE_WALLET": "Export source wallet",
       "EXPORT_PHRASE_DESC": "Your Turnkey seed phrase is used for your deposits & withdrawals. Your dYdX seed phrase secures your perpetuals account on dYdX chain. Make sure to keep both safe and secure.",
       "GOOGLE_DESC": "This Google account was used to generate your on-chain wallet. You will need access for account recovery.",
