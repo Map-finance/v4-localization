@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "Frais de trading",
-      "BODY": "Les frais de trading sont facturés par le réseau sur la base d'un pourcentage de votre volume de trading. Les frais de trading s'accumulent aux validateurs et aux stakers dYdX. Il n'y a pas de frais de gaz pour trader sur dYdX."
+      "BODY": "Les frais de trading sont facturés par le réseau sur la base d'un pourcentage de votre volume de trading. Les frais de trading s'accumulent aux validateurs et aux stakers h2rwa. Il n'y a pas de frais de gaz pour trader sur h2rwa."
     },
     "FILL_OR_KILL": {
       "TITLE": "Fill or Kill",
@@ -178,11 +178,11 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "Récompenses estimées",
-      "BODY": "Gagnez des récompenses en tradant sur dYdX. La nature des récompenses est variable."
+      "BODY": "Gagnez des récompenses en tradant sur h2rwa. La nature des récompenses est variable."
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
-      "TITLE": "Récompenses DYDX",
-      "BODY": "Gagnez {REWARD_PERCENT}% de vos frais en dYdX et concourez pour votre part {REWARD_AMOUNT}via dYdX Surge ! Les récompenses sont versées à la fin du mois"
+      "TITLE": "Récompenses H2RWA",
+      "BODY": "Gagnez {REWARD_PERCENT}% de vos frais en h2rwa et concourez pour votre part {REWARD_AMOUNT}via h2rwa Surge ! Les récompenses sont versées à la fin du mois"
     },
     "NET_FUNDING": {
       "TITLE": "Financement net",
@@ -254,7 +254,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "Récompenses gagnées",
-      "BODY": "Gagnez des récompenses en tradant sur dYdX."
+      "BODY": "Gagnez des récompenses en tradant sur h2rwa."
     },
     "SPREAD": {
       "TITLE": "Spread",
@@ -331,7 +331,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "Dépôts sans gaz",
-      "BODY": "dYdX couvrira vos frais de gaz si vous déposez {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} ou plus. Vous êtes éligible à un dépôt sans gaz tous les trois jours. Les dépôts sans gaz sont soumis à des règles."
+      "BODY": "h2rwa couvrira vos frais de gaz si vous déposez {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} ou plus. Vous êtes éligible à un dépôt sans gaz tous les trois jours. Les dépôts sans gaz sont soumis à des règles."
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Dépôts de frais les plus bas",
@@ -365,11 +365,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "Frais de retrait rapide",
-      "BODY": "Les retraits rapides sont envoyés immédiatement et dYdX couvrira les frais de gaz en échange d'une commission. Pour les retraits sans frais, veuillez utiliser un retrait lent (vous payez vos propres frais de gaz et devrez attendre la confirmation de la couche 2)."
+      "BODY": "Les retraits rapides sont envoyés immédiatement et h2rwa couvrira les frais de gaz en échange d'une commission. Pour les retraits sans frais, veuillez utiliser un retrait lent (vous payez vos propres frais de gaz et devrez attendre la confirmation de la couche 2)."
     },
     "GAS_FEES": {
       "TITLE": "Frais de gaz",
-      "BODY": "Les frais de gaz sont des frais de transaction sur la chaîne source, dans ce cas dYdX."
+      "BODY": "Les frais de gaz sont des frais de transaction sur la chaîne source, dans ce cas h2rwa."
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Retraits aux frais les plus bas",
@@ -385,7 +385,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "Types de retrait",
-      "BODY": "dYdX prend en charge deux types de retraits de la couche 2. Les retraits rapides entraînent des frais minimes, mais ne nécessitent pas de gaz et sont envoyés immédiatement. Les retraits lents sont gratuits, mais nécessitent deux étapes, prennent beaucoup plus de temps et l'utilisateur devra payer ses propres frais de gaz."
+      "BODY": "h2rwa prend en charge deux types de retraits de la couche 2. Les retraits rapides entraînent des frais minimes, mais ne nécessitent pas de gaz et sont envoyés immédiatement. Les retraits lents sont gratuits, mais nécessitent deux étapes, prennent beaucoup plus de temps et l'utilisateur devra payer ses propres frais de gaz."
     }
   },
   "STAKE": {
@@ -402,8 +402,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "Règlement de la chaîne dYdX",
-      "BODY": "Pour assurer la sécurité du protocole, les validateurs de la chaîne dYdX retardent le règlement de la chaîne dYdX dYdX"
+      "TITLE": "Règlement de la chaîne h2rwa",
+      "BODY": "Pour assurer la sécurité du protocole, les validateurs de la chaîne h2rwa retardent le règlement de la chaîne h2rwa h2rwa"
     }
   },
   "TRADE_CHART": {
@@ -415,7 +415,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "Prix de référence",
-      "BODY": "Le prix de référence est la moyenne mobile sur 30 jours du prix du marché et est utilisé comme donnée d'entrée pour calculer automatiquement les paramètres du marché sur la chaîne dYdX. Le prix de référence devrait être approximativement le même que le prix actuel du marché (c'est-à-dire arrondi au chiffre inférieur aux mêmes puissances de 10)."
+      "BODY": "Le prix de référence est la moyenne mobile sur 30 jours du prix du marché et est utilisé comme donnée d'entrée pour calculer automatiquement les paramètres du marché sur la chaîne h2rwa. Le prix de référence devrait être approximativement le même que le prix actuel du marché (c'est-à-dire arrondi au chiffre inférieur aux mêmes puissances de 10)."
     },
     "SELF_REPORTED_CMC": {
       "BODY": "Cette valeur est déclarée sur CoinMarketCap."

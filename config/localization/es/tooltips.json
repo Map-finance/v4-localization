@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "Tarifa de trading",
-      "BODY": "La red cobra las tarifas de trading en función de un porcentaje de tu volumen de trading. Las tarifas de trading se devengan a los validadores y a los participantes de dYdX. No se cobran tarifas de gas para operar en dYdX."
+      "BODY": "La red cobra las tarifas de trading en función de un porcentaje de tu volumen de trading. Las tarifas de trading se devengan a los validadores y a los participantes de h2rwa. No se cobran tarifas de gas para operar en h2rwa."
     },
     "FILL_OR_KILL": {
       "TITLE": "Fill or Kill",
@@ -174,7 +174,7 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "Recompensas estimadas",
-      "BODY": "Ganá recompensas cuando operás en dYdX. Las recompensas reales pueden variar."
+      "BODY": "Ganá recompensas cuando operás en h2rwa. Las recompensas reales pueden variar."
     },
     "NET_FUNDING": {
       "TITLE": "Financiación neta",
@@ -246,7 +246,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "Recompensas ganadas",
-      "BODY": "Ganá recompensas cuando operás en dYdX."
+      "BODY": "Ganá recompensas cuando operás en h2rwa."
     },
     "SPREAD": {
       "TITLE": "Extensión",
@@ -323,7 +323,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "Depósitos sin gas",
-      "BODY": "dYdX cubrirá tus tarifas de gas si depositas {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} o más. Eres elegible para un depósito sin gas cada tres días. Los depósitos sin gas están sujetos a ciertas reglas."
+      "BODY": "h2rwa cubrirá tus tarifas de gas si depositas {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} o más. Eres elegible para un depósito sin gas cada tres días. Los depósitos sin gas están sujetos a ciertas reglas."
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Depósitos de tarifa más baja",
@@ -357,11 +357,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "Tarifa de retiro rápido",
-      "BODY": "Los retiros rápidos se envían de inmediato y dYdX va a cubrir los costos del gas a cambio de una tarifa. Para retiros sin cargo, usá un retiro lento (vas a pagar tus propios costos de gas y a tener que esperar la confirmación de la etapa 2)."
+      "BODY": "Los retiros rápidos se envían de inmediato y h2rwa va a cubrir los costos del gas a cambio de una tarifa. Para retiros sin cargo, usá un retiro lento (vas a pagar tus propios costos de gas y a tener que esperar la confirmación de la etapa 2)."
     },
     "GAS_FEES": {
       "TITLE": "Tarifas de gas",
-      "BODY": "Las tarifas de gas son tarifas de transacción en la cadena fuente, en este caso dYdX."
+      "BODY": "Las tarifas de gas son tarifas de transacción en la cadena fuente, en este caso h2rwa."
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Retiros de la tarifa más baja",
@@ -377,7 +377,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "Tipos de retiro",
-      "BODY": "dYdX permite dos tipos de retiro de la etapa 2. Los retiros rápidos implican una pequeña tarifa, pero no requieren gas y se envían de inmediato. Los retiros lentos son gratuitos, pero requieren dos pasos, llevan mucho más tiempo y el usuario va a tener que pagar sus propias tasas de gas."
+      "BODY": "h2rwa permite dos tipos de retiro de la etapa 2. Los retiros rápidos implican una pequeña tarifa, pero no requieren gas y se envían de inmediato. Los retiros lentos son gratuitos, pero requieren dos pasos, llevan mucho más tiempo y el usuario va a tener que pagar sus propias tasas de gas."
     }
   },
   "STAKE": {
@@ -394,8 +394,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "Liquidación de la cadena dYdX",
-      "BODY": "Para garantizar la seguridad del protocolo, los validadores de la cadena dYdX retrasan la liquidación de la cadena dYdX, DYDX."
+      "TITLE": "Liquidación de la cadena h2rwa",
+      "BODY": "Para garantizar la seguridad del protocolo, los validadores de la cadena h2rwa retrasan la liquidación de la cadena h2rwa, H2RWA."
     }
   },
   "TRADE_CHART": {
@@ -407,7 +407,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "Precio de referencia",
-      "BODY": "El precio de referencia es el promedio móvil de 30 días del precio de mercado y se usa como dato para calcular automáticamente los parámetros del mercado en la cadena dYdX. El precio de referencia debe ser aproximadamente el mismo que el precio actual del mercado (es decir, redondeado a la baja a las mismas potencias de 10)."
+      "BODY": "El precio de referencia es el promedio móvil de 30 días del precio de mercado y se usa como dato para calcular automáticamente los parámetros del mercado en la cadena h2rwa. El precio de referencia debe ser aproximadamente el mismo que el precio actual del mercado (es decir, redondeado a la baja a las mismas potencias de 10)."
     },
     "SELF_REPORTED_CMC": {
       "BODY": "Este valor se informa en CoinMarketCap"

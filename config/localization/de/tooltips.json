@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "Handelsgebühr",
-      "BODY": "Das Netzwerk erhebt Handelsgebühren in Höhe eines Prozentsatzes Ihres Handelsvolumens. Handelsgebühren fallen für Validatoren und DYDX-Staker an. Für den Handel auf dYdX fallen keine Gasgebühren an."
+      "BODY": "Das Netzwerk erhebt Handelsgebühren in Höhe eines Prozentsatzes Ihres Handelsvolumens. Handelsgebühren fallen für Validatoren und H2RWA-Staker an. Für den Handel auf h2rwa fallen keine Gasgebühren an."
     },
     "FILL_OR_KILL": {
       "TITLE": "Fill or Kill",
@@ -174,7 +174,7 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "Geschätzte Prämien",
-      "BODY": "Verdienen Sie Prämien, wenn Sie auf dYdX traden. Tatsächliche Prämien können variieren."
+      "BODY": "Verdienen Sie Prämien, wenn Sie auf h2rwa traden. Tatsächliche Prämien können variieren."
     },
     "NET_FUNDING": {
       "TITLE": "Nettofinanzierung",
@@ -246,7 +246,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "Verdiente Prämien",
-      "BODY": "Verdienen Sie Prämien, wenn Sie auf dYdX traden."
+      "BODY": "Verdienen Sie Prämien, wenn Sie auf h2rwa traden."
     },
     "SPREAD": {
       "TITLE": "Spread",
@@ -323,7 +323,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "Gasfreie Einzahlungen.",
-      "BODY": "dYdX übernimmt Ihre Gas-Kosten, wenn Sie mindestens {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} einzahlen. Sie haben alle drei Tage Anspruch auf eine gasfreie Einzahlung. Die Einzahlungen ohne Gas unterliegen bestimmten Regeln."
+      "BODY": "h2rwa übernimmt Ihre Gas-Kosten, wenn Sie mindestens {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} einzahlen. Sie haben alle drei Tage Anspruch auf eine gasfreie Einzahlung. Die Einzahlungen ohne Gas unterliegen bestimmten Regeln."
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Einzahlungen mit der niedrigsten Gebühr",
@@ -357,11 +357,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "Gebühr für schnelle Auszahlung",
-      "BODY": "Schnelle Auszahlungen werden sofort versandt und dYdX übernimmt die Gaskosten im Austausch gegen eine Gebühr. Für gebührenfreie Auszahlungen verwenden Sie bitte eine langsame Auszahlung (Sie zahlen Ihre eigenen Gaskosten und müssen die Layer 2-Bestätigung abwarten.)"
+      "BODY": "Schnelle Auszahlungen werden sofort versandt und h2rwa übernimmt die Gaskosten im Austausch gegen eine Gebühr. Für gebührenfreie Auszahlungen verwenden Sie bitte eine langsame Auszahlung (Sie zahlen Ihre eigenen Gaskosten und müssen die Layer 2-Bestätigung abwarten.)"
     },
     "GAS_FEES": {
       "TITLE": "Gasgebühren",
-      "BODY": "Gasgebühren sind Transaktionsgebühren auf der Quell-Chain, in diesem Fall dYdX."
+      "BODY": "Gasgebühren sind Transaktionsgebühren auf der Quell-Chain, in diesem Fall h2rwa."
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Auszahlungen mit der niedrigsten Gebühr",
@@ -377,7 +377,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "Auszahlungsarten",
-      "BODY": "dYdX unterstützt zwei Arten von Layer-2-Auszahlungen: Schnelle Auszahlungen, die eine geringe Gebühr erfordern, aber kein Gas benötigen und sofort versendet werden. Langsame Auszahlungen sind kostenfrei, erfordern allerdings zwei Schritte und dauern weitaus länger. Der Kunde muss seine eigenen Gasgebühren bezahlen."
+      "BODY": "h2rwa unterstützt zwei Arten von Layer-2-Auszahlungen: Schnelle Auszahlungen, die eine geringe Gebühr erfordern, aber kein Gas benötigen und sofort versendet werden. Langsame Auszahlungen sind kostenfrei, erfordern allerdings zwei Schritte und dauern weitaus länger. Der Kunde muss seine eigenen Gasgebühren bezahlen."
     }
   },
   "STAKE": {
@@ -394,8 +394,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "dYdX-Chain-Abwicklung",
-      "BODY": "Um die Sicherheit des Protokolls zu gewährleisten, verzögern dYdX-Chain-Validatoren die Abwicklung von dYdX-Chain-DYDX."
+      "TITLE": "h2rwa-Chain-Abwicklung",
+      "BODY": "Um die Sicherheit des Protokolls zu gewährleisten, verzögern h2rwa-Chain-Validatoren die Abwicklung von h2rwa-Chain-H2RWA."
     }
   },
   "TRADE_CHART": {
@@ -407,7 +407,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "Referenzpreis",
-      "BODY": "Der Referenzpreis ist der rollierende 30-Tage-Durchschnitt des Marktpreises und wird als Input verwendet, um die Marktparameter auf dYdX Chain automatisch zu berechnen. Der Referenzpreis sollte ungefähr gleich dem aktuellen Preis des Marktes sein (d. h. auf die gleichen 10-Potenzen runtergerundet)."
+      "BODY": "Der Referenzpreis ist der rollierende 30-Tage-Durchschnitt des Marktpreises und wird als Input verwendet, um die Marktparameter auf h2rwa Chain automatisch zu berechnen. Der Referenzpreis sollte ungefähr gleich dem aktuellen Preis des Marktes sein (d. h. auf die gleichen 10-Potenzen runtergerundet)."
     },
     "SELF_REPORTED_CMC": {
       "BODY": "Dieser Wert wird auf CoinMarketCap selbst gemeldet."

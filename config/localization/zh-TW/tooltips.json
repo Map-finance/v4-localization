@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "交易費用",
-      "BODY": "交易費用由網絡根據交易量的百分比收取。交易費用將分配給驗證人和DYDX質押人。在dYdX上交易不會產生gas費。"
+      "BODY": "交易費用由網絡根據交易量的百分比收取。交易費用將分配給驗證人和DYDX質押人。在h2rwa上交易不會產生gas費。"
     },
     "FILL_OR_KILL": {
       "TITLE": "全部成交否則取消指令",
@@ -178,11 +178,11 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "預估獎勵",
-      "BODY": "一邊在dYdX上交易，一邊賺取獎勵。實際獎勵可能有所不同。"
+      "BODY": "一邊在h2rwa上交易，一邊賺取獎勵。實際獎勵可能有所不同。"
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
       "TITLE": "DYDX獎勵",
-      "BODY": "在 DYDX 賺取 {REWARD_PERCENT}% 的費用返還，並通過 dYdX Surge 爭奪您的份額{REWARD_AMOUNT}！當月末支付獎勵"
+      "BODY": "在 H2RWA 賺取 {REWARD_PERCENT}% 的費用返還，並通過 h2rwa Surge 爭奪您的份額{REWARD_AMOUNT}！當月末支付獎勵"
     },
     "NET_FUNDING": {
       "TITLE": "淨資金",
@@ -254,7 +254,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "已賺取的獎勵",
-      "BODY": "一邊在dYdX上交易，一邊賺取獎勵。"
+      "BODY": "一邊在h2rwa上交易，一邊賺取獎勵。"
     },
     "SPREAD": {
       "TITLE": "點差",
@@ -331,7 +331,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "無gas存款",
-      "BODY": "存入{GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}或以上，dYdX將承擔您的gas費。您每三天可享受一次無gas存款。需遵守相關規則。"
+      "BODY": "存入{GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}或以上，h2rwa將承擔您的gas費。您每三天可享受一次無gas存款。需遵守相關規則。"
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "最低費用存款",
@@ -365,11 +365,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "快速提現費",
-      "BODY": "快速提現會立即發出，dYdX將承擔gas成本並收取費用。如果要免費提現，請使用正常提現（您自行承擔gas成本，並且必須等待Layer 2確認）。"
+      "BODY": "快速提現會立即發出，h2rwa將承擔gas成本並收取費用。如果要免費提現，請使用正常提現（您自行承擔gas成本，並且必須等待Layer 2確認）。"
     },
     "GAS_FEES": {
       "TITLE": "Gas費",
-      "BODY": "Gas費是源鏈（此處為dYdX）上的交易費用。"
+      "BODY": "Gas費是源鏈（此處為h2rwa）上的交易費用。"
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "提現費用最低",
@@ -385,7 +385,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "提現類型",
-      "BODY": "dYdX支持兩種從Layer 2提現的類型。快速提現需支付少量費用，但無需gas費用且立即發送。正常提現免費，但需兩步操作，耗時較長，並且用户必須自行承擔gas費用。"
+      "BODY": "h2rwa支持兩種從Layer 2提現的類型。快速提現需支付少量費用，但無需gas費用且立即發送。正常提現免費，但需兩步操作，耗時較長，並且用户必須自行承擔gas費用。"
     }
   },
   "STAKE": {
@@ -402,8 +402,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "dYdX鏈結算",
-      "BODY": "為確保協議安全，dYdX 鏈驗證者延遲了dYdX鏈DYDX的結算。"
+      "TITLE": "h2rwa鏈結算",
+      "BODY": "為確保協議安全，h2rwa 鏈驗證者延遲了h2rwa鏈DYDX的結算。"
     }
   },
   "TRADE_CHART": {
@@ -415,7 +415,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "參考價格",
-      "BODY": "參考價格是市場價格的30天滾動平均值，用作在dYdX鏈上自動計算市場參數的輸入。 參考價格應與市場當前價格大致相同（即向下取整至相同的10的冪次）。"
+      "BODY": "參考價格是市場價格的30天滾動平均值，用作在h2rwa鏈上自動計算市場參數的輸入。 參考價格應與市場當前價格大致相同（即向下取整至相同的10的冪次）。"
     },
     "SELF_REPORTED_CMC": {
       "BODY": "此值在CoinMarketCap上自行報告"

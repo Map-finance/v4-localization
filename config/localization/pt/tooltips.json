@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "Taxa de trading",
-      "BODY": "As taxas de trading são cobradas pela rede com base em uma porcentagem do seu volume de trading. As taxas de trading são acrescidas em validadores e stakers da dYdX. Não há taxas de \"gas\" para fazer trades na dYdX."
+      "BODY": "As taxas de trading são cobradas pela rede com base em uma porcentagem do seu volume de trading. As taxas de trading são acrescidas em validadores e stakers da h2rwa. Não há taxas de \"gas\" para fazer trades na h2rwa."
     },
     "FILL_OR_KILL": {
       "TITLE": "Preencher ou encerrar",
@@ -174,7 +174,7 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "Recompensas estimadas",
-      "BODY": "Ganhe recompensas quando fizer trades na dYdX. As recompensas reais podem variar."
+      "BODY": "Ganhe recompensas quando fizer trades na h2rwa. As recompensas reais podem variar."
     },
     "NET_FUNDING": {
       "TITLE": "Financiamento líquido",
@@ -246,7 +246,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "Recompensas recebidas",
-      "BODY": "Ganhe recompensas quando fizer trades na dYdX."
+      "BODY": "Ganhe recompensas quando fizer trades na h2rwa."
     },
     "SPREAD": {
       "TITLE": "Spread",
@@ -323,7 +323,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "Depósitos sem taxas",
-      "BODY": "A dYdX cobrirá suas taxas de “gas” se você depositar {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} ou mais. Você é elegível para um depósito sem cobrança de tarifa a cada três dias. Os depósitos sem cobrança de tarifa estão sujeitos às regras."
+      "BODY": "A h2rwa cobrirá suas taxas de “gas” se você depositar {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} ou mais. Você é elegível para um depósito sem cobrança de tarifa a cada três dias. Os depósitos sem cobrança de tarifa estão sujeitos às regras."
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Depósitos de taxa mais baixa",
@@ -357,11 +357,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "Taxa de saque rápido",
-      "BODY": "Os saques rápidos são enviados imediatamente e a dYdX cobrirá os custos de \"gas\" em troca de uma \"taxa\". Para saques sem taxas, use um saque lento (você paga seus próprios custos de “gas” e terá de esperar pela confirmação da Camada 2)."
+      "BODY": "Os saques rápidos são enviados imediatamente e a h2rwa cobrirá os custos de \"gas\" em troca de uma \"taxa\". Para saques sem taxas, use um saque lento (você paga seus próprios custos de “gas” e terá de esperar pela confirmação da Camada 2)."
     },
     "GAS_FEES": {
       "TITLE": "Taxas de “gas”",
-      "BODY": "As taxas de \"gas\" são taxas de transação na cadeia de origem, neste caso dYdX."
+      "BODY": "As taxas de \"gas\" são taxas de transação na cadeia de origem, neste caso h2rwa."
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Saques de taxa mais baixa",
@@ -377,7 +377,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "Tipos de saque",
-      "BODY": "A dYdX oferece suporte a dois tipos de saques da Camada 2. Os saques rápidos têm uma taxa pequena, mas não exigem gás e são enviados imediatamente. Já os saques lentos são gratuitos, mas possuem duas etapas, pois levam muito mais tempo e o usuário terá de pagar suas próprias taxas de \"gas\"."
+      "BODY": "A h2rwa oferece suporte a dois tipos de saques da Camada 2. Os saques rápidos têm uma taxa pequena, mas não exigem gás e são enviados imediatamente. Já os saques lentos são gratuitos, mas possuem duas etapas, pois levam muito mais tempo e o usuário terá de pagar suas próprias taxas de \"gas\"."
     }
   },
   "STAKE": {
@@ -394,8 +394,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "Liquidação na cadeia dYdX",
-      "BODY": "Para garantir a segurança do protocolo, os validadores da cadeia dYdX adiam a liquidação da dYdX da cadeia DYDX."
+      "TITLE": "Liquidação na cadeia h2rwa",
+      "BODY": "Para garantir a segurança do protocolo, os validadores da cadeia h2rwa adiam a liquidação da h2rwa da cadeia H2RWA."
     }
   },
   "TRADE_CHART": {
@@ -407,7 +407,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "Preço de referência",
-      "BODY": "O Preço de referência é a média contínua de 30 dias do preço de mercado e é usado como uma entrada para calcular automaticamente os parâmetros do mercado na Cadeia dYdX. O preço de referência deve ser aproximadamente o mesmo que o preço atual do mercado (ex.: arredondado para baixo, para as mesmas potências de 10)."
+      "BODY": "O Preço de referência é a média contínua de 30 dias do preço de mercado e é usado como uma entrada para calcular automaticamente os parâmetros do mercado na Cadeia h2rwa. O preço de referência deve ser aproximadamente o mesmo que o preço atual do mercado (ex.: arredondado para baixo, para as mesmas potências de 10)."
     },
     "SELF_REPORTED_CMC": {
       "BODY": "Este valor é autorrelatado na CoinMarketCap"

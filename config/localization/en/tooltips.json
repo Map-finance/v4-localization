@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "Trading Fee",
-      "BODY": "Trading fees are charged by the network based on a percent of your trading volume. Trading fees accrue to validators and DYDX stakers. There are no gas fees to trade on dYdX."
+      "BODY": "Trading fees are charged by the network based on a percent of your trading volume. Trading fees accrue to validators and H2RWA stakers. There are no gas fees to trade on h2rwa."
     },
     "FILL_OR_KILL": {
       "TITLE": "Fill Or Kill",
@@ -178,11 +178,11 @@
     },
     "MAXIMUM_REWARDS": {
       "TITLE": "Estimated Rewards",
-      "BODY": "Earn rewards when you trade on dYdX. Actual rewards may vary."
+      "BODY": "Earn rewards when you trade on h2rwa. Actual rewards may vary."
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
-      "TITLE": "DYDX Rewards",
-      "BODY": "Earn {REWARD_PERCENT}% of your fees back in DYDX and compete for your share of {REWARD_AMOUNT} through dYdX Surge! Rewards are paid out at the end of the month"
+      "TITLE": "H2RWA Rewards",
+      "BODY": "Earn {REWARD_PERCENT}% of your fees back in H2RWA and compete for your share of {REWARD_AMOUNT} through h2rwa Surge! Rewards are paid out at the end of the month"
     },
     "NET_FUNDING": {
       "TITLE": "Net Funding",
@@ -254,7 +254,7 @@
     },
     "REWARDS_EARNED": {
       "TITLE": "Rewards Earned",
-      "BODY": "Earn rewards when you trade on dYdX."
+      "BODY": "Earn rewards when you trade on h2rwa."
     },
     "SPREAD": {
       "TITLE": "Spread",
@@ -331,7 +331,7 @@
     },
     "GASLESS_DEPOSITS": {
       "TITLE": "Gasless Deposits",
-      "BODY": "dYdX will cover your gas fees if you deposit {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} or more. You are eligible for one gasless deposit every three days. Gasless deposits are subject to rules."
+      "BODY": "h2rwa will cover your gas fees if you deposit {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL} or more. You are eligible for one gasless deposit every three days. Gasless deposits are subject to rules."
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Lowest Fee Deposits",
@@ -365,11 +365,11 @@
   "WITHDRAW": {
     "FAST_WITHDRAW_FEE": {
       "TITLE": "Fast Withdraw Fee",
-      "BODY": "Fast withdraws are sent immediately and dYdX will cover the gas costs in exchange for a fee. For fee-free withdraws, please use a slow withdraw (you pay your own gas costs and will have to wait for Layer 2 confirmation)."
+      "BODY": "Fast withdraws are sent immediately and h2rwa will cover the gas costs in exchange for a fee. For fee-free withdraws, please use a slow withdraw (you pay your own gas costs and will have to wait for Layer 2 confirmation)."
     },
     "GAS_FEES": {
       "TITLE": "Gas Fees",
-      "BODY": "Gas fees are transaction fees on the source chain, in this case dYdX."
+      "BODY": "Gas fees are transaction fees on the source chain, in this case h2rwa."
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Lowest Fee Withdrawals",
@@ -385,7 +385,7 @@
     },
     "WITHDRAW_TYPES": {
       "TITLE": "Withdraw Types",
-      "BODY": "dYdX supports two types of withdraws from Layer 2. Fast withdraws carry a small fee but do not require gas and are sent immediately. Slow withdraws are free but require two steps, take much longer, and the user will have to pay their own gas fees."
+      "BODY": "h2rwa supports two types of withdraws from Layer 2. Fast withdraws carry a small fee but do not require gas and are sent immediately. Slow withdraws are free but require two steps, take much longer, and the user will have to pay their own gas fees."
     }
   },
   "STAKE": {
@@ -402,8 +402,8 @@
   },
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
-      "TITLE": "dYdX Chain settlement",
-      "BODY": "To ensure the security of the protocol, dYdX Chain validators delay the settlement of dYdX Chain DYDX."
+      "TITLE": "h2rwa Chain settlement",
+      "BODY": "To ensure the security of the protocol, h2rwa Chain validators delay the settlement of h2rwa Chain H2RWA."
     }
   },
   "TRADE_CHART": {
@@ -415,7 +415,7 @@
   "NEW_MARKET_WIDGET": {
     "REFERENCE_PRICE": {
       "TITLE": "Reference Price",
-      "BODY": "The Reference Price is the rolling 30 day average of the market's price and is used as an input to automatically calculate the market's parameters on dYdX Chain. The Reference Price should approximately be the same as the market's current price (i.e. round down to the same powers of 10)."
+      "BODY": "The Reference Price is the rolling 30 day average of the market's price and is used as an input to automatically calculate the market's parameters on h2rwa Chain. The Reference Price should approximately be the same as the market's current price (i.e. round down to the same powers of 10)."
     },
     "SELF_REPORTED_CMC": {
       "BODY": "This value is self reported on CoinMarketCap"
