@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": " 您的 H2 鏈地址“{DYDX_ADDRESS}”根據以太坊地址“{EVM_ADDRESS}”的簽名創建。"
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "您的H2鏈地址“{DYDX_ADDRESS}”是根據Solana地址“{SOLANA_ADDRESS}”的簽名創建的"
     },
     "LEGACY_SIGNING": {
@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "交易費用",
-      "BODY": "交易費用由網絡根據交易量的百分比收取。交易費用將分配給驗證人和DYDX質押人。在h2rwa上交易不會產生gas費。"
+      "BODY": "交易費用由網絡根據交易量的百分比收取。交易費用將分配給驗證人和H2RWA質押人。在h2rwa上交易不會產生gas費。"
     },
     "FILL_OR_KILL": {
       "TITLE": "全部成交否則取消指令",
@@ -181,7 +181,7 @@
       "BODY": "一邊在h2rwa上交易，一邊賺取獎勵。實際獎勵可能有所不同。"
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
-      "TITLE": "DYDX獎勵",
+      "TITLE": "H2RWA獎勵",
       "BODY": "在 H2RWA 賺取 {REWARD_PERCENT}% 的費用返還，並通過 h2rwa Surge 爭奪您的份額{REWARD_AMOUNT}！當月末支付獎勵"
     },
     "NET_FUNDING": {
@@ -401,9 +401,9 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwa鏈結算",
-      "BODY": "為確保協議安全，h2rwa 鏈驗證者延遲了h2rwa鏈DYDX的結算。"
+      "BODY": "為確保協議安全，h2rwa 鏈驗證者延遲了h2rwa鏈H2RWA的結算。"
     }
   },
   "TRADE_CHART": {

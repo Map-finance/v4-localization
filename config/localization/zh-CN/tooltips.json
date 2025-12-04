@@ -78,7 +78,7 @@
     },
     "FEE": {
       "TITLE": "交易费用",
-      "BODY": "交易费用由网络根据交易量的百分比收取。交易费用将分配给验证人和DYDX质押人。在h2rwa上交易不会产生gas费。"
+      "BODY": "交易费用由网络根据交易量的百分比收取。交易费用将分配给验证人和H2RWA质押人。在h2rwa上交易不会产生gas费。"
     },
     "FILL_OR_KILL": {
       "TITLE": "全部成交否则取消指令",
@@ -181,7 +181,7 @@
       "BODY": "一边在h2rwa上交易，一边赚取奖励。实际奖励可能有所不同。"
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
-      "TITLE": "DYDX奖励",
+      "TITLE": "H2RWA奖励",
       "BODY": "在 H2RWA 赚取 {REWARD_PERCENT}% 的费用返还，并通过 h2rwa Surge 争夺您的份额{REWARD_AMOUNT}！当月末支付奖励"
     },
     "NET_FUNDING": {
@@ -403,7 +403,7 @@
   "TOKEN_MIGRATION": {
     "DYDX_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwa链结算",
-      "BODY": "为确保协议安全，h2rwa 链验证者延迟了h2rwa链DYDX的结算。"
+      "BODY": "为确保协议安全，h2rwa 链验证者延迟了h2rwa链H2RWA的结算。"
     }
   },
   "TRADE_CHART": {

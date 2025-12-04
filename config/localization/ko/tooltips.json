@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": "귀하의 '{DYDX_ADDRESS}' H2 체인 주소는 이더리움 주소 '{EVM_ADDRESS}'의 서명에서 만들어졌습니다."
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "귀하의 '{DYDX_ADDRESS}' H2 체인 주소는 솔라나 주소 '{SOLANA_ADDRESS}'의 서명에서 만들어졌습니다."
     },
     "LEGACY_SIGNING": {
@@ -182,7 +182,7 @@
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
       "TITLE": "H2RWA 보상",
-      "BODY": "DYDX에서 수수료의 {REWARD_PERCENT}%를 환급받고 h2rwa Surge를 통해 {REWARD_AMOUNT}의 몫을 놓고 경쟁하세요! 보상은 월말에 지급됩니다."
+      "BODY": "H2RWA에서 수수료의 {REWARD_PERCENT}%를 환급받고 h2rwa Surge를 통해 {REWARD_AMOUNT}의 몫을 놓고 경쟁하세요! 보상은 월말에 지급됩니다."
     },
     "NET_FUNDING": {
       "TITLE": "펀딩 순이익",
@@ -401,9 +401,9 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwa 체인 정산",
-      "BODY": "프로토콜의 보안을 보장하기 위해 h2rwa 체인 검증기는 h2rwa 체인 DYDX의 정산을 지연시킵니다."
+      "BODY": "프로토콜의 보안을 보장하기 위해 h2rwa 체인 검증기는 h2rwa 체인 H2RWA의 정산을 지연시킵니다."
     }
   },
   "TRADE_CHART": {

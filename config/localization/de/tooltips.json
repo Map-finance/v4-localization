@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": "Ihre H2-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Ethereum-Adresse „{EVM_ADDRESS}“ erstellt."
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "Ihre H2-Chain-Adresse „{DYDX_ADDRESS}“ wurde aus der Signatur der Solana-Adresse „{SOLANA_ADDRESS}“ erstellt."
     },
     "LEGACY_SIGNING": {
@@ -393,7 +393,7 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwa-Chain-Abwicklung",
       "BODY": "Um die Sicherheit des Protokolls zu gewährleisten, verzögern h2rwa-Chain-Validatoren die Abwicklung von h2rwa-Chain-H2RWA."
     }

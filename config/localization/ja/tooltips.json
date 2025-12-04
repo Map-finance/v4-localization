@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": "H2チェーンアドレス「{DYDX_ADDRESS}」は、イーサリアムアドレス「{EVM_ADDRESS}」の署名から作成されました。"
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "H2チェーンアドレス「{DYDX_ADDRESS}」は、Solanaアドレス「{SOLANA_ADDRESS}」の署名から作成されました。"
     },
     "LEGACY_SIGNING": {
@@ -181,8 +181,8 @@
       "BODY": "h2rwaでの取引で報酬を獲得しましょう。 実際の報酬は異なる場合があります。"
     },
     "MAXIMUM_REWARDS_SEPT_2025": {
-      "TITLE": "DYDXリワード",
-      "BODY": "DYDXで取引手数料の{REWARD_PERCENT}％を還元。h2rwa Surgeで競争して{REWARD_AMOUNT}の一部を獲得しましょう。報酬は月末に支払われます"
+      "TITLE": "H2RWAリワード",
+      "BODY": "H2RWAで取引手数料の{REWARD_PERCENT}％を還元。h2rwa Surgeで競争して{REWARD_AMOUNT}の一部を獲得しましょう。報酬は月末に支払われます"
     },
     "NET_FUNDING": {
       "TITLE": "ネット資金",
@@ -401,7 +401,7 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwaチェーン決済",
       "BODY": "プロトコルのセキュリティを確保するために、h2rwaチェーンバリデータは、h2rwaチェーンのh2rwaの決済を遅延させます。"
     }

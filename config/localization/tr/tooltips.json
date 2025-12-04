@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": "\"{DYDX_ADDRESS}\" H2 Zinciri adresiniz \"{EVM_ADDRESS}\" Ethereum adresinin imzasından oluşturulmuştur."
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "\"{DYDX_ADDRESS}\" H2 Zinciri adresiniz \"{SOLANA_ADDRESS}\" Solana adresinin imzasından oluşturulmuştur."
     },
     "LEGACY_SIGNING": {
@@ -393,7 +393,7 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "h2rwa Zincir bağlama",
       "BODY": "h2rwa Zinciri doğrulayıcıları, protokolün güvenliğini sağlamak için h2rwa Zincirindeki H2RWA'in bağlanmasını geciktirir."
     }

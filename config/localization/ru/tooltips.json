@@ -1,9 +1,9 @@
 {
   "GENERAL": {
-    "DYDX_ADDRESS_FROM_ETHEREUM": {
+    "H2RWA_ADDRESS_FROM_ETHEREUM": {
       "BODY": "Ваш адрес H2 Chain «{DYDX_ADDRESS}» был создан из подписи адреса Ethereum «{EVM_ADDRESS}»."
     },
-    "DYDX_ADDRESS_FROM_SOLANA": {
+    "H2RWA_ADDRESS_FROM_SOLANA": {
       "BODY": "Ваш адрес H2 Chain «{DYDX_ADDRESS}» был создан из подписи адреса Solana «{SOLANA_ADDRESS}»."
     },
     "LEGACY_SIGNING": {
@@ -401,7 +401,7 @@
     }
   },
   "TOKEN_MIGRATION": {
-    "DYDX_CHAIN_SETTLEMENT": {
+    "H2RWA_CHAIN_SETTLEMENT": {
       "TITLE": "Расчеты на блокчейне h2rwa",
       "BODY": "С целью защиты протокола валидаторы блокчейна h2rwa задерживают расчеты блокчейна h2rwa."
     }

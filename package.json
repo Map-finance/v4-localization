@@ -1,6 +1,6 @@
 {
   "name": "@h2protocol/v4-localization",
-  "version": "1.1.350-h2.1",
+  "version": "1.1.353-h2.1",
   "description": "v4 localization",
   "main": "index.ts",
   "scripts": {
@@ -19,9 +19,9 @@
   "author": "",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/dydxprotocol/v4-localization/issues"
+    "url": "https://github.com/Map-finance/v4-localization/issues"
   },
-  "homepage": "https://github.com/dydxprotocol/v4-localization#readme",
+  "homepage": "https://github.com/Map-finance/v4-localization#readme",
   "devDependencies": {
     "@types/node": "^20.1.7"
   }
