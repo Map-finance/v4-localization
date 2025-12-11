@@ -1764,6 +1764,7 @@
       "KYC_REQUIRED_TITLE": "交易受限",
       "KYC_REQUIRED_BODY": "此交易需要身份認證，請先進行身份認證",
       "KYC_VERIFY_ACTION": "去認證",
+      "KYC_VERIFY_REVIEW": "身份認證審核中，請耐心等待",
       "BUYING_POWER": "購買力",
       "AVAILABLE": "可用",
       "ESTIMATED_COST": "預估成本",

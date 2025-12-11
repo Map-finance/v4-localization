@@ -1735,6 +1735,7 @@
       "KYC_REQUIRED_TITLE": "Comercio restringido",
       "KYC_REQUIRED_BODY": "Esta operación requiere verificación de identidad. Por favor, complete primero la verificación KYC.",
       "KYC_VERIFY_ACTION": "Verificar ahora",
+      "KYC_VERIFY_REVIEW": "La verificación de identidad está en revisión. Por favor, tenga paciencia.",
       "BUYING_POWER": "Poder de compra",
       "AVAILABLE": "Disponible",
       "ESTIMATED_COST": "Costo estimado",

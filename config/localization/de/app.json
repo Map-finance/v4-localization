@@ -1735,6 +1735,7 @@
       "KYC_REQUIRED_TITLE": "Handel eingeschränkt",
       "KYC_REQUIRED_BODY": "Dieser Handel erfordert eine Identitätsverifizierung. Bitte schließen Sie zuerst die KYC-Verifizierung ab.",
       "KYC_VERIFY_ACTION": "Jetzt verifizieren",
+      "KYC_VERIFY_REVIEW": "Die Identitätsverifizierung wird überprüft. Bitte haben Sie Geduld.",
       "BUYING_POWER": "Kaufkraft",
       "AVAILABLE": "Verfügbar",
       "ESTIMATED_COST": "Geschätzte Kosten",

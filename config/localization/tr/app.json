@@ -1735,6 +1735,7 @@
       "KYC_REQUIRED_TITLE": "İşlem kısıtlı",
       "KYC_REQUIRED_BODY": "Bu işlem kimlik doğrulaması gerektirir. Lütfen önce KYC doğrulamasını tamamlayın.",
       "KYC_VERIFY_ACTION": "Şimdi doğrula",
+      "KYC_VERIFY_REVIEW": "Kimlik doğrulaması inceleniyor. Lütfen sabırlı olun.",
       "BUYING_POWER": "Satın Alma Gücü",
       "AVAILABLE": "Kullanılabilir",
       "ESTIMATED_COST": "Tahmini Maliyet",

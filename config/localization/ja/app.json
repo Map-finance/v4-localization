@@ -1764,6 +1764,7 @@
       "KYC_REQUIRED_TITLE": "取引制限",
       "KYC_REQUIRED_BODY": "この取引には本人確認が必要です。まずKYCを完了してください",
       "KYC_VERIFY_ACTION": "認証する",
+      "KYC_VERIFY_REVIEW": "本人確認審査中です。しばらくお待ちください",
       "BUYING_POWER": "購買力",
       "AVAILABLE": "利用可能",
       "ESTIMATED_COST": "推定コスト",

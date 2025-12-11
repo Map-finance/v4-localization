@@ -1735,6 +1735,7 @@
       "KYC_REQUIRED_TITLE": "Negociação restrita",
       "KYC_REQUIRED_BODY": "Esta operação requer verificação de identidade. Por favor, complete primeiro a verificação KYC.",
       "KYC_VERIFY_ACTION": "Verificar agora",
+      "KYC_VERIFY_REVIEW": "A verificação de identidade está em análise. Por favor, aguarde.",
       "BUYING_POWER": "Poder de compra",
       "AVAILABLE": "Disponível",
       "ESTIMATED_COST": "Custo estimado",

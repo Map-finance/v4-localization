@@ -1765,6 +1765,7 @@
       "KYC_REQUIRED_TITLE": "Trading Restricted",
       "KYC_REQUIRED_BODY": "This trade requires identity verification. Please complete KYC first.",
       "KYC_VERIFY_ACTION": "Verify Now",
+      "KYC_VERIFY_REVIEW": "Identity verification is under review. Please be patient.",
       "BUYING_POWER": "Buying Power",
       "AVAILABLE": "Available",
       "ESTIMATED_COST": "Estimated Cost",
