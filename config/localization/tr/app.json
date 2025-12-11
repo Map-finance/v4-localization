@@ -1732,6 +1732,9 @@
       "YOUR_POSITION_WAS_LIQUIDATED": "Pozisyonunuz tasfiye edildi."
     },
     "SPOT": {
+      "KYC_REQUIRED_TITLE": "İşlem kısıtlı",
+      "KYC_REQUIRED_BODY": "Bu işlem kimlik doğrulaması gerektirir. Lütfen önce KYC doğrulamasını tamamlayın.",
+      "KYC_VERIFY_ACTION": "Şimdi doğrula",
       "BUYING_POWER": "Satın Alma Gücü",
       "AVAILABLE": "Kullanılabilir",
       "ESTIMATED_COST": "Tahmini Maliyet",

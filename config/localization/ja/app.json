@@ -1761,6 +1761,9 @@
       "YOUR_POSITION_WAS_LIQUIDATED": "お客様のポジションは清算されました。"
     },
     "SPOT": {
+      "KYC_REQUIRED_TITLE": "取引制限",
+      "KYC_REQUIRED_BODY": "この取引には本人確認が必要です。まずKYCを完了してください",
+      "KYC_VERIFY_ACTION": "認証する",
       "BUYING_POWER": "購買力",
       "AVAILABLE": "利用可能",
       "ESTIMATED_COST": "推定コスト",

@@ -1761,6 +1761,9 @@
       "YOUR_POSITION_WAS_LIQUIDATED": "您已被強制平倉。"
     },
     "SPOT": {
+      "KYC_REQUIRED_TITLE": "交易受限",
+      "KYC_REQUIRED_BODY": "此交易需要身份認證，請先進行身份認證",
+      "KYC_VERIFY_ACTION": "去認證",
       "BUYING_POWER": "購買力",
       "AVAILABLE": "可用",
       "ESTIMATED_COST": "預估成本",

@@ -1732,6 +1732,9 @@
       "YOUR_POSITION_WAS_LIQUIDATED": "Tu posición ha sido liquidada."
     },
     "SPOT": {
+      "KYC_REQUIRED_TITLE": "Comercio restringido",
+      "KYC_REQUIRED_BODY": "Esta operación requiere verificación de identidad. Por favor, complete primero la verificación KYC.",
+      "KYC_VERIFY_ACTION": "Verificar ahora",
       "BUYING_POWER": "Poder de compra",
       "AVAILABLE": "Disponible",
       "ESTIMATED_COST": "Costo estimado",
