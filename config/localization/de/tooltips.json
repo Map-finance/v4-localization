@@ -327,7 +327,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Einzahlungen mit der niedrigsten Gebühr",
-      "BODY": "USDC-Einzahlungen auf {LOWEST_FEE_TOKEN_NAMES} haben die niedrigsten Gebühren."
+      "BODY": "USDT-Einzahlungen auf {LOWEST_FEE_TOKEN_NAMES} haben die niedrigsten Gebühren."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "Mindesteinzahlungsbetrag",
@@ -335,7 +335,7 @@
     },
     "SWAP": {
       "TITLE": "Tauschen & Einzahlen",
-      "BODY": "Wenn Sie ein Non-USDC Asset einzahlen, wird Ihr Vermögenswert automatisch über die 0xAPI in USDC konvertiert. Wenn Sie die maximale Slippage festlegen, können Sie die Slippage angeben, die Sie zulassen, bevor die Umwandlung fehlschlägt."
+      "BODY": "Wenn Sie ein Non-USDT Asset einzahlen, wird Ihr Vermögenswert automatisch über die 0xAPI in USDT konvertiert. Wenn Sie die maximale Slippage festlegen, können Sie die Slippage angeben, die Sie zulassen, bevor die Umwandlung fehlschlägt."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -365,7 +365,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Auszahlungen mit der niedrigsten Gebühr",
-      "BODY": "USDC-Auszahlungen auf {LOWEST_FEE_TOKEN_NAMES} haben die niedrigsten Gebühren."
+      "BODY": "USDT-Auszahlungen auf {LOWEST_FEE_TOKEN_NAMES} haben die niedrigsten Gebühren."
     },
     "BRIDGE_FEES": {
       "TITLE": "Brückengebühren",

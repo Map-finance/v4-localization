@@ -526,7 +526,7 @@
       },
       "CRV": {
         "PRIMARY": "Curve es un grupo de liquidez de intercambio en Ethereum (como Uniswap) diseñado para un trading extremadamente eficiente de monedas estables y bajo riesgo, ingresos por tarifas suplementarias para proveedores de liquidez, sin costo de oportunidad.",
-        "SECONDARY": "Curve permite que los usuarios (y contratos inteligentes como 1inch, Paraswap, Totle y Dex.ag) operen entre DAI y USDC con un algoritmo personalizado de bajo slippage y baja tarifa diseñado específicamente para monedas estables y ganar tarifas."
+        "SECONDARY": "Curve permite que los usuarios (y contratos inteligentes como 1inch, Paraswap, Totle y Dex.ag) operen entre DAI y USDT con un algoritmo personalizado de bajo slippage y baja tarifa diseñado específicamente para monedas estables y ganar tarifas."
       },
       "DOGE": {
         "PRIMARY": "Dogecoin es una moneda digital de código abierto entre pares.",
@@ -811,8 +811,8 @@
       "EARN_FEES": "Gana tarifas",
       "EARN_FOR_EACH_TRADER_REFER_FOR_DISCOUNTS": "Gana hasta ${AMOUNT_PER_MONTH} por mes por cada nuevo comerciante que refieras. ¡Si eres un afiliado VIP, puedes ganar hasta ${VIP_AMOUNT_USD}! Tu referencia puede ahorrar hasta ${AMOUNT_DISCOUNT} en tarifas de trading. {LEARN_MORE_LINK}",
       "EARN_FOR_EACH_TRADER": "Gana hasta $ {AMOUNT_USD} por mes por cada nuevo comerciante.",
-      "EARN_USDC_DISCRIPTION": "Aprovecha las participaciones y otros productos para ganar USDC.",
-      "EARN_USDC": "Gana USDC",
+      "EARN_USDT_DISCRIPTION": "Aprovecha las participaciones y otros productos para ganar USDT.",
+      "EARN_USDT": "Gana USDT",
       "FEES_REFERRED": "Tarifas referidas",
       "HAS_REFERRED_YOU": "te ha referido para comenzar a operar en el intercambio abierto más poderoso del mundo.",
       "INVITE_FRIENDS": "Invitar a amigos",
@@ -969,12 +969,12 @@
       "LEGACY_SIGNING": "Firma de patrimonio",
       "LINK_WALLET": "Vincular billetera",
       "LINKING_WALLET": "Vinculando billetera",
-      "MINIMUM_DEPOSIT": "El depósito mínimo es {MIN_DEPOSIT_USDC}",
+      "MINIMUM_DEPOSIT": "El depósito mínimo es {MIN_DEPOSIT_USDT}",
       "MISSING_KEYS_DESCRIPTION": "¡Bienvenido de nuevo! Una o más de tus claves necesita ser recuperada",
       "NEED_A_WALLET": "¿Necesitas una billetera?",
       "NOBLE_ADDRESS": "Dirección Noble",
       "NOBLE_SWEEP": "Los fondos se transferirán a tu dirección h2rwa",
-      "NOBLE_ACKNOWLEDGEMENT": "Reconozco que esta dirección es solo para transferencias de Noble USDC a la cadena Noble. Entiendo los riesgos si envío otros fondos a esta dirección.",
+      "NOBLE_ACKNOWLEDGEMENT": "Reconozco que esta dirección es solo para transferencias de Noble USDT a la cadena Noble. Entiendo los riesgos si envío otros fondos a esta dirección.",
       "NOBLE_ADDRESS_VALIDATION": "Ingresa una dirección Noble válida.",
       "NO_FUTURE_ACCESS": "En el futuro no podrás acceder a este sitio o realizar operaciones en h2rwa mientras te encuentres en los Estados Unidos o en una ubicación restringida.",
       "NO_VPN_USE": "No estás utilizando y no utilizarás en el futuro una VPN para ocultar que estás físicamente en una ubicación restringida.",
@@ -1140,7 +1140,7 @@
     },
     "DEPOSIT_MODAL": {
       "ACKNOWLEDGE_TERMS_AND_DEPOSIT": "Aceptar términos y depositar",
-      "APPROVE_USDC": "Aprobar el USDC",
+      "APPROVE_USDT": "Aprobar el USDT",
       "BRIDGE_FEE": "Tarifa de puente",
       "DEPOSIT_VIA_COINBASE": "Depósito a través de Coinbase",
       "ENABLE_FOR_THIS_DEPOSIT": "Habilitar para este depósito",
@@ -1157,7 +1157,7 @@
       "GASLESS_DEPOSITS_TEMPORARILY_DISABLED": "Los depósitos sin gas no están disponibles. No te preocupes, ¡vuelven pronto!",
       "GASLESS_ETH_DEPOSITS": "Los depósitos sin gas no están disponibles para ETH. Puedes convertir tu ETH a WETH en {1INCH_WETH_LINK} o {UNISWAP_WETH_LINK} y usar depósitos sin gas WETH, o depositar directamente ETH pagando tus propios costos de gas.",
       "HELD": "ejecutado",
-      "LOWEST_FEE_DEPOSITS": "Los depósitos de USDC de {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros depósitos pueden tener tarifas de terceros adicionales.",
+      "LOWEST_FEE_DEPOSITS": "Los depósitos de USDT de {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros depósitos pueden tener tarifas de terceros adicionales.",
       "MAX_SLIPPAGE": "Slippage máximo",
       "MINIMUM_DEPOSIT_AMOUNT": "Monto de Depósito mínimo",
       "MINIMUM_DEPOSIT_MET": "¡Bien! Tu depósito cumple con el mínimo de depósito sin gas de {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}. h2rwa cubrirá las tarifas de gas para este depósito.",
@@ -1187,9 +1187,9 @@
       "HIGH_FEES_IN_GENERAL": "{HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT} en general",
       "HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT": "Tarifas más altas",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "tarifas más bajas",
-      "LOWEST_FEE_WITHDRAWALS_SKIP": "Los retiros de USDC en {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros métodos de retiro (por ejemplo, los activos en Ethereum) pueden tener tarifas de terceros más altas.",
-      "LOWEST_FEE_WITHDRAWALS": "Los retiros de USDC en {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros retiros pueden tener comisiones adicionales de terceros.",
-      "LOWEST_FEES_WITH_USDC": "{LOWEST_FEES_HIGHLIGHT_TEXT} con USDC",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "Los retiros de USDT en {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros métodos de retiro (por ejemplo, los activos en Ethereum) pueden tener tarifas de terceros más altas.",
+      "LOWEST_FEE_WITHDRAWALS": "Los retiros de USDT en {LOWEST_FEE_TOKENS_TOOLTIP} tienen las tarifas más bajas. Otros retiros pueden tener comisiones adicionales de terceros.",
+      "LOWEST_FEES_WITH_USDT": "{LOWEST_FEES_HIGHLIGHT_TEXT} con USDT",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "Para acceder a los fondos retirados y reutilizar tu billetera Magic fuera de h2rwa, debes exportar la billetera a otro proveedor de billeteras.",
       "SELECT_CHAINS": "seleccionar cadenas",
       "SLOW": "Lento",
@@ -1231,7 +1231,7 @@
     },
     "STAKE_MODAL": {
       "INSUFFICIENT_STAKE_BALANCE": "El balance de la billetera es insuficiente para cubrir las tarifas de transacción.",
-      "STAKE_DESCRIPTION": "Participa en tu H2RWA para recibir recompensas en USDC. La eliminación de apuestas tardará 30 días en completarse.",
+      "STAKE_DESCRIPTION": "Participa en tu H2RWA para recibir recompensas en USDT. La eliminación de apuestas tardará 30 días en completarse.",
       "AMOUNT_TO_STAKE": "Monto para participar",
       "SELECTED_VALIDATOR": "Validador seleccionado",
       "ENTER_AMOUNT_TO_STAKE": "Ingresa el monto para la participación",
@@ -1258,7 +1258,7 @@
     },
     "STAKE_CONFIRMATION_MODAL": {
       "CONFIRM_STAKE": "Confirmar apuesta",
-      "STAKE_CONFIRMATION_DESCRIPTOR": "Una vez confirmada, comenzarás a ganar recompensas en USDC. Recuerda que la eliminación de apuestas tardará 30 días en completarse."
+      "STAKE_CONFIRMATION_DESCRIPTOR": "Una vez confirmada, comenzarás a ganar recompensas en USDT. Recuerda que la eliminación de apuestas tardará 30 días en completarse."
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
       "CONFIRM_UNSTAKE": "Confirmar la eliminación de apuestas",
@@ -1408,7 +1408,7 @@
       "REWARDS_UPDATE": "Actualización de recompensas",
       "SEARCH_MARKETS": "Buscar mercados",
       "STAKING": "Participación",
-      "STAKING_DESCRIPTION": "Participa con tus $H2RWA para ayudar a asegurar la red y ganar $USDC. Todas las tarifas en la cadena h2rwa van a los participantes. Disponible a través de Keplr.",
+      "STAKING_DESCRIPTION": "Participa con tus $H2RWA para ayudar a asegurar la red y ganar $USDT. Todas las tarifas en la cadena h2rwa van a los participantes. Disponible a través de Keplr.",
       "STOP_MARKET_ORDERS": "Órdenes de detención del mercado",
       "STOP_MARKET_ORDERS_DESCRIPTION": "¡Las órdenes de detención del mercado y de toma de ganancias están acá! Establecé activadores de forma rápida y sencilla para limitar tus pérdidas y asegurar las ganancias.",
       "TARGET_VOLUME": "Volumen de objetivo",
@@ -1951,7 +1951,7 @@
       "SLIPPAGE_WARNING": "La eliminación de fondos daría lugar a un deslizamiento de {AMOUNT}. El deslizamiento puede reducirse si eliminas fondos en un momento posterior. Para obtener más información, consulta {LINK}.",
       "TVL": "TVL",
       "VAULT": "Bóveda",
-      "VAULT_DESCRIPTION": "Esta bóveda opera automáticamente en los mercados de h2rwa y obtiene una parte de los ingresos de la tarifa. La bóveda apunta a una posición neutral en el mercado al cotizar ambos lados del mercado. Las PyG variarán en función de las condiciones del mercado y hay un riesgo de perder parte o la totalidad del USDC depositado.",
+      "VAULT_DESCRIPTION": "Esta bóveda opera automáticamente en los mercados de h2rwa y obtiene una parte de los ingresos de la tarifa. La bóveda apunta a una posición neutral en el mercado al cotizar ambos lados del mercado. Las PyG variarán en función de las condiciones del mercado y hay un riesgo de perder parte o la totalidad del USDT depositado.",
       "VAULT_EQUITY": "Capital de la bóveda",
       "VAULT_FAQS": "Preguntas frecuentes de la bóveda",
       "VAULT_OPERATOR_DESCRIPTION": "Esta bóveda es operada por {OPERATOR_NAME}. El operador fue seleccionado por la comunidad h2rwa.",
@@ -2150,7 +2150,7 @@
       "COUNTRY": "País",
       "EARN_COMMISSION": "Recomendá operadores y ganá hasta 40% de comisión",
       "EARN_H2RWA_REWARDS": "Ganá recompensas en $H2RWA mientras hacés operaciones",
-      "EARN_USDC": "Ganá USDC al invitar a operadores a h2rwa",
+      "EARN_USDT": "Ganá USDT al invitar a operadores a h2rwa",
       "EARNINGS": "Ganancias",
       "ENTITY": "Entidad",
       "ENTITY_NAME": "Nombre de la entidad",
@@ -2187,7 +2187,7 @@
     },
     "STAKING_REWARDS": {
       "AVAILABLE_IN_DAYS": "Disponible en {DAYS} días",
-      "CLAIM_USDC_AMOUNT": "Reclamar {USDC_AMOUNT} USDC",
+      "CLAIM_USDT_AMOUNT": "Reclamar {USDT_AMOUNT} USDT",
       "CLAIM_STAKING_REWARDS": "¡Reclama recompensas de staking!",
       "EARN_APR": "Gana {APR_PERCENTAGE} APR",
       "ESTIMATED_APR_DATA_BASED_ON": "La APR estimada se basa en los datos de {PROTOCOL_STAKING_LINK}",
@@ -2219,7 +2219,7 @@
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_QUESTION": "¿Cómo reclamo mis recompensas de trading?",
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_ANSWER": "En cada bloque, las recompensas de trading se envían automáticamente directamente a la dirección de la cadena h2rwa del trader.",
       "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_QUESTION": "¿Cómo participo y reclamo recompensas de staking?",
-      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "Para apostar, haz clic en el botón \"Apuesta\" e ingresa la cantidad de tokens que te gustaría apostar. Un validador de un conjunto de validadores en buen estado con la comunidad se seleccionará automáticamente en función del validador elegible que tenga la menor cantidad de tokens apostados y nunca se haya reducido. Para reclamar recompensas de participación, haz clic en el botón \"Reclamar\" cuando las recompensas de USDC estén disponibles. ¡Las recompensas de USDC reclamadas se depositarán en tu cuenta para que puedas operar al instante! Ten en cuenta que hay una tarifa de gas para reclamar recompensas de USDC. Ver más {HERE_LINK}.",
+      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "Para apostar, haz clic en el botón \"Apuesta\" e ingresa la cantidad de tokens que te gustaría apostar. Un validador de un conjunto de validadores en buen estado con la comunidad se seleccionará automáticamente en función del validador elegible que tenga la menor cantidad de tokens apostados y nunca se haya reducido. Para reclamar recompensas de participación, haz clic en el botón \"Reclamar\" cuando las recompensas de USDT estén disponibles. ¡Las recompensas de USDT reclamadas se depositarán en tu cuenta para que puedas operar al instante! Ten en cuenta que hay una tarifa de gas para reclamar recompensas de USDT. Ver más {HERE_LINK}.",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_QUESTION": "¿Cómo funcionan las recompensas de trading?",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_ANSWER": "Inmediatamente después de cada llenado, las recompensas de operaciones se envían directamente a la dirección de la cadena h2rwa del trader, en función de la cantidad de tarifas pagadas por el operador. Leer más {HERE_LINK}.",
       "FAQ_HOW_IS_THE_PRECONFIGURED_SET_OF_VALIDATORS_DETERMINED_QUESTION": "¿Cómo se determina el conjunto preconfigurado de validadores?",
@@ -2227,7 +2227,7 @@
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_QUESTION": "¿Cuáles son los riesgos de la participación?",
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_ANSWER": "El uso de cualquier protocolo DeFi conlleva riesgos. En el caso de la participación, es importante entender que los tokens de desparticipación tardan 30 días, lo que significa que hay un período de iliquidez durante el cual no podrás transferir tus tokens, incluso en el caso de la volatilidad del protocolo o del mercado. Además, los usuarios deben hacer su propia diligencia debida en los validadores antes de apostar sus activos con uno. Los validadores que violen las reglas del protocolo pueden ser penalizados al hacer que los tokens se les reduzcan (es decir, se quemen) o sean encarcelados, lo que les impedirá ganar recompensas.",
       "FAQ_WHAT_IS_STAKING_QUESTION": "¿Qué es la participación?",
-      "FAQ_WHAT_IS_STAKING_ANSWER": "La cadena h2rwa utiliza la prueba de participación para su mecanismo de consenso. Los titulares de tokens pueden apostar sus tokens a los validadores para ayudar a asegurar la red y validar las transacciones, y a cambio ganar recompensas de USDC de las tarifas de trading y gas que el protocolo recoge. Todas las tarifas se pagan a los participantes, menos las tarifas enviadas al fondo de seguro y las comisiones de validador. Las tarifas de recompensas se basan en los datos de {HERE_LINK}. No hay garantía de las tarifas de recompensas futuras, que pueden fluctuar en función de las condiciones del protocolo.",
+      "FAQ_WHAT_IS_STAKING_ANSWER": "La cadena h2rwa utiliza la prueba de participación para su mecanismo de consenso. Los titulares de tokens pueden apostar sus tokens a los validadores para ayudar a asegurar la red y validar las transacciones, y a cambio ganar recompensas de USDT de las tarifas de trading y gas que el protocolo recoge. Todas las tarifas se pagan a los participantes, menos las tarifas enviadas al fondo de seguro y las comisiones de validador. Las tarifas de recompensas se basan en los datos de {HERE_LINK}. No hay garantía de las tarifas de recompensas futuras, que pueden fluctuar en función de las condiciones del protocolo.",
       "FAQ_WHO_IS_ELIGIBLE_QUESTION": "¿Quién es elegible para las recompensas por operaciones?",
       "FAQ_WHO_IS_ELIGIBLE_ANSWER": "Todos los traders son elegibles para recompensas de trading.",
       "FAQ_WHICH_VALIDATORS_ARE_AVAILABLE_QUESTION": "¿Qué validadores están disponibles para la participación?",
@@ -2335,14 +2335,14 @@
     "DEPOSIT_WITH_FIAT": {
       "BANXA_SUPPORT_LINK": "Soporte de Banxa",
       "CHECK_ORDER_STATUS": "¿Buscas un depósito con fiat? Consulta el estado de tu pedido en tu correo electrónico o ponte en contacto con el soporte de {BANXA_SUPPORT_LINK}",
-      "MODAL_BUY_CTA": "Comprar USDC",
-      "MODAL_CONFIRMATION": "Completa el flujo de órdenes en Banxa para comprar USDC con dinero fiduciario (fiat), sin tarifas de gas. Consulta el estado de tu pedido en tu correo electrónico o ponte en contacto con el soporte de {BANXA_SUPPORT_LINK}",
+      "MODAL_BUY_CTA": "Comprar USDT",
+      "MODAL_CONFIRMATION": "Completa el flujo de órdenes en Banxa para comprar USDT con dinero fiduciario (fiat), sin tarifas de gas. Consulta el estado de tu pedido en tu correo electrónico o ponte en contacto con el soporte de {BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "Termina en Banxa",
-      "MODAL_LEGAL_DISCLAIMER": "Al hacer clic en \"Comprar USDC\", reconocés y aceptás que Banxa.com Pty Ltd. (\"Banxa\") te brinda este servicio directamente y no involucra a h2rwa Trading Inc. (\"h2rwa\"); este servicio y cualquier compra o venta de criptomonedas a cambio de valor (incluidas monedas fiduciarias, criptomonedas y préstamos) se producirán solo después de que abandones el sitio web y el protocolo de h2rwa; y cualquier transferencia de valor (incluido el valor de envío, recepción y custodia) va a ocurrir directamente entre tu dirección de red Ethereum y Banxa. Este servicio no está disponible para ninguna persona ubicada en los Estados Unidos. También aceptas que cualquier información que Banxa te solicite (incluido el número de tarjeta y KYC) no será suministrado a h2rwa, y no se responsabilizará a h2rwa por ningún aspecto de cualquier transacción o transmisión entre Banxa y tú. En caso de conflicto, la versión de esta declaración en inglés prevalecerá, la cual se puede encontrar en los Términos de uso de h2rwa, disponibles en https://h2chain.io/legal.",
+      "MODAL_LEGAL_DISCLAIMER": "Al hacer clic en \"Comprar USDT\", reconocés y aceptás que Banxa.com Pty Ltd. (\"Banxa\") te brinda este servicio directamente y no involucra a h2rwa Trading Inc. (\"h2rwa\"); este servicio y cualquier compra o venta de criptomonedas a cambio de valor (incluidas monedas fiduciarias, criptomonedas y préstamos) se producirán solo después de que abandones el sitio web y el protocolo de h2rwa; y cualquier transferencia de valor (incluido el valor de envío, recepción y custodia) va a ocurrir directamente entre tu dirección de red Ethereum y Banxa. Este servicio no está disponible para ninguna persona ubicada en los Estados Unidos. También aceptas que cualquier información que Banxa te solicite (incluido el número de tarjeta y KYC) no será suministrado a h2rwa, y no se responsabilizará a h2rwa por ningún aspecto de cualquier transacción o transmisión entre Banxa y tú. En caso de conflicto, la versión de esta declaración en inglés prevalecerá, la cual se puede encontrar en los Términos de uso de h2rwa, disponibles en https://h2chain.io/legal.",
       "MODAL_NEED_HELP": "¿Necesitas ayuda?",
-      "MODAL_SUBTITLE": "Compra USDC a través de Banxa. Los fondos se depositarán directamente en tu cuenta, {NO_GAS_FEES_STYLED}.",
+      "MODAL_SUBTITLE": "Compra USDT a través de Banxa. Los fondos se depositarán directamente en tu cuenta, {NO_GAS_FEES_STYLED}.",
       "NO_GAS_FEES_STYLED": "No se requieren tarifas de gas.",
-      "PROMO_COPY": "Compra USDC con tarjeta de crédito, transferencia bancaria y mucho más. Tus fondos se depositarán directamente en tu cuenta con {NO_GAS_FEES_STYLED}.",
+      "PROMO_COPY": "Compra USDT con tarjeta de crédito, transferencia bancaria y mucho más. Tus fondos se depositarán directamente en tu cuenta con {NO_GAS_FEES_STYLED}.",
       "PROMO_CTA": "Compra ahora"
     },
     "TRADE_BOX_CARDS": {
@@ -2396,11 +2396,11 @@
     },
     "DEPOSIT_OPTIONS": {
       "DEPOSIT_ALL_ASSET_CTA": "Deposita todos {ASSET}",
-      "DEPOSIT_ETH_INFO": "Todo el ETH restante en esta billetera se convertirá a USDC y se depositará en tu cuenta de trading.",
+      "DEPOSIT_ETH_INFO": "Todo el ETH restante en esta billetera se convertirá a USDT y se depositará en tu cuenta de trading.",
       "DEPOSIT_FUNDS_SUBTITLE": "Necesitarás fondos para iniciar el trading.",
-      "DEPOSIT_NON_UDSC_INFO": "Todo {ASSET} en esta billetera se convertirá a USDC y se depositará en tu cuenta de trading.",
-      "DEPOSIT_USDC_INFO": "Todo el USDC en esta billetera se depositará en tu cuenta de trading.",
-      "FIAT_SUBTITLE": "Comprá USDC con tarjeta de crédito y más. Los fondos se van a depositar directamente en tu cuenta, no se requieren tarifas de gas.",
+      "DEPOSIT_NON_UDSC_INFO": "Todo {ASSET} en esta billetera se convertirá a USDT y se depositará en tu cuenta de trading.",
+      "DEPOSIT_USDT_INFO": "Todo el USDT en esta billetera se depositará en tu cuenta de trading.",
+      "FIAT_SUBTITLE": "Comprá USDT con tarjeta de crédito y más. Los fondos se van a depositar directamente en tu cuenta, no se requieren tarifas de gas.",
       "INSUFFICIENT_BALANCE": "Saldo insuficiente",
       "NETWORK_FEE": "Tarifa de red",
       "NETWORK_FEE_ETH_INFO": "Debes tener al menos {ETH_AMOUNT} en tu billetera para cubrir la tarifa de red.",
@@ -2929,7 +2929,7 @@
       "ISOLATED_MARGIN_ADJUSTMENT_INVALID_AMOUNT": "Introduce una cantidad válida."
     },
     "NEW_MARKET_WIDGET": {
-      "LAUNCHING_MARKET_REQUIRES_USDC": "Lanzar un mercado requiere un mínimo de {USDC_AMOUNT}USDC de colateral cruzado libre.",
+      "LAUNCHING_MARKET_REQUIRES_USDT": "Lanzar un mercado requiere un mínimo de {USDT_AMOUNT}USDT de colateral cruzado libre.",
       "NOT_ENOUGH_BALANCE": "Necesitas al menos {NUM_TOKENS_REQUIRED} {NATIVE_TOKEN_DENOM} para agregar un mercado."
     },
     "WALLET_SPECIFIC": {
@@ -2943,9 +2943,9 @@
   },
   "WARNINGS": {
     "ACCOUNT_FUND_MANAGEMENT": {
-      "WITHDRAWAL_LIMIT_OVER": "Intenta con una cantidad menor. El límite máximo de retiro de la cadena h2rwa es actualmente {USDC_LIMIT}.",
+      "WITHDRAWAL_LIMIT_OVER": "Intenta con una cantidad menor. El límite máximo de retiro de la cadena h2rwa es actualmente {USDT_LIMIT}.",
       "WITHDRAWAL_LIMIT_OVER_TITLE": "Ingresa una cantidad menor",
-      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "El límite máximo de retiro de la cadena h2rwa es actualmente {USDC_LIMIT}.",
+      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "El límite máximo de retiro de la cadena h2rwa es actualmente {USDT_LIMIT}.",
       "WITHDRAWAL_LIMIT_OVER_ACTION": "Modificar la cantidad",
       "WITHDRAWAL_PAUSED_TITLE": "Los retiros están pausados",
       "WITHDRAWAL_PAUSED_DESCRIPTION": "Inténtalo de nuevo en {SECONDS} segundos.",
@@ -2956,7 +2956,7 @@
     },
     "ONBOARDING": {
       "ALWAYS_VERIFY_URL": "Siempre comprueba y verifica que te encuentras en https://h2rwa.io al recuperar tus claves.",
-      "NOBLE_CHAIN_ONLY": "Esta dirección es solo para transferencias USDC de Noble a Noble Chain. El envío de fondos desde otras cadenas de bloques dará lugar a la pérdida de esos fondos."
+      "NOBLE_CHAIN_ONLY": "Esta dirección es solo para transferencias USDT de Noble a Noble Chain. El envío de fondos desde otras cadenas de bloques dará lugar a la pérdida de esos fondos."
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "El \"slippage\" (diferencia entre el precio esperado versus el ejecutado) de esta orden es bajo: Para mejorar tus probabilidades de completar esta orden, recomendamos un precio de límite de ${LIMIT_PRICE} o superior. Tu orden se ejecutará al mejor precio posible cuando se active.",

@@ -529,7 +529,7 @@
       },
       "CRV": {
         "PRIMARY": "Curve is an exchange liquidity pool on Ethereum (like Uniswap) designed for extremely efficient stablecoin trading and low risk, supplemental fee income for liquidity providers, without an opportunity cost.",
-        "SECONDARY": "Curve allows users (and smart contracts like 1inch, Paraswap, Totle and Dex.ag) to trade between DAI and USDC with a bespoke low slippage, low fee algorithm designed specifically for stablecoins and earn fees."
+        "SECONDARY": "Curve allows users (and smart contracts like 1inch, Paraswap, Totle and Dex.ag) to trade between DAI and USDT with a bespoke low slippage, low fee algorithm designed specifically for stablecoins and earn fees."
       },
       "DOGE": {
         "PRIMARY": "Dogecoin is an open source peer-to-peer digital currency.",
@@ -816,8 +816,8 @@
       "EARN_FEES": "Earn fees",
       "EARN_FOR_EACH_TRADER_REFER_FOR_DISCOUNTS": "Earn up to ${AMOUNT_PER_MONTH} per month for each new trader you refer. If you're a VIP Affiliate, you can earn up to ${VIP_AMOUNT_USD}! Your referral can save up to ${AMOUNT_DISCOUNT} in trading fees. {LEARN_MORE_LINK}",
       "EARN_FOR_EACH_TRADER": "Earn up to ${AMOUNT_USD} per month for each new trader.",
-      "EARN_USDC_DISCRIPTION": "Take advantage of staking and other products to earn USDC.",
-      "EARN_USDC": "Earn USDC",
+      "EARN_USDT_DISCRIPTION": "Take advantage of staking and other products to earn USDT.",
+      "EARN_USDT": "Earn USDT",
       "FEES_REFERRED": "Fees Referred",
       "GET_YOUR_AFFILIATE_LINK": "Get your affiliate link",
       "HAS_REFERRED_YOU": "has referred you to start trading on the world's most powerful open exchange.",
@@ -982,12 +982,12 @@
       "LEGACY_SIGNING": "Legacy signing",
       "LINK_WALLET": "Link wallet",
       "LINKING_WALLET": "Linking wallet",
-      "MINIMUM_DEPOSIT": "Min. deposit is {MIN_DEPOSIT_USDC}",
+      "MINIMUM_DEPOSIT": "Min. deposit is {MIN_DEPOSIT_USDT}",
       "MISSING_KEYS_DESCRIPTION": "Welcome back! One or more of your keys needs to be recovered",
       "NEED_A_WALLET": "Need a wallet?",
       "NOBLE_ADDRESS": "Noble Address",
       "NOBLE_SWEEP": "Funds will be swept to your h2rwa address",
-      "NOBLE_ACKNOWLEDGEMENT": "I acknowledge that this address is only for Noble USDC transfers to the Noble Chain. I understand the risks if I send other funds to this address.",
+      "NOBLE_ACKNOWLEDGEMENT": "I acknowledge that this address is only for Noble USDT transfers to the Noble Chain. I understand the risks if I send other funds to this address.",
       "NOBLE_ADDRESS_VALIDATION": "Please enter valid Noble address.",
       "NO_FUTURE_ACCESS": "You will not in the future access this site or trade on h2rwa while located within the United States or a restricted location.",
       "NO_VPN_USE": "You are not using, and will not in the future use, a VPN to mask your physical location from a restricted location.",
@@ -1155,7 +1155,7 @@
     },
     "DEPOSIT_MODAL": {
       "ACKNOWLEDGE_TERMS_AND_DEPOSIT": "Acknowledge terms and deposit",
-      "APPROVE_USDC": "Approve USDC",
+      "APPROVE_USDT": "Approve USDT",
       "BRIDGE_FEE": "Bridge Fee",
       "CEX_EXAMPLES": "Coinbase, Binance, etc...",
       "DEPOSIT_METHOD": "Deposit method",
@@ -1177,7 +1177,7 @@
       "GASLESS_DEPOSITS_TEMPORARILY_DISABLED": "Gasless deposits are temporarily unavailable. Don't worry, they'll be back soon!",
       "GASLESS_ETH_DEPOSITS": "Gasless deposits are not available for ETH. You can convert your ETH to WETH on {1INCH_WETH_LINK} or {UNISWAP_WETH_LINK} and use WETH gasless deposits, or directly deposit ETH by paying your own gas costs.",
       "HELD": "held",
-      "LOWEST_FEE_DEPOSITS": "USDC deposits from {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other deposits may have additional third-party fees.",
+      "LOWEST_FEE_DEPOSITS": "USDT deposits from {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other deposits may have additional third-party fees.",
       "MAX_SLIPPAGE": "Max Slippage",
       "MINIMUM_DEPOSIT_AMOUNT": "Minimum Deposit Amount",
       "MINIMUM_DEPOSIT_MET": "Nice! Your deposit meets the gasless deposit minimum of {GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}. h2rwa will cover the gas fees for this deposit.",
@@ -1211,9 +1211,9 @@
       "HIGH_FEES_IN_GENERAL": "{HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT} in general",
       "HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT": "Highest fees",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "lowest fees",
-      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDC withdrawals to {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other withdrawal methods (e.g., assets on Ethereum) may have higher third-party fees.",
-      "LOWEST_FEE_WITHDRAWALS": "USDC withdrawals to {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other withdrawals may have additional third-party fees.",
-      "LOWEST_FEES_WITH_USDC": "{LOWEST_FEES_HIGHLIGHT_TEXT} with USDC",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDT withdrawals to {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other withdrawal methods (e.g., assets on Ethereum) may have higher third-party fees.",
+      "LOWEST_FEE_WITHDRAWALS": "USDT withdrawals to {LOWEST_FEE_TOKENS_TOOLTIP} have the lowest fees. Other withdrawals may have additional third-party fees.",
+      "LOWEST_FEES_WITH_USDT": "{LOWEST_FEES_HIGHLIGHT_TEXT} with USDT",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "To access the withdrawn funds and reuse your Magic wallet outside of h2rwa, you must export your wallet to another wallet provider.",
       "SELECT_CHAINS": "select chains",
       "SLOW": "Slow",
@@ -1255,7 +1255,7 @@
     },
     "STAKE_MODAL": {
       "INSUFFICIENT_STAKE_BALANCE": "Wallet balance is insufficient to cover the transaction fees.",
-      "STAKE_DESCRIPTION": "Stake your H2RWA to receive rewards in USDC. Unstaking will take 30 days to complete.",
+      "STAKE_DESCRIPTION": "Stake your H2RWA to receive rewards in USDT. Unstaking will take 30 days to complete.",
       "AMOUNT_TO_STAKE": "Amount to Stake",
       "SELECTED_VALIDATOR": "Selected Validator",
       "ENTER_AMOUNT_TO_STAKE": "Enter amount to stake",
@@ -1282,7 +1282,7 @@
     },
     "STAKE_CONFIRMATION_MODAL": {
       "CONFIRM_STAKE": "Confirm Stake",
-      "STAKE_CONFIRMATION_DESCRIPTOR": "Once confirmed, you will start earning rewards in USDC. Remember, unstaking will take 30 days to complete."
+      "STAKE_CONFIRMATION_DESCRIPTOR": "Once confirmed, you will start earning rewards in USDT. Remember, unstaking will take 30 days to complete."
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
       "CONFIRM_UNSTAKE": "Confirm Unstake",
@@ -1433,7 +1433,7 @@
       "REWARDS_UPDATE": "Rewards update",
       "SEARCH_MARKETS": "Search markets",
       "STAKING": "Staking",
-      "STAKING_DESCRIPTION": "Stake your $H2RWA to help secure the network and earn $USDC. All fees on the h2rwa Chain go to stakers. Available through Keplr.",
+      "STAKING_DESCRIPTION": "Stake your $H2RWA to help secure the network and earn $USDT. All fees on the h2rwa Chain go to stakers. Available through Keplr.",
       "STOP_MARKET_ORDERS": "Stop market orders",
       "STOP_MARKET_ORDERS_DESCRIPTION": "Stop market and take profit market orders are here! Quickly and easily set triggers to limit your losses and lock in profits.",
       "TARGET_VOLUME": "Target Volume",
@@ -1951,8 +1951,8 @@
       "YOURE_IN": "You're in {LEAGUE}"
     },
     "TURNKEY_ONBOARD": {
-      "ACCEPTS_ONLY_USDC": "USDC accepted",
-      "ACCEPTED_ASSETS_AND_USDC": "{ASSETS}, USDC accepted",
+      "ACCEPTS_ONLY_USDT": "USDT accepted",
+      "ACCEPTED_ASSETS_AND_USDT": "{ASSETS}, USDT accepted",
       "CHECK_EMAIL_DESCRIPTION": "Open the magic link in your email to complete your sign in",
       "CHECK_EMAIL_TITLE": "Check your Email",
       "CONTINUE_SIGN_IN_DESCRIPTION": "Please wait",
@@ -2048,7 +2048,7 @@
       "SLIPPAGE_WARNING": "Removal of funds would result in {AMOUNT} slippage. Slippage may be reduced if you remove funds at a later time. For more information, see {LINK}.",
       "TVL": "TVL",
       "VAULT": "Vault",
-      "VAULT_DESCRIPTION": "This vault automatically trades across h2rwa markets and gets a share of fee revenue. The vault aims for a market-neutral position by quoting both sides of the book. P&L will vary based on market conditions and there's a risk of losing some or all of the USDC deposited.",
+      "VAULT_DESCRIPTION": "This vault automatically trades across h2rwa markets and gets a share of fee revenue. The vault aims for a market-neutral position by quoting both sides of the book. P&L will vary based on market conditions and there's a risk of losing some or all of the USDT deposited.",
       "VAULT_EQUITY": "Vault Equity",
       "VAULT_FAQS": "Vault FAQs",
       "VAULT_OPERATOR_DESCRIPTION": "This vault is operated by {OPERATOR_NAME}. The operator was selected by the h2rwa community.",
@@ -2247,7 +2247,7 @@
       "COUNTRY": "Country",
       "EARN_COMMISSION": "Refer traders and earn up to 40% commission",
       "EARN_DYDX_REWARDS": "Earn $H2RWA rewards as you trade",
-      "EARN_USDC": "Earn USDC for inviting traders to h2rwa",
+      "EARN_USDT": "Earn USDT for inviting traders to h2rwa",
       "EARNINGS": "Earnings",
       "ENTITY": "Entity",
       "ENTITY_NAME": "Entity Name",
@@ -2284,7 +2284,7 @@
     },
     "STAKING_REWARDS": {
       "AVAILABLE_IN_DAYS": "Available in {DAYS} days",
-      "CLAIM_USDC_AMOUNT": "Claim {USDC_AMOUNT} USDC",
+      "CLAIM_USDT_AMOUNT": "Claim {USDT_AMOUNT} USDT",
       "CLAIM_STAKING_REWARDS": "Claim Staking Rewards!",
       "EARN_APR": "Earn {APR_PERCENTAGE} APR",
       "ESTIMATED_APR_DATA_BASED_ON": "Estimated APR is based on data from {PROTOCOL_STAKING_LINK}",
@@ -2316,7 +2316,7 @@
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_QUESTION": "How do I claim my trading rewards?",
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_ANSWER": "Each block, trading rewards are automatically sent directly to the trader’s h2rwa Chain address.",
       "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_QUESTION": "How do I stake and claim staking rewards?",
-      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "To stake, click the “Stake” button and input the amount of tokens you would like to stake. A validator from a set of validators in good standing with the community will automatically be selected based on which eligible validator has the fewest tokens staked and has never been slashed. To claim staking rewards, click the “Claim” button whenever USDC rewards are available. The claimed USDC rewards will be deposited into your account so that you may trade instantly! Note that there is a gas fee to claim USDC rewards. See more {HERE_LINK}.",
+      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "To stake, click the “Stake” button and input the amount of tokens you would like to stake. A validator from a set of validators in good standing with the community will automatically be selected based on which eligible validator has the fewest tokens staked and has never been slashed. To claim staking rewards, click the “Claim” button whenever USDT rewards are available. The claimed USDT rewards will be deposited into your account so that you may trade instantly! Note that there is a gas fee to claim USDT rewards. See more {HERE_LINK}.",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_QUESTION": "How do trading rewards work?",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_ANSWER": "Immediately after each fill, trading rewards are sent directly to the trader’s h2rwa Chain address, based on the  amount of fees paid by the trader. Read more {HERE_LINK}.",
       "FAQ_HOW_IS_THE_PRECONFIGURED_SET_OF_VALIDATORS_DETERMINED_QUESTION": "How is the pre-configured set of validators determined?",
@@ -2324,7 +2324,7 @@
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_QUESTION": "What are the risks of staking?",
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_ANSWER": "Use of any DeFi protocol comes with risks. In the case of staking, it is important to understand that unstaking tokens takes 30 days, which means there is a period of illiquidity during which you will not be able to transfer your tokens, even in the case of protocol or market volatility. Additionally, users should do their own due diligence on validators before staking their assets with one. Validators who violate protocol rules may be penalized by having tokens staked to them slashed (i.e. burned) or being jailed which will prevent them from earning rewards.",
       "FAQ_WHAT_IS_STAKING_QUESTION": "What is staking?",
-      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa Chain uses Proof-of-Stake for its consensus mechanism. Token holders can stake their tokens to validators in order to help secure the network and validate transactions, and in exchange earn USDC rewards from trading and gas fees that the protocol collects. All fees are paid to stakers, less any fees sent to the insurance fund and validator commissions. Reward rates are based on data from {HERE_LINK}. There is no guarantee of future reward rates, which may fluctuate based on protocol conditions.",
+      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa Chain uses Proof-of-Stake for its consensus mechanism. Token holders can stake their tokens to validators in order to help secure the network and validate transactions, and in exchange earn USDT rewards from trading and gas fees that the protocol collects. All fees are paid to stakers, less any fees sent to the insurance fund and validator commissions. Reward rates are based on data from {HERE_LINK}. There is no guarantee of future reward rates, which may fluctuate based on protocol conditions.",
       "FAQ_WHO_IS_ELIGIBLE_QUESTION": "Who is eligible for trading rewards?",
       "FAQ_WHO_IS_ELIGIBLE_ANSWER": "All traders are eligible for trading rewards.",
       "FAQ_WHICH_VALIDATORS_ARE_AVAILABLE_QUESTION": "Which validators are available for staking?",
@@ -2448,14 +2448,14 @@
       "CONTINUE_TO_DISCLAIMER": "{PROVIDER} is an independent from the operator of this app",
       "BANXA_SUPPORT_LINK": "Banxa support",
       "CHECK_ORDER_STATUS": "Looking for a fiat deposit? Check your order status in your email or contact {BANXA_SUPPORT_LINK}",
-      "MODAL_BUY_CTA": "Buy USDC",
-      "MODAL_CONFIRMATION": "Complete the order flow on Banxa to purchase USDC with fiat, with no gas fees. Check your order status in your email or contact {BANXA_SUPPORT_LINK}",
+      "MODAL_BUY_CTA": "Buy USDT",
+      "MODAL_CONFIRMATION": "Complete the order flow on Banxa to purchase USDT with fiat, with no gas fees. Check your order status in your email or contact {BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "Finish on Banxa",
-      "MODAL_LEGAL_DISCLAIMER": "By clicking \"Buy USDC\", you acknowledge and agree that this service is provided to you directly by Banxa.com Pty Ltd. (“Banxa”) and does not involve h2rwa Trading Inc. (“h2rwa”); this service and any purchase or sale of cryptocurrency in exchange for value (including fiat, cryptocurrency and loan) will occur only after you have left the h2rwa website and protocol; and any transmission of value (including send, receive and custody value) will occur directly between your Ethereum network address and Banxa. This service is not available to any persons located in the United States. You also agree that any information requested from you by Banxa (including card number and KYC) is not provided to h2rwa, and you will not hold h2rwa liable for any aspect of any transaction or transmission between you and Banxa. In the event of any conflict, the English version of this statement will control, which can be found in the h2rwa Terms of Use, available at https://h2chain.io/legal.",
+      "MODAL_LEGAL_DISCLAIMER": "By clicking \"Buy USDT\", you acknowledge and agree that this service is provided to you directly by Banxa.com Pty Ltd. (“Banxa”) and does not involve h2rwa Trading Inc. (“h2rwa”); this service and any purchase or sale of cryptocurrency in exchange for value (including fiat, cryptocurrency and loan) will occur only after you have left the h2rwa website and protocol; and any transmission of value (including send, receive and custody value) will occur directly between your Ethereum network address and Banxa. This service is not available to any persons located in the United States. You also agree that any information requested from you by Banxa (including card number and KYC) is not provided to h2rwa, and you will not hold h2rwa liable for any aspect of any transaction or transmission between you and Banxa. In the event of any conflict, the English version of this statement will control, which can be found in the h2rwa Terms of Use, available at https://h2chain.io/legal.",
       "MODAL_NEED_HELP": "Need help?",
-      "MODAL_SUBTITLE": "Purchase USDC via Banxa. Funds will be directly deposited into your account, {NO_GAS_FEES_STYLED}.",
+      "MODAL_SUBTITLE": "Purchase USDT via Banxa. Funds will be directly deposited into your account, {NO_GAS_FEES_STYLED}.",
       "NO_GAS_FEES_STYLED": "no gas fees required",
-      "PROMO_COPY": "Purchase USDC with credit card, bank transfer & more. Your funds will be directly deposited into your account with {NO_GAS_FEES_STYLED}.",
+      "PROMO_COPY": "Purchase USDT with credit card, bank transfer & more. Your funds will be directly deposited into your account with {NO_GAS_FEES_STYLED}.",
       "PROMO_CTA": "Buy now"
     },
     "TRADE_BOX_CARDS": {
@@ -2509,11 +2509,11 @@
     },
     "DEPOSIT_OPTIONS": {
       "DEPOSIT_ALL_ASSET_CTA": "Deposit all {ASSET}",
-      "DEPOSIT_ETH_INFO": "All remaining ETH in this wallet will be converted to USDC and deposited to your trading account.",
+      "DEPOSIT_ETH_INFO": "All remaining ETH in this wallet will be converted to USDT and deposited to your trading account.",
       "DEPOSIT_FUNDS_SUBTITLE": "You'll need funds to start trading.",
-      "DEPOSIT_NON_UDSC_INFO": "All {ASSET} in this wallet will be converted to USDC and deposited to your trading account.",
-      "DEPOSIT_USDC_INFO": "All USDC in this wallet will be deposited to your trading account.",
-      "FIAT_SUBTITLE": "Purchase USDC with credit card & more. Funds will be directly deposited into your account, no gas fees required.",
+      "DEPOSIT_NON_UDSC_INFO": "All {ASSET} in this wallet will be converted to USDT and deposited to your trading account.",
+      "DEPOSIT_USDT_INFO": "All USDT in this wallet will be deposited to your trading account.",
+      "FIAT_SUBTITLE": "Purchase USDT with credit card & more. Funds will be directly deposited into your account, no gas fees required.",
       "INSUFFICIENT_BALANCE": "Insufficient balance",
       "NETWORK_FEE": "Network fee",
       "NETWORK_FEE_ETH_INFO": "You must have at least {ETH_AMOUNT} in your wallet to cover the network fee.",
@@ -3061,7 +3061,7 @@
       "ISOLATED_MARGIN_ADJUSTMENT_INVALID_AMOUNT": "Please enter a valid amount."
     },
     "NEW_MARKET_WIDGET": {
-      "LAUNCHING_MARKET_REQUIRES_USDC": "Launching a market requires a minimum of {USDC_AMOUNT} USDC of cross free collateral",
+      "LAUNCHING_MARKET_REQUIRES_USDT": "Launching a market requires a minimum of {USDT_AMOUNT} USDT of cross free collateral",
       "NOT_ENOUGH_BALANCE": "You need at least {NUM_TOKENS_REQUIRED} {NATIVE_TOKEN_DENOM} to add a market."
     },
     "WALLET_SPECIFIC": {
@@ -3078,9 +3078,9 @@
   },
   "WARNINGS": {
     "ACCOUNT_FUND_MANAGEMENT": {
-      "WITHDRAWAL_LIMIT_OVER": "Please enter a smaller amount. The maximum withdrawal limit from h2rwa Chain is currently {USDC_LIMIT}.",
+      "WITHDRAWAL_LIMIT_OVER": "Please enter a smaller amount. The maximum withdrawal limit from h2rwa Chain is currently {USDT_LIMIT}.",
       "WITHDRAWAL_LIMIT_OVER_TITLE": "Please enter a smaller amount",
-      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "The maximum withdrawal limit from h2rwa Chain is currently {USDC_LIMIT}.",
+      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "The maximum withdrawal limit from h2rwa Chain is currently {USDT_LIMIT}.",
       "WITHDRAWAL_LIMIT_OVER_ACTION": "Modify amount",
       "WITHDRAWAL_PAUSED_TITLE": "Withdraws are paused",
       "WITHDRAWAL_PAUSED_DESCRIPTION": "Please try again in {SECONDS} seconds.",
@@ -3091,7 +3091,7 @@
     },
     "ONBOARDING": {
       "ALWAYS_VERIFY_URL": "Always check and verify you are on https://h2rwa.io when recovering your keys.",
-      "NOBLE_CHAIN_ONLY": "This address is only for Noble USDC transfers to the Noble Chain. Sending any funds from other blockchains will result in a loss of those funds."
+      "NOBLE_CHAIN_ONLY": "This address is only for Noble USDT transfers to the Noble Chain. Sending any funds from other blockchains will result in a loss of those funds."
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "The slippage on this order is low - we recommend a limit price of ${LIMIT_PRICE} or higher to improve your odds of filling this order. Your order will execute at the best possible price when it triggers.",

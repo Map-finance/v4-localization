@@ -529,7 +529,7 @@
       },
       "CRV": {
         "PRIMARY": "Curve是以太坊上的一個交易所流動性池（例如Uniswap），旨在實現極高效的穩定幣交易，併為流動性提供者提供低風險的補充性費用收入，而且沒有機會成本。",
-        "SECONDARY": "Curve允許用户（以及智能合約，例如1inch、Paraswap、Totle和Dex.ag）在DAI和USDC之間進行交易，採用專門為穩定幣設計的低滑點、低費用算法，並賺取費用。"
+        "SECONDARY": "Curve允許用户（以及智能合約，例如1inch、Paraswap、Totle和Dex.ag）在DAI和USDT之間進行交易，採用專門為穩定幣設計的低滑點、低費用算法，並賺取費用。"
       },
       "DOGE": {
         "PRIMARY": "狗狗幣 (Dogecoin) 是一種開源的點對點數字貨幣。",
@@ -816,8 +816,8 @@
       "EARN_FEES": "賺取費用",
       "EARN_FOR_EACH_TRADER_REFER_FOR_DISCOUNTS": "您推薦的每個新交易者每月最高可賺取 ${AMOUNT_PER_MONTH}。 如果您是 VIP 關聯會員，則最多可賺取 {VIP_AMOUNT_USD}美元！您的推薦可以節省高達 {AMOUNT_DISCOUNT} 美元的交易費用。 {LEARN_MORE_LINK}",
       "EARN_FOR_EACH_TRADER": "每個新交易者每月最多賺取 {AMOUNT_USD} 美元。",
-      "EARN_USDC_DISCRIPTION": "利用質押和其他產品來賺取 USDC。",
-      "EARN_USDC": "賺取 USDC",
+      "EARN_USDT_DISCRIPTION": "利用質押和其他產品來賺取 USDT。",
+      "EARN_USDT": "賺取 USDT",
       "FEES_REFERRED": "推薦費用",
       "GET_YOUR_AFFILIATE_LINK": "獲取您的關聯鏈接",
       "HAS_REFERRED_YOU": "已推薦您開始在世界上最強大地開放交易所進行交易。",
@@ -982,12 +982,12 @@
       "LEGACY_SIGNING": "舊版簽名",
       "LINK_WALLET": "鏈接錢包",
       "LINKING_WALLET": "鏈接錢包",
-      "MINIMUM_DEPOSIT": "最低充值為 {MIN_DEPOSIT_USDC}",
+      "MINIMUM_DEPOSIT": "最低充值為 {MIN_DEPOSIT_USDT}",
       "MISSING_KEYS_DESCRIPTION": "歡迎回來！您需要找回一條或多條密鑰",
       "NEED_A_WALLET": "需要錢包嗎？",
       "NOBLE_ADDRESS": "Noble 地址",
       "NOBLE_SWEEP": "資金將掃賬到您的 h2rwa 地址",
-      "NOBLE_ACKNOWLEDGEMENT": "我確認此地址僅支持將 Noble USDC 轉移到 Noble 鏈。 我瞭解將其他資金髮送到此地址的風險。",
+      "NOBLE_ACKNOWLEDGEMENT": "我確認此地址僅支持將 Noble USDT 轉移到 Noble 鏈。 我瞭解將其他資金髮送到此地址的風險。",
       "NOBLE_ADDRESS_VALIDATION": "請輸入有效的 Noble 地址。",
       "NO_FUTURE_ACCESS": "您以後將無法在美國境內，或受限地區境內訪問此網站或在 h2rwa 上交易。",
       "NO_VPN_USE": "您沒有且將來也不會在受限地區使用VPN來掩蓋您的實際位置。",
@@ -1155,7 +1155,7 @@
     },
     "DEPOSIT_MODAL": {
       "ACKNOWLEDGE_TERMS_AND_DEPOSIT": "確認條款和充值",
-      "APPROVE_USDC": "批准 USDC",
+      "APPROVE_USDT": "批准 USDT",
       "BRIDGE_FEE": "橋接費",
       "CEX_EXAMPLES": "Coinbase、幣安等...",
       "DEPOSIT_METHOD": "充值方法",
@@ -1177,7 +1177,7 @@
       "GASLESS_DEPOSITS_TEMPORARILY_DISABLED": "無gas充值暫時不可用。別擔心，很快就會恢復！",
       "GASLESS_ETH_DEPOSITS": "無 gas 充值不可用於 ETH。您可以在{1INCH_WETH_LINK}或{UNISWAP_WETH_LINK}將您的ETH轉換為WETH並使用WETH無gas充值，或通過支付您自己的gas費用直接存入ETH。",
       "HELD": "已舉行",
-      "LOWEST_FEE_DEPOSITS": "來自{LOWEST_FEE_TOKENS_TOOLTIP}的 USDC 充值的費用最低。 其他充值可能有額外的第三方費用。",
+      "LOWEST_FEE_DEPOSITS": "來自{LOWEST_FEE_TOKENS_TOOLTIP}的 USDT 充值的費用最低。 其他充值可能有額外的第三方費用。",
       "MAX_SLIPPAGE": "最高滑點",
       "MINIMUM_DEPOSIT_AMOUNT": "最低充值金額",
       "MINIMUM_DEPOSIT_MET": "好！您的充值符合{GASLESS_DEPOSIT_THRESHOLD} {SYMBOL}的無 gas 充值最低要求。h2rwa 將支付這筆充值的 gas 費用。",
@@ -1211,9 +1211,9 @@
       "HIGH_FEES_IN_GENERAL": "{HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT}一般情況",
       "HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT": "最高費用",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "最低費用",
-      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDC 提現到{LOWEST_FEE_TOKENS_TOOLTIP}有最低的費用。其他提現方法（例如，以太坊上的資產）可能具有更高的第三方費用。",
-      "LOWEST_FEE_WITHDRAWALS": "USDC 提現到{LOWEST_FEE_TOKENS_TOOLTIP}有最低的費用。其他提現可能有額外的第三方費用。",
-      "LOWEST_FEES_WITH_USDC": "{LOWEST_FEES_HIGHLIGHT_TEXT} 使用USDC",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDT 提現到{LOWEST_FEE_TOKENS_TOOLTIP}有最低的費用。其他提現方法（例如，以太坊上的資產）可能具有更高的第三方費用。",
+      "LOWEST_FEE_WITHDRAWALS": "USDT 提現到{LOWEST_FEE_TOKENS_TOOLTIP}有最低的費用。其他提現可能有額外的第三方費用。",
+      "LOWEST_FEES_WITH_USDT": "{LOWEST_FEES_HIGHLIGHT_TEXT} 使用USDT",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "要使用所提取的資金並在 h2rwa 之外重新使用您的 Magic 錢包，您必須將您的錢包導出到另一個錢包提供商。",
       "SELECT_CHAINS": "選擇鏈",
       "SLOW": "正常提現",
@@ -1255,7 +1255,7 @@
     },
     "STAKE_MODAL": {
       "INSUFFICIENT_STAKE_BALANCE": "錢包餘額不足以支付交易費用。",
-      "STAKE_DESCRIPTION": "質押您的 H2RWA 以獲得 USDC 獎勵。取消質押需要 30 天才能完成。",
+      "STAKE_DESCRIPTION": "質押您的 H2RWA 以獲得 USDT 獎勵。取消質押需要 30 天才能完成。",
       "AMOUNT_TO_STAKE": "質押金額",
       "SELECTED_VALIDATOR": "選定的驗證者",
       "ENTER_AMOUNT_TO_STAKE": "輸入質押金額",
@@ -1282,7 +1282,7 @@
     },
     "STAKE_CONFIRMATION_MODAL": {
       "CONFIRM_STAKE": "確認質押",
-      "STAKE_CONFIRMATION_DESCRIPTOR": "確認質押後，您將開始賺取 USDC 形式的獎勵。切記，取消質押需要 30 天才能完成。"
+      "STAKE_CONFIRMATION_DESCRIPTOR": "確認質押後，您將開始賺取 USDT 形式的獎勵。切記，取消質押需要 30 天才能完成。"
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
       "CONFIRM_UNSTAKE": "確認取消質押",
@@ -1433,7 +1433,7 @@
       "REWARDS_UPDATE": "獎勵更新",
       "SEARCH_MARKETS": "搜索市場",
       "STAKING": "質押",
-      "STAKING_DESCRIPTION": "質押您的 $H2RWA 幫助確保網絡安全，並獲得 $USDC 獎勵。在 h2rwa 鏈上的所有費用都會分配給質押者。通過 Keplr 提供。",
+      "STAKING_DESCRIPTION": "質押您的 $H2RWA 幫助確保網絡安全，並獲得 $USDT 獎勵。在 h2rwa 鏈上的所有費用都會分配給質押者。通過 Keplr 提供。",
       "STOP_MARKET_ORDERS": "止損市價單",
       "STOP_MARKET_ORDERS_DESCRIPTION": "止損市價單和止盈市價單都在此處！快速輕鬆地設置觸發器，以限制您的損失並鎖定利潤。",
       "TARGET_VOLUME": "目標量",
@@ -1950,8 +1950,8 @@
       "YOURE_IN": "您在{LEAGUE}"
     },
     "TURNKEY_ONBOARD": {
-      "ACCEPTS_ONLY_USDC": "USDC 已被接受",
-      "ACCEPTED_ASSETS_AND_USDC": "{ASSETS}，USDC 已接受",
+      "ACCEPTS_ONLY_USDT": "USDT 已被接受",
+      "ACCEPTED_ASSETS_AND_USDT": "{ASSETS}，USDT 已接受",
       "CHECK_EMAIL_DESCRIPTION": "打開電子郵箱中的魔術鏈接，以完成登錄。",
       "CHECK_EMAIL_TITLE": "檢查您的電子郵箱",
       "CONTINUE_SIGN_IN_DESCRIPTION": "請等待",
@@ -2047,7 +2047,7 @@
       "SLIPPAGE_WARNING": "資金提現將導致{AMOUNT}滑點。 如果您稍後提現資金，則可以減少滑點。 如需瞭解更多信息，請查看 {LINK}。",
       "TVL": "總鎖倉價值",
       "VAULT": "保險庫",
-      "VAULT_DESCRIPTION": "該保險庫在 h2rwa 市場間進行自動交易，並獲得部分手續費收入。保險庫通過在訂單簿兩側報價追求市場中性倉位。損益將根據市場狀況而變化，並且存在損失部分或全部 USDC 充值的風險。",
+      "VAULT_DESCRIPTION": "該保險庫在 h2rwa 市場間進行自動交易，並獲得部分手續費收入。保險庫通過在訂單簿兩側報價追求市場中性倉位。損益將根據市場狀況而變化，並且存在損失部分或全部 USDT 充值的風險。",
       "VAULT_EQUITY": "保險庫權益",
       "VAULT_FAQS": "保險庫常見問題",
       "VAULT_OPERATOR_DESCRIPTION": "此保險庫由 [運{OPERATOR_NAME}營者名稱] 運營。h2rwa 社區選擇運營商。",
@@ -2246,7 +2246,7 @@
       "COUNTRY": "國家/地區",
       "EARN_COMMISSION": "推薦交易者，最高可賺取40%的佣金",
       "EARN_H2RWA_REWARDS": "交易並賺取$H2RWA獎勵",
-      "EARN_USDC": "邀請交易者加入h2rwa，賺取USDC",
+      "EARN_USDT": "邀請交易者加入h2rwa，賺取USDT",
       "EARNINGS": "收益",
       "ENTITY": "實體",
       "ENTITY_NAME": "實體名稱",
@@ -2283,7 +2283,7 @@
     },
     "STAKING_REWARDS": {
       "AVAILABLE_IN_DAYS": " {DAYS} 天內可用",
-      "CLAIM_USDC_AMOUNT": "領取 {USDC_AMOUNT} USDC",
+      "CLAIM_USDT_AMOUNT": "領取 {USDT_AMOUNT} USDT",
       "CLAIM_STAKING_REWARDS": "領取質押獎勵！",
       "EARN_APR": "賺取 {APR_PERCENTAGE} APR",
       "ESTIMATED_APR_DATA_BASED_ON": "預估 APR 基於來自 {PROTOCOL_STAKING_LINK} 的數據",
@@ -2315,7 +2315,7 @@
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_QUESTION": "如何申領交易獎勵？",
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_ANSWER": "每個區塊、交易獎勵都會自動直接發送到交易者的 h2rwa 鏈地址。",
       "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_QUESTION": "我如何質押並領取質押獎勵？",
-      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "要進行質押，請單擊“質押”按鈕並輸入您想要質押的代幣數量。基於擁有最少質押代幣且從未被削減過的合格驗證者，自動從社區中一組信譽良好的驗證者中選出一名驗證者。要領取質押獎勵，請在 USDC 獎勵可用時點擊“領取”按鈕。領取的 USDC 獎勵將存入您的賬户，以便您立即交易！請注意，領取 USDC 獎勵需要支付 gas 費。查看更多 {HERE_LINK}。",
+      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "要進行質押，請單擊“質押”按鈕並輸入您想要質押的代幣數量。基於擁有最少質押代幣且從未被削減過的合格驗證者，自動從社區中一組信譽良好的驗證者中選出一名驗證者。要領取質押獎勵，請在 USDT 獎勵可用時點擊“領取”按鈕。領取的 USDT 獎勵將存入您的賬户，以便您立即交易！請注意，領取 USDT 獎勵需要支付 gas 費。查看更多 {HERE_LINK}。",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_QUESTION": "交易獎勵如何運作？",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_ANSWER": "每次完成交易後，即刻根據交易者支付的費用金額，將交易獎勵直接發送到交易者的 h2rwa 鏈地址。瞭解更多 {HERE_LINK}。",
       "FAQ_HOW_IS_THE_PRECONFIGURED_SET_OF_VALIDATORS_DETERMINED_QUESTION": "如何確定預先配置的一組驗證者？",
@@ -2323,7 +2323,7 @@
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_QUESTION": "質押的風險是什麼？",
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_ANSWER": "使用任何 DeFi 協議都均存在風險。在質押的情況下，重要的是要了解取消質押代幣需要 30 天的時間，這意味着存在一段流動性不足的時期，在此期間您將無法轉移您的代幣，即使在協議或市場波動的情況下也是如此。此外，用户在將資產質押給驗證者之前，應該自行對驗證者進行盡職調查。違反協議規則的驗證者可能會受到懲罰，包括削減其質押的代幣（即銷燬）或禁止其參與，使其無法獲得獎勵。",
       "FAQ_WHAT_IS_STAKING_QUESTION": "什麼是質押？",
-      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa 鏈使用權益證明作為其共識機制。代幣持有者可以將其代幣質押給驗證者，以幫助保護網絡安全並驗證交易，同時作為交換，從協議收集的交易和 Gas 費中賺取 USDC 獎勵。所有費用均支付給質押者，減去支付給保險基金和驗證者佣金的任何費用。獎勵率基於來自 {HERE_LINK} 的數據。無法保證未來的獎勵率，該獎勵率可能會根據協議條件而波動。",
+      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa 鏈使用權益證明作為其共識機制。代幣持有者可以將其代幣質押給驗證者，以幫助保護網絡安全並驗證交易，同時作為交換，從協議收集的交易和 Gas 費中賺取 USDT 獎勵。所有費用均支付給質押者，減去支付給保險基金和驗證者佣金的任何費用。獎勵率基於來自 {HERE_LINK} 的數據。無法保證未來的獎勵率，該獎勵率可能會根據協議條件而波動。",
       "FAQ_WHO_IS_ELIGIBLE_QUESTION": "誰有資格獲得交易獎勵？",
       "FAQ_WHO_IS_ELIGIBLE_ANSWER": "所有交易者都有資格獲得交易獎勵。",
       "FAQ_WHICH_VALIDATORS_ARE_AVAILABLE_QUESTION": "哪些驗證者可用於質押？",
@@ -2447,14 +2447,14 @@
       "CONTINUE_TO_DISCLAIMER": "{PROVIDER} 獨立於該應用程序的運營商",
       "BANXA_SUPPORT_LINK": "Banxa支持",
       "CHECK_ORDER_STATUS": "需要法定貨幣充值？在電子郵件中檢查您的訂單狀態，或聯繫{BANXA_SUPPORT_LINK}",
-      "MODAL_BUY_CTA": "購買 USDC",
+      "MODAL_BUY_CTA": "購買 USDT",
       "MODAL_CONFIRMATION": "在 Banxa 上完成訂單流程，用法幣購買 USDDC，無需支付 gas 費用。在電子郵件中檢查您的訂單狀態，或聯繫{BANXA_SUPPORT_LINK}",
       "MODAL_CONFIRMATION_TITLE": "在 Banxa 上完成",
-      "MODAL_LEGAL_DISCLAIMER": "點擊“購買USDC”，即表示您確認並同意本服務由Banxa.com Pty Ltd. （“Banxa”）直接為您提供，且不涉及h2rwa Trading Inc.（“h2rwa”）；本服務以及任何購買或出售加密貨幣以換取價值（包括法幣、加密貨幣和貸款）的行為都將發生您離開h2rwa網站和協議之後，且任何價值傳輸（包括髮送、接收和保管價值）都將直接發生在您的以太坊網絡地址和Banxa之間。本服務不對位於美國的人士提供。您還同意，不會將 Banxa 要求您提供的信息（包括卡號和客户身份審查）提供給 h2rwa，且您不會要求 h2rwa 對您與 Banxa 之間交易或傳輸的任何方面負責。  如有任何衝突，請以本聲明的英文版為準，該聲明可在 https://h2chain.io/legal 的 h2rwa 使用條款中找到。 ",
+      "MODAL_LEGAL_DISCLAIMER": "點擊“購買USDT”，即表示您確認並同意本服務由Banxa.com Pty Ltd. （“Banxa”）直接為您提供，且不涉及h2rwa Trading Inc.（“h2rwa”）；本服務以及任何購買或出售加密貨幣以換取價值（包括法幣、加密貨幣和貸款）的行為都將發生您離開h2rwa網站和協議之後，且任何價值傳輸（包括髮送、接收和保管價值）都將直接發生在您的以太坊網絡地址和Banxa之間。本服務不對位於美國的人士提供。您還同意，不會將 Banxa 要求您提供的信息（包括卡號和客户身份審查）提供給 h2rwa，且您不會要求 h2rwa 對您與 Banxa 之間交易或傳輸的任何方面負責。  如有任何衝突，請以本聲明的英文版為準，該聲明可在 https://h2chain.io/legal 的 h2rwa 使用條款中找到。 ",
       "MODAL_NEED_HELP": "需要幫助？",
-      "MODAL_SUBTITLE": "通過 Banxa 平台來購買 USDC。資金將直接存入您的賬户，{NO_GAS_FEES_STYLED}。",
+      "MODAL_SUBTITLE": "通過 Banxa 平台來購買 USDT。資金將直接存入您的賬户，{NO_GAS_FEES_STYLED}。",
       "NO_GAS_FEES_STYLED": "無需支付 gas 費用",
-      "PROMO_COPY": "使用信用卡、銀行轉賬等方式購買 USDC。您的資金將直接存入您的賬户，{NO_GAS_FEES_STYLED}。",
+      "PROMO_COPY": "使用信用卡、銀行轉賬等方式購買 USDT。您的資金將直接存入您的賬户，{NO_GAS_FEES_STYLED}。",
       "PROMO_CTA": "立即購買"
     },
     "TRADE_BOX_CARDS": {
@@ -2508,11 +2508,11 @@
     },
     "DEPOSIT_OPTIONS": {
       "DEPOSIT_ALL_ASSET_CTA": "存入全部{ASSET}",
-      "DEPOSIT_ETH_INFO": "此錢包中所有剩餘的 ETH 將轉換為 USDC 並存入您的交易賬户。",
+      "DEPOSIT_ETH_INFO": "此錢包中所有剩餘的 ETH 將轉換為 USDT 並存入您的交易賬户。",
       "DEPOSIT_FUNDS_SUBTITLE": "您需要資金才能開始交易。",
-      "DEPOSIT_NON_UDSC_INFO": "此錢包中的所有{ASSET}將轉換為USDC並存入您的交易賬户。",
-      "DEPOSIT_USDC_INFO": "此錢包中的所有 USDC 將存入您的交易賬户。",
-      "FIAT_SUBTITLE": "通過信用卡等方式購買USDC。資金將直接存入您的賬户，無需支付gas費。",
+      "DEPOSIT_NON_UDSC_INFO": "此錢包中的所有{ASSET}將轉換為USDT並存入您的交易賬户。",
+      "DEPOSIT_USDT_INFO": "此錢包中的所有 USDT 將存入您的交易賬户。",
+      "FIAT_SUBTITLE": "通過信用卡等方式購買USDT。資金將直接存入您的賬户，無需支付gas費。",
       "INSUFFICIENT_BALANCE": "餘額不足",
       "NETWORK_FEE": "網絡費",
       "NETWORK_FEE_ETH_INFO": "您的錢包中必須至少有{ETH_AMOUNT}以支付網絡費用。",
@@ -3060,7 +3060,7 @@
       "ISOLATED_MARGIN_ADJUSTMENT_INVALID_AMOUNT": "請輸入有效金額。"
     },
     "NEW_MARKET_WIDGET": {
-      "LAUNCHING_MARKET_REQUIRES_USDC": "推出市場需要至少 {USDC_AMOUNT}USDC 的跨自由質押品",
+      "LAUNCHING_MARKET_REQUIRES_USDT": "推出市場需要至少 {USDT_AMOUNT}USDT 的跨自由質押品",
       "NOT_ENOUGH_BALANCE": "您需要至少 {NUM_TOKENS_REQUIRED} {NATIVE_TOKEN_DENOM} 才能添加市場。"
     },
     "WALLET_SPECIFIC": {
@@ -3077,9 +3077,9 @@
   },
   "WARNINGS": {
     "ACCOUNT_FUND_MANAGEMENT": {
-      "WITHDRAWAL_LIMIT_OVER": "請輸入較小的金額。目前 h2rwa 鏈的最大提現限額為 {USDC_LIMIT}。",
+      "WITHDRAWAL_LIMIT_OVER": "請輸入較小的金額。目前 h2rwa 鏈的最大提現限額為 {USDT_LIMIT}。",
       "WITHDRAWAL_LIMIT_OVER_TITLE": "請輸入較小的金額",
-      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "目前 h2rwa 鏈的最大提現限額為 {USDC_LIMIT}。",
+      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "目前 h2rwa 鏈的最大提現限額為 {USDT_LIMIT}。",
       "WITHDRAWAL_LIMIT_OVER_ACTION": "修改金額",
       "WITHDRAWAL_PAUSED_TITLE": "暫停提現",
       "WITHDRAWAL_PAUSED_DESCRIPTION": "請在 {SECONDS} 秒後重試。",
@@ -3090,7 +3090,7 @@
     },
     "ONBOARDING": {
       "ALWAYS_VERIFY_URL": "在找回密鑰時，始終切記檢查並確認您訪問的網站是 https://h2rwa.io。",
-      "NOBLE_CHAIN_ONLY": "此地址僅支持將 Noble USDC 轉移到 Noble 鏈。 從其他區塊鏈發送任何資金都將導致這些資金的損失。"
+      "NOBLE_CHAIN_ONLY": "此地址僅支持將 Noble USDT 轉移到 Noble 鏈。 從其他區塊鏈發送任何資金都將導致這些資金的損失。"
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "本訂單滑點低 — 我們建議{LIMIT_PRICE}美元或更高的限價，以提高本訂單的成交幾率。您的訂單會在觸發時以儘可能最有利的價格執行。",

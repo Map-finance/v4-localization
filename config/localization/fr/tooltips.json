@@ -335,7 +335,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Dépôts de frais les plus bas",
-      "BODY": "Les dépôts USDC sur {LOWEST_FEE_TOKEN_NAMES} ont les frais les plus bas."
+      "BODY": "Les dépôts USDT sur {LOWEST_FEE_TOKEN_NAMES} ont les frais les plus bas."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "Montant du dépôt minimum",
@@ -343,7 +343,7 @@
     },
     "SWAP": {
       "TITLE": "Échange et dépôt",
-      "BODY": "Lors du dépôt d'un actif non USDC, votre actif est automatiquement converti en USDC via l'API 0x. La définition de l'effet de slippage maximum vous permet de spécifier le slippage que vous autoriserez avant l'échec de la conversion."
+      "BODY": "Lors du dépôt d'un actif non USDT, votre actif est automatiquement converti en USDT via l'API 0x. La définition de l'effet de slippage maximum vous permet de spécifier le slippage que vous autoriserez avant l'échec de la conversion."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -373,7 +373,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Retraits aux frais les plus bas",
-      "BODY": "Les retraits USDC sur {LOWEST_FEE_TOKEN_NAMES} ont les frais les plus bas."
+      "BODY": "Les retraits USDT sur {LOWEST_FEE_TOKEN_NAMES} ont les frais les plus bas."
     },
     "BRIDGE_FEES": {
       "TITLE": "Frais de bridge",

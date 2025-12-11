@@ -335,7 +335,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "最低費用存款",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDC存款費用最低。"
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDT存款費用最低。"
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "最低存款金額",
@@ -343,7 +343,7 @@
     },
     "SWAP": {
       "TITLE": "互換和存款",
-      "BODY": "存入非USDC資產時，您的資產將通過0x API自動轉換為USDC。設置最大滑點可指定轉換失敗前允許的滑點幅度。"
+      "BODY": "存入非USDT資產時，您的資產將通過0x API自動轉換為USDT。設置最大滑點可指定轉換失敗前允許的滑點幅度。"
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -373,7 +373,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "提現費用最低",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDC提現費用最低。"
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}的USDT提現費用最低。"
     },
     "BRIDGE_FEES": {
       "TITLE": "橋接費用",

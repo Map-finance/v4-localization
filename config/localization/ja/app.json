@@ -529,7 +529,7 @@
       },
       "CRV": {
         "PRIMARY": "Curve（カーブ）はイーサリアム（Uniswapなど）の交換流動性プールであり、非常に効率的で安定した通貨取引を可能にし、さらに機会費用なしでリクイディティ・プロバイダー向けの低リスクによる追加手数料収入が実現できるよう設計されています。",
-        "SECONDARY": "Curveにより、ユーザー（および1インチ、Paraswap、Totle、Dex.agなどのスマートコントラクト）はステーブルコイン専用に設計された特注の低スリッページ、低料金アルゴリズムを使用することで、DAIとUSDCの間の取引で料金を稼ぐことができます。"
+        "SECONDARY": "Curveにより、ユーザー（および1インチ、Paraswap、Totle、Dex.agなどのスマートコントラクト）はステーブルコイン専用に設計された特注の低スリッページ、低料金アルゴリズムを使用することで、DAIとUSDTの間の取引で料金を稼ぐことができます。"
       },
       "DOGE": {
         "PRIMARY": "ドージコインはオープンソースによるP2Pのデジタル通貨です。",
@@ -816,8 +816,8 @@
       "EARN_FEES": "手数料を獲得",
       "EARN_FOR_EACH_TRADER_REFER_FOR_DISCOUNTS": "新規トレーダーを紹介するごとに、月額最大{AMOUNT_PER_MONTH}ドルを獲得できます。VIPアフィリエイトであれば、最大{VIP_AMOUNT_USD}ドルを獲得できます！あなたから紹介を受けたご友人は、取引手数料を最大{AMOUNT_DISCOUNT}ドルまで節約できます。{LEARN_MORE_LINK}",
       "EARN_FOR_EACH_TRADER": "新規トレーダーごとに月額最大{AMOUNT_USD}ドルを獲得できます。",
-      "EARN_USDC_DISCRIPTION": "ステーキングやその他のプロダクトを活用して、USDCを獲得しましょう。",
-      "EARN_USDC": "USDCを獲得",
+      "EARN_USDT_DISCRIPTION": "ステーキングやその他のプロダクトを活用して、USDTを獲得しましょう。",
+      "EARN_USDT": "USDTを獲得",
       "FEES_REFERRED": "紹介料",
       "GET_YOUR_AFFILIATE_LINK": "アフィリエイトリンクを入手する",
       "HAS_REFERRED_YOU": "世界で最もパワフルなオープンエクスチェンジで取引を開始することを推奨しています。",
@@ -982,12 +982,12 @@
       "LEGACY_SIGNING": "レガシー署名",
       "LINK_WALLET": "ウォレットをリンクする",
       "LINKING_WALLET": "ウォレットをリンクさせる",
-      "MINIMUM_DEPOSIT": "最低入金額は{MIN_DEPOSIT_USDC}です",
+      "MINIMUM_DEPOSIT": "最低入金額は{MIN_DEPOSIT_USDT}です",
       "MISSING_KEYS_DESCRIPTION": "おかえりなさい！1つまたは複数のキーを再作成する必要があります",
       "NEED_A_WALLET": "ウォレットが必要ですか？",
       "NOBLE_ADDRESS": "Nobleアドレス",
       "NOBLE_SWEEP": "資金は、あなたのh2rwaアドレスに振り込まれます",
-      "NOBLE_ACKNOWLEDGEMENT": "このアドレスは、NobleチェーンへのNoble USDC転送にのみ使用することを認めます。 このアドレスに他の資金を送信した場合のリスクを理解しています。",
+      "NOBLE_ACKNOWLEDGEMENT": "このアドレスは、NobleチェーンへのNoble USDT転送にのみ使用することを認めます。 このアドレスに他の資金を送信した場合のリスクを理解しています。",
       "NOBLE_ADDRESS_VALIDATION": "有効なNobleアドレスを入力してください。",
       "NO_FUTURE_ACCESS": "今後、米国内または制限を受けている地域に滞在している間、このサイトにアクセスしたり、h2rwaで取引したりすることはできません。",
       "NO_VPN_USE": "また、現在、制限された地域から自分の物理的な位置を隠すためにVPNを使用しておらず、今後も使用することはありません。",
@@ -1155,7 +1155,7 @@
     },
     "DEPOSIT_MODAL": {
       "ACKNOWLEDGE_TERMS_AND_DEPOSIT": "規約を承認して入金してください",
-      "APPROVE_USDC": "USDCを承認",
+      "APPROVE_USDT": "USDTを承認",
       "BRIDGE_FEE": "ブリッジ料金",
       "CEX_EXAMPLES": "Coinbase、Binanceなど",
       "DEPOSIT_METHOD": "入金方法",
@@ -1177,7 +1177,7 @@
       "GASLESS_DEPOSITS_TEMPORARILY_DISABLED": "ガスレス入金は現在、一時的に利用できません。 心配しないでください。すぐに利用を再開できる予定です。",
       "GASLESS_ETH_DEPOSITS": "ETHではガスレス入金は利用できません。ETHを{1INCH_WETH_LINK}または{UNISWAP_WETH_LINK}でWETHに変換し、WETHガスレス入金を利用するか、またはガス代を負担して直接ETHを入金することもできます。",
       "HELD": "保有中",
-      "LOWEST_FEE_DEPOSITS": "{LOWEST_FEE_TOKENS_TOOLTIP}からのUSDC入金は最も手数料が低いです。 その他の入金には、追加の第三者手数料がかかる場合があります。",
+      "LOWEST_FEE_DEPOSITS": "{LOWEST_FEE_TOKENS_TOOLTIP}からのUSDT入金は最も手数料が低いです。 その他の入金には、追加の第三者手数料がかかる場合があります。",
       "MAX_SLIPPAGE": "許容スリッページ",
       "MINIMUM_DEPOSIT_AMOUNT": "最低入金額",
       "MINIMUM_DEPOSIT_MET": "すばらしい！お客様の入金は、ガスレス入金額の最小限度額である{GASLESS_DEPOSIT_THRESHOLD}{SYMBOL}をクリアしています。h2rwaはこの入金時のガス代を負担いたします。",
@@ -1211,9 +1211,9 @@
       "HIGH_FEES_IN_GENERAL": "一般的に{HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT}",
       "HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT": "最高手数料",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "最低手数料",
-      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDCから{LOWEST_FEE_TOKENS_TOOLTIP}への出金が最も低い手数料になります。 その他の出金方法（イーサリアムの資産など）は、より高いサードパーティの手数料が必要な場合があります。",
-      "LOWEST_FEE_WITHDRAWALS": "USDCから{LOWEST_FEE_TOKENS_TOOLTIP}への出金が最も低い手数料になります。 その他の出金には、追加の第三者手数料がかかる場合があります。",
-      "LOWEST_FEES_WITH_USDC": "USDCの{LOWEST_FEES_HIGHLIGHT_TEXT}",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "USDTから{LOWEST_FEE_TOKENS_TOOLTIP}への出金が最も低い手数料になります。 その他の出金方法（イーサリアムの資産など）は、より高いサードパーティの手数料が必要な場合があります。",
+      "LOWEST_FEE_WITHDRAWALS": "USDTから{LOWEST_FEE_TOKENS_TOOLTIP}への出金が最も低い手数料になります。 その他の出金には、追加の第三者手数料がかかる場合があります。",
+      "LOWEST_FEES_WITH_USDT": "USDTの{LOWEST_FEES_HIGHLIGHT_TEXT}",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "引き出した資産にアクセスし、h2rwa以外でウォレットを利用するためには、ウォレットを別のウォレットプロバイダーにエクスポートする必要があります。",
       "SELECT_CHAINS": "チェーンを選択",
       "SLOW": "通常",
@@ -1255,7 +1255,7 @@
     },
     "STAKE_MODAL": {
       "INSUFFICIENT_STAKE_BALANCE": "ウォレット残高は、トランザクション手数料をカバーするには不十分です。",
-      "STAKE_DESCRIPTION": "H2RWAをステーキングして、USDCで報酬を受け取ります。 ステーキング解除が完了するまで30日間かかります。",
+      "STAKE_DESCRIPTION": "H2RWAをステーキングして、USDTで報酬を受け取ります。 ステーキング解除が完了するまで30日間かかります。",
       "AMOUNT_TO_STAKE": "ステーク金額",
       "SELECTED_VALIDATOR": "選択されたバリデータ",
       "ENTER_AMOUNT_TO_STAKE": "ステーク金額を入力します",
@@ -1282,7 +1282,7 @@
     },
     "STAKE_CONFIRMATION_MODAL": {
       "CONFIRM_STAKE": "ステーキングを確認",
-      "STAKE_CONFIRMATION_DESCRIPTOR": "確認されると、USDCで報酬の獲得を開始します。 ステーキング解除が完了するのに30日間かかることにログイン状態を保持する。"
+      "STAKE_CONFIRMATION_DESCRIPTOR": "確認されると、USDTで報酬の獲得を開始します。 ステーキング解除が完了するのに30日間かかることにログイン状態を保持する。"
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
       "CONFIRM_UNSTAKE": "ステーキング解除を確認",
@@ -1433,7 +1433,7 @@
       "REWARDS_UPDATE": "報酬の更新",
       "SEARCH_MARKETS": "マーケットを検索する",
       "STAKING": "ステーキング",
-      "STAKING_DESCRIPTION": "$H2RWAを賭けて、ネットワークのセキュリティを確保し、$USDCを獲得しましょう。h2rwaチェーンのすべての料金はステークホルダーに請求されます。Keplrから入手可能です。",
+      "STAKING_DESCRIPTION": "$H2RWAを賭けて、ネットワークのセキュリティを確保し、$USDTを獲得しましょう。h2rwaチェーンのすべての料金はステークホルダーに請求されます。Keplrから入手可能です。",
       "STOP_MARKET_ORDERS": "成行注文のストップオーダー",
       "STOP_MARKET_ORDERS_DESCRIPTION": "成行注文を停止し、利益確定成行注文を行います。 迅速かつ簡単にトリガーを設定し、損失を抑え、利益を確定します。",
       "TARGET_VOLUME": "目標ボリューム",
@@ -1950,8 +1950,8 @@
       "YOURE_IN": "あなたは{LEAGUE}に参加しています"
     },
     "TURNKEY_ONBOARD": {
-      "ACCEPTS_ONLY_USDC": "USDCが承認されました",
-      "ACCEPTED_ASSETS_AND_USDC": "{ASSETS}、USDCが承認されました",
+      "ACCEPTS_ONLY_USDT": "USDTが承認されました",
+      "ACCEPTED_ASSETS_AND_USDT": "{ASSETS}、USDTが承認されました",
       "CHECK_EMAIL_DESCRIPTION": "メール内のマジックリンクを開いて、サインインを完了します",
       "CHECK_EMAIL_TITLE": "メールを確認してください",
       "CONTINUE_SIGN_IN_DESCRIPTION": "お待ちください",
@@ -2047,7 +2047,7 @@
       "SLIPPAGE_WARNING": "資金を引き出すと、{AMOUNT}スリッページが発生します。後で資金を引き出すと、スリッページが減少する場合があります。詳細については、{LINK}を参照してください。",
       "TVL": "TVL",
       "VAULT": "ボールト",
-      "VAULT_DESCRIPTION": "このボールトはh2rwaマーケットで自動的に取引を行い、手数料収入の一部を獲得します。ボールトは、本の両面を引用することで、市場中立的な立場を目指しています。P&Lは、市況に基づいて異なり、入金されたUSDCの一部または全部を失うリスクがあります。",
+      "VAULT_DESCRIPTION": "このボールトはh2rwaマーケットで自動的に取引を行い、手数料収入の一部を獲得します。ボールトは、本の両面を引用することで、市場中立的な立場を目指しています。P&Lは、市況に基づいて異なり、入金されたUSDTの一部または全部を失うリスクがあります。",
       "VAULT_EQUITY": "ボールトエクイティ",
       "VAULT_FAQS": "ボールトFAQ",
       "VAULT_OPERATOR_DESCRIPTION": "このボールトは{OPERATOR_NAME}によって運営されています。オペレーターはh2rwaコミュニティによって選択されました。",
@@ -2246,7 +2246,7 @@
       "COUNTRY": "国",
       "EARN_COMMISSION": "トレーダーを紹介し、最大で40％の手数料を獲得する",
       "EARN_H2RWA_REWARDS": "取引により$H2RWA報酬を獲得する",
-      "EARN_USDC": "トレーダーをh2rwaに紹介し、USDCを獲得する",
+      "EARN_USDT": "トレーダーをh2rwaに紹介し、USDTを獲得する",
       "EARNINGS": "収益",
       "ENTITY": "エンティティ",
       "ENTITY_NAME": "エンティティ名",
@@ -2283,7 +2283,7 @@
     },
     "STAKING_REWARDS": {
       "AVAILABLE_IN_DAYS": "{DAYS}日で利用可能",
-      "CLAIM_USDC_AMOUNT": "{USDC_AMOUNT}USDCを請求",
+      "CLAIM_USDT_AMOUNT": "{USDT_AMOUNT}USDTを請求",
       "CLAIM_STAKING_REWARDS": "ステーキング報酬を請求しましょう！",
       "EARN_APR": "年利{APR_PERCENTAGE}を獲得",
       "ESTIMATED_APR_DATA_BASED_ON": "推定APRは、{PROTOCOL_STAKING_LINK}からのデータに基づいています ",
@@ -2315,7 +2315,7 @@
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_QUESTION": "取引報酬を請求するにはどうすればよいですか？",
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_ANSWER": "各ブロックの取引報酬は、直接トレーダーのh2rwaチェーンアドレスに自動的に送信されます。",
       "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_QUESTION": "ステーキング報酬を請求するにはどうすればよいですか？",
-      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "ステークするには、「ステーク」ボタンをクリックし、ステークしたいトークンの金額を入力します。コミュニティで良好な評価を受けているバリデーターの中から、ステークされているトークン数が最も少なく、スラッシュされたことがないバリデーターが自動的に選択されます。ステーキング報酬を請求するには、USDC報酬が利用可能な場合は、「請求」ボタンをクリックします。請求されたUSDC報酬は口座に預金されるため、即座に取引できます！USDC報酬を請求するには、ガス代が発生します。{HERE_LINK}で詳細を見る。",
+      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "ステークするには、「ステーク」ボタンをクリックし、ステークしたいトークンの金額を入力します。コミュニティで良好な評価を受けているバリデーターの中から、ステークされているトークン数が最も少なく、スラッシュされたことがないバリデーターが自動的に選択されます。ステーキング報酬を請求するには、USDT報酬が利用可能な場合は、「請求」ボタンをクリックします。請求されたUSDT報酬は口座に預金されるため、即座に取引できます！USDT報酬を請求するには、ガス代が発生します。{HERE_LINK}で詳細を見る。",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_QUESTION": "取引報酬の仕組みは？",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_ANSWER": "各執行後すぐに、トレーダーが支払った手数料の金額に基づいて、取引報酬がトレーダーのh2rwaチェーンアドレスに直接送信されます。{HERE_LINK}で続きを読む。",
       "FAQ_HOW_IS_THE_PRECONFIGURED_SET_OF_VALIDATORS_DETERMINED_QUESTION": "事前設定されたバリデータのセットはどのように決定されるのですか？",
@@ -2323,7 +2323,7 @@
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_QUESTION": "ステーキングのリスクは何ですか？",
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_ANSWER": "DeFiプロトコルを使用する場合、リスクが伴います。 ステーキングの場合、ステーキング解除トークンは30日間かかることを理解することが重要です。つまり、プロトコルまたは市場のボラティリティの場合でも、トークンを転送できない流動性の期間があることを意味します。バリデーターがプロトコルの規則に違反した場合、ステークされたトークンがスラッシュ（焼却）されたり、報酬を得ることができなくなる「ジェイル」状態になることがあります。プロトコルルールに違反するバリデータは、トークンをスラッシュ（すなわち、書き込み）またはジェイド（投獄）することで、報酬を獲得できなくなります。",
       "FAQ_WHAT_IS_STAKING_QUESTION": "ステーキングとは何ですか？",
-      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwaチェーンは、コンセンサスメカニズムにプルーフオブステークを使用しています。 トークン保有者は、ネットワークの安全性とトランザクションの検証を支援するために、トークンをバリデータにステーキングし、その代わりに、プロトコルが収集する取引手数料とガス代からUSDC報酬を獲得できます。すべての手数料は、ステーカーに支払われます。保険基金とバリデータ手数料に送られる手数料は差し引かれます。報酬レートは、{HERE_LINK}からのデータに基づいています。将来の報酬レートの保証はありません。これは、プロトコル条件に基づいて変動する可能性があります。",
+      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwaチェーンは、コンセンサスメカニズムにプルーフオブステークを使用しています。 トークン保有者は、ネットワークの安全性とトランザクションの検証を支援するために、トークンをバリデータにステーキングし、その代わりに、プロトコルが収集する取引手数料とガス代からUSDT報酬を獲得できます。すべての手数料は、ステーカーに支払われます。保険基金とバリデータ手数料に送られる手数料は差し引かれます。報酬レートは、{HERE_LINK}からのデータに基づいています。将来の報酬レートの保証はありません。これは、プロトコル条件に基づいて変動する可能性があります。",
       "FAQ_WHO_IS_ELIGIBLE_QUESTION": "取引報酬の対象者とは？",
       "FAQ_WHO_IS_ELIGIBLE_ANSWER": "すべてのトレーダーは、取引報酬を受け取る資格があります。",
       "FAQ_WHICH_VALIDATORS_ARE_AVAILABLE_QUESTION": "ステーキングにはどのバリデータが使用できますか？",
@@ -2447,14 +2447,14 @@
       "CONTINUE_TO_DISCLAIMER": "{PROVIDER} は、このアプリの運営者から独立しています",
       "BANXA_SUPPORT_LINK": "Banxaサポート",
       "CHECK_ORDER_STATUS": "フィアット入金をお探しですか？メール内の注文状況を確認されるか、{BANXA_SUPPORT_LINK}にお問い合わせください",
-      "MODAL_BUY_CTA": "USDCを購入する",
-      "MODAL_CONFIRMATION": "Banxaの注文フローを完了して、ガス代なしでUSDCをフィアットで購入します。メール内の注文状況を確認されるか、{BANXA_SUPPORT_LINK}にお問い合わせください",
+      "MODAL_BUY_CTA": "USDTを購入する",
+      "MODAL_CONFIRMATION": "Banxaの注文フローを完了して、ガス代なしでUSDTをフィアットで購入します。メール内の注文状況を確認されるか、{BANXA_SUPPORT_LINK}にお問い合わせください",
       "MODAL_CONFIRMATION_TITLE": "Banxaで完了する",
-      "MODAL_LEGAL_DISCLAIMER": "お客様は「USDCを購入」をクリックすることで、このサービスはBanxa.com Pty Ltd.（「Banxa」）が直接提供し、h2rwa Trading Inc.（「h2rwa」）は一切関与していないことを了解し、同意したものとみなされます。このサービスおよび有価物（フィアット、暗号資産、貸付を含みます）との交換による暗号資産の売買は、h2rwaのウェブサイトおよびプロトコルを離れた後で行われます。また、有価物の送信（送付、受領、保管を含みます）はお客様のイーサリアムネットワークアドレスとBanxaの間で直接行われます。 米国にお住まいの方が本サービスを利用することはできません。お客様は、Banxaから提供を求められた情報（カード番号やKYCを含みます）はh2rwaに提供されず、h2rwaはお客様とBanxaの間で行われるトランザクションまたは送信のいかなる側面についても、一切の責任を負わないことに同意するものとします。この文書の内容に矛盾が生じた場合は、英語版を優先するものとします。英語版はh2rwa利用規約で確認することができます：https://h2chain.io/legal",
+      "MODAL_LEGAL_DISCLAIMER": "お客様は「USDTを購入」をクリックすることで、このサービスはBanxa.com Pty Ltd.（「Banxa」）が直接提供し、h2rwa Trading Inc.（「h2rwa」）は一切関与していないことを了解し、同意したものとみなされます。このサービスおよび有価物（フィアット、暗号資産、貸付を含みます）との交換による暗号資産の売買は、h2rwaのウェブサイトおよびプロトコルを離れた後で行われます。また、有価物の送信（送付、受領、保管を含みます）はお客様のイーサリアムネットワークアドレスとBanxaの間で直接行われます。 米国にお住まいの方が本サービスを利用することはできません。お客様は、Banxaから提供を求められた情報（カード番号やKYCを含みます）はh2rwaに提供されず、h2rwaはお客様とBanxaの間で行われるトランザクションまたは送信のいかなる側面についても、一切の責任を負わないことに同意するものとします。この文書の内容に矛盾が生じた場合は、英語版を優先するものとします。英語版はh2rwa利用規約で確認することができます：https://h2chain.io/legal",
       "MODAL_NEED_HELP": "サポートが必要ですか？",
-      "MODAL_SUBTITLE": "BanxaでUSDCを購入する。資金はお客様の口座{NO_GAS_FEES_STYLED}に直接入金されます。",
+      "MODAL_SUBTITLE": "BanxaでUSDTを購入する。資金はお客様の口座{NO_GAS_FEES_STYLED}に直接入金されます。",
       "NO_GAS_FEES_STYLED": "ガス代不要",
-      "PROMO_COPY": "クレジットカード、銀行振込などを使用してUSDCを購入する資金は{NO_GAS_FEES_STYLED}でお客様の口座に直接入金されます。",
+      "PROMO_COPY": "クレジットカード、銀行振込などを使用してUSDTを購入する資金は{NO_GAS_FEES_STYLED}でお客様の口座に直接入金されます。",
       "PROMO_CTA": "今すぐ購入"
     },
     "TRADE_BOX_CARDS": {
@@ -2508,11 +2508,11 @@
     },
     "DEPOSIT_OPTIONS": {
       "DEPOSIT_ALL_ASSET_CTA": "すべての{ASSET}を入金",
-      "DEPOSIT_ETH_INFO": "ウォレットに残っているすべてのETHがUSDCに変換され、取引口座に入金されます。",
+      "DEPOSIT_ETH_INFO": "ウォレットに残っているすべてのETHがUSDTに変換され、取引口座に入金されます。",
       "DEPOSIT_FUNDS_SUBTITLE": "取引を開始するには、資金が必要になります。",
-      "DEPOSIT_NON_UDSC_INFO": "このウォレット内の{ASSET}はすべてUSDCに変換され、お客様の取引口座に入金されます。",
-      "DEPOSIT_USDC_INFO": "ウォレット内のUSDCはすべて、取引口座に入金されます。",
-      "FIAT_SUBTITLE": "USDCはクレジットカードなどで購入できます。資金は口座に直接入金され、ガス代はかかりません。",
+      "DEPOSIT_NON_UDSC_INFO": "このウォレット内の{ASSET}はすべてUSDTに変換され、お客様の取引口座に入金されます。",
+      "DEPOSIT_USDT_INFO": "ウォレット内のUSDTはすべて、取引口座に入金されます。",
+      "FIAT_SUBTITLE": "USDTはクレジットカードなどで購入できます。資金は口座に直接入金され、ガス代はかかりません。",
       "INSUFFICIENT_BALANCE": "残高不足",
       "NETWORK_FEE": "ネットワーク手数料",
       "NETWORK_FEE_ETH_INFO": "ネットワーク手数料を負担するには、ウォレットに少なくとも{ETH_AMOUNT}以上が必要です。",
@@ -3060,7 +3060,7 @@
       "ISOLATED_MARGIN_ADJUSTMENT_INVALID_AMOUNT": "有効な金額を入力してください。"
     },
     "NEW_MARKET_WIDGET": {
-      "LAUNCHING_MARKET_REQUIRES_USDC": "マーケットをローンチするには、最低{USDC_AMOUNT}USDCのクロスフリー担保が必要です",
+      "LAUNCHING_MARKET_REQUIRES_USDT": "マーケットをローンチするには、最低{USDT_AMOUNT}USDTのクロスフリー担保が必要です",
       "NOT_ENOUGH_BALANCE": "マーケットを追加するには少なくとも{NUM_TOKENS_REQUIRED}{NATIVE_TOKEN_DENOM}が必要です。"
     },
     "WALLET_SPECIFIC": {
@@ -3077,9 +3077,9 @@
   },
   "WARNINGS": {
     "ACCOUNT_FUND_MANAGEMENT": {
-      "WITHDRAWAL_LIMIT_OVER": "より少ない金額をご入力ください。現在のh2rwaチェーンからの最大出金制限は、{USDC_LIMIT}です。",
+      "WITHDRAWAL_LIMIT_OVER": "より少ない金額をご入力ください。現在のh2rwaチェーンからの最大出金制限は、{USDT_LIMIT}です。",
       "WITHDRAWAL_LIMIT_OVER_TITLE": "より少ない金額を入力してください",
-      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "現在のh2rwaチェーンからの最大出金制限は、{USDC_LIMIT}です。",
+      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "現在のh2rwaチェーンからの最大出金制限は、{USDT_LIMIT}です。",
       "WITHDRAWAL_LIMIT_OVER_ACTION": "金額を修正する",
       "WITHDRAWAL_PAUSED_TITLE": "出金は一時停止されています",
       "WITHDRAWAL_PAUSED_DESCRIPTION": "{SECONDS}秒後にもう一度お試しください。",
@@ -3090,7 +3090,7 @@
     },
     "ONBOARDING": {
       "ALWAYS_VERIFY_URL": "キーを再作成する場合は、 https://h2rwa.io にアクセスしていることを常に確認、検証してください。",
-      "NOBLE_CHAIN_ONLY": "このアドレスは、Noble ChainへのNoble USDC送金専用です。他のブロックチェーンからの送金は、資金が失われる原因となります。"
+      "NOBLE_CHAIN_ONLY": "このアドレスは、Noble ChainへのNoble USDT送金専用です。他のブロックチェーンからの送金は、資金が失われる原因となります。"
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "この注文のスリッページは低い状態です。${LIMIT_PRICE}以上の指値で約定の確率を高めることを推奨します。注文がトリガーされると、可能な限り最善の価格で実行されます。",

@@ -526,7 +526,7 @@
       },
       "CRV": {
         "PRIMARY": "Curve, likidite sağlayıcıları için son derece verimli stablecoin yatırımı ve bir fırsat maliyeti olmayan, düşük riskli, ek ücret gelirleri için tasarlanmış, Ethereum üzerinde çalışan (Uniswap gibi) bir takas likidite havuzudur.",
-        "SECONDARY": "Curve, kullanıcıların (ve 1inch, Paraswap, Totle ve Dex.ag gibi akıllı sözleşmelerin) özellikle stablecoin için tasarlanmış düşük kayma oranlı ve düşük ücretli özel bir algoritma ile DAI ve USDC arasında alım satım yapmalarına ve ücret kazanmalarına olanak tanır."
+        "SECONDARY": "Curve, kullanıcıların (ve 1inch, Paraswap, Totle ve Dex.ag gibi akıllı sözleşmelerin) özellikle stablecoin için tasarlanmış düşük kayma oranlı ve düşük ücretli özel bir algoritma ile DAI ve USDT arasında alım satım yapmalarına ve ücret kazanmalarına olanak tanır."
       },
       "DOGE": {
         "PRIMARY": "Dogecoin, eşler arası açık kaynaklı dijital bir para birimidir.",
@@ -811,8 +811,8 @@
       "EARN_FEES": "Ücret kazanın",
       "EARN_FOR_EACH_TRADER_REFER_FOR_DISCOUNTS": "Referans olduğunuz her yeni yatırımcı için aylık ${AMOUNT_PER_MONTH} tutarına kadar kazanın. Eğer bir VIP Bağlı Kuruluş iseniz, ${VIP_AMOUNT_USD} tutarına kadar kazanabilirsiniz! Referans olduklarınız işlem ücretlerinde ${AMOUNT_DISCOUNT} tutarına kadar tasarruf edebilir. {LEARN_MORE_LINK}",
       "EARN_FOR_EACH_TRADER": "Her yeni yatırımcı için aylık ${AMOUNT_USD} tutarına kadar kazanın.",
-      "EARN_USDC_DISCRIPTION": "USDC kazanmak için stake etme ve diğer ürünlerden yararlanın.",
-      "EARN_USDC": "USDC kazanın",
+      "EARN_USDT_DISCRIPTION": "USDT kazanmak için stake etme ve diğer ürünlerden yararlanın.",
+      "EARN_USDT": "USDT kazanın",
       "FEES_REFERRED": "Referans Olunan Ücretler",
       "HAS_REFERRED_YOU": "size dünyanın en güçlü açık borsası üzerinde yatırıma başlamanız için referans oldu.",
       "INVITE_FRIENDS": "Arkadaşları Davet Et",
@@ -969,12 +969,12 @@
       "LEGACY_SIGNING": "Eski imzalar",
       "LINK_WALLET": "Cüzdanı bağlayın",
       "LINKING_WALLET": "Cüzdan bağlama",
-      "MINIMUM_DEPOSIT": "Min. yatırılacak miktar {MIN_DEPOSIT_USDC}",
+      "MINIMUM_DEPOSIT": "Min. yatırılacak miktar {MIN_DEPOSIT_USDT}",
       "MISSING_KEYS_DESCRIPTION": "Yeniden hoş geldiniz! Anahtarlarınızdan birinin veya daha fazlasının kurtarılması gerekiyor",
       "NEED_A_WALLET": "Cüzdana ihtiyacınız mı var?",
       "NOBLE_ADDRESS": "Noble Adresi",
       "NOBLE_SWEEP": "Fonlarınız h2rwa adresinize kaydırılacaktır",
-      "NOBLE_ACKNOWLEDGEMENT": "Bu adresin yalnızca Noble Zinciri üzerine Noble USDC transferleri için olduğunu kabul ediyorum. Bu adrese başka fonlar gönderirsem oluşacak riskleri anlıyorum.",
+      "NOBLE_ACKNOWLEDGEMENT": "Bu adresin yalnızca Noble Zinciri üzerine Noble USDT transferleri için olduğunu kabul ediyorum. Bu adrese başka fonlar gönderirsem oluşacak riskleri anlıyorum.",
       "NOBLE_ADDRESS_VALIDATION": "Lütfen geçerli bir Noble adresi girin.",
       "NO_FUTURE_ACCESS": "Gelecekte Amerika Birleşik Devletleri'nde veya yasaklı bir konumda bulunduğunuz sırada bu adrese erişmeyecek veya h2rwa üzerinde yatırım yapmayacaksınız.",
       "NO_VPN_USE": "Fiziksel konumunuzu yasaklı bir konumdan başka bir yerde göstermek için VPN kullanmıyorsunuz ve gelecekte kullanmayacaksınız.",
@@ -1140,7 +1140,7 @@
     },
     "DEPOSIT_MODAL": {
       "ACKNOWLEDGE_TERMS_AND_DEPOSIT": "Şartları kabul edin ve yatırma işlemini gerçekleştirin",
-      "APPROVE_USDC": "USDC'yi onaylayın",
+      "APPROVE_USDT": "USDT'yi onaylayın",
       "BRIDGE_FEE": "Köprü Ücreti",
       "DEPOSIT_VIA_COINBASE": "Coinbase aracılığıyla fon yatırma",
       "ENABLE_FOR_THIS_DEPOSIT": "Bu yatırma işlemi için etkinleştirin",
@@ -1157,7 +1157,7 @@
       "GASLESS_DEPOSITS_TEMPORARILY_DISABLED": "Gas ücreti ödemeden yatırma işlemleri geçici olarak kullanım dışı. Merak etmeyin, yakında geri gelecek!",
       "GASLESS_ETH_DEPOSITS": "ETH için gas ücreti ödemeden yatırma işlemleri kullanım dışı. {1INCH_WETH_LINK} veya {UNISWAP_WETH_LINK} üzerinde ETH miktarınızı WETH'e çevirebilir ve WETH gas ücreti ödemeden yatırma işlemini kullanabilir; ya da kendi gas ücretlerinizi ödeyerek doğrudan ETH yatırabilirsiniz.",
       "HELD": "tutulan",
-      "LOWEST_FEE_DEPOSITS": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerinden yapılan USDC yatırma işlemleri en düşük ücretlere sahiptir. Diğer yatırma işlemlerinde ek üçüncü taraf ücretleri olabilir.",
+      "LOWEST_FEE_DEPOSITS": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerinden yapılan USDT yatırma işlemleri en düşük ücretlere sahiptir. Diğer yatırma işlemlerinde ek üçüncü taraf ücretleri olabilir.",
       "MAX_SLIPPAGE": "Azami Kayma",
       "MINIMUM_DEPOSIT_AMOUNT": "Minimum Yatırma Miktarı",
       "MINIMUM_DEPOSIT_MET": "Harika! Yatırma işleminiz minimum {GASLESS_DEPOSIT_THRESHOLD} değerini karşılamaktadır{SYMBOL}. h2rwa bu yatırma için gas ücretlerini üstlenecektir.",
@@ -1187,9 +1187,9 @@
       "HIGH_FEES_IN_GENERAL": "Genelde {HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT}",
       "HIGH_FEES_IN_GENERAL_HIGHLIGHT_TEXT": "En yüksek ücretler",
       "LOWEST_FEES_HIGHLIGHT_TEXT": "en düşük ücretler",
-      "LOWEST_FEE_WITHDRAWALS_SKIP": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerine yapılan USDC çekme işlemleri, en düşük ücretlere sahiptir. Diğer çekme yöntemleri (örneğin, Ethereum üzerindeki varlıklar) daha yüksek üçüncü taraf ücretleri doğurabilir.",
-      "LOWEST_FEE_WITHDRAWALS": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerine yapılan USDC çekme işlemleri, en düşük ücretlere sahiptir. Diğer çekme işlemlerinde ek üçüncü taraf ücretleri olabilir.",
-      "LOWEST_FEES_WITH_USDC": "USDC ile {LOWEST_FEES_HIGHLIGHT_TEXT}",
+      "LOWEST_FEE_WITHDRAWALS_SKIP": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerine yapılan USDT çekme işlemleri, en düşük ücretlere sahiptir. Diğer çekme yöntemleri (örneğin, Ethereum üzerindeki varlıklar) daha yüksek üçüncü taraf ücretleri doğurabilir.",
+      "LOWEST_FEE_WITHDRAWALS": "{LOWEST_FEE_TOKENS_TOOLTIP} üzerine yapılan USDT çekme işlemleri, en düşük ücretlere sahiptir. Diğer çekme işlemlerinde ek üçüncü taraf ücretleri olabilir.",
+      "LOWEST_FEES_WITH_USDT": "USDT ile {LOWEST_FEES_HIGHLIGHT_TEXT}",
       "MAGIC_LINK_WITHDRAW_DESCRIPTION": "Çekilen fonlara erişmek ve Magic cüzdanınızı h2rwa dışında tekrar kullanmak için cüzdanınızı başka bir cüzdan sağlayıcısına aktarmalısınız.",
       "SELECT_CHAINS": "zincirleri seçin",
       "SLOW": "Yavaş",
@@ -1231,7 +1231,7 @@
     },
     "STAKE_MODAL": {
       "INSUFFICIENT_STAKE_BALANCE": "Cüzdan bakiyesi, işlem ücretlerini karşılamak için yetersiz.",
-      "STAKE_DESCRIPTION": "USDC cinsinden ödül kazanmak için H2RWA'inizi stake edin. Staking'den çıkarmak 30 gün sürecektir.",
+      "STAKE_DESCRIPTION": "USDT cinsinden ödül kazanmak için H2RWA'inizi stake edin. Staking'den çıkarmak 30 gün sürecektir.",
       "AMOUNT_TO_STAKE": "Stake Edilecek Miktar",
       "SELECTED_VALIDATOR": "Seçilen Doğrulayıcı",
       "ENTER_AMOUNT_TO_STAKE": "Stake edilecek miktarı girin",
@@ -1258,7 +1258,7 @@
     },
     "STAKE_CONFIRMATION_MODAL": {
       "CONFIRM_STAKE": "Staking'i Onayla",
-      "STAKE_CONFIRMATION_DESCRIPTOR": "Onaylandıktan sonra, USDC cinsinden ödül kazanmaya başlayacaksınız. Staking'den çıkarmanın 30 gün süreceğini unutmayın."
+      "STAKE_CONFIRMATION_DESCRIPTOR": "Onaylandıktan sonra, USDT cinsinden ödül kazanmaya başlayacaksınız. Staking'den çıkarmanın 30 gün süreceğini unutmayın."
     },
     "UNSTAKE_CONFIRMATION_MODAL": {
       "CONFIRM_UNSTAKE": "Staking'den Çıkarmayı Onayla",
@@ -1408,7 +1408,7 @@
       "REWARDS_UPDATE": "Ödül güncellemesi",
       "SEARCH_MARKETS": "Piyasaları ara",
       "STAKING": "Staking",
-      "STAKING_DESCRIPTION": "Ağın güvenliğine yardımcı olmak ve $USDC kazanmak için $H2RWA'inizi stake edin. h2rwa Zinciri üzerindeki tüm ücretler stake edenlere gider. Keplr aracılığıyla kullanılabilir.",
+      "STAKING_DESCRIPTION": "Ağın güvenliğine yardımcı olmak ve $USDT kazanmak için $H2RWA'inizi stake edin. h2rwa Zinciri üzerindeki tüm ücretler stake edenlere gider. Keplr aracılığıyla kullanılabilir.",
       "STOP_MARKET_ORDERS": "Stop piyasa emirleri",
       "STOP_MARKET_ORDERS_DESCRIPTION": "Piyasa durdurma ve kâr alma piyasa emirleri burada! Kayıplarınızı sınırlandırmak ve kârınızı sabitlemek için hızla ve kolayca tetiklenme değerleri belirleyin.",
       "TARGET_VOLUME": "Hedef Hacim",
@@ -1951,7 +1951,7 @@
       "SLIPPAGE_WARNING": "Fonların kaldırılması {AMOUNT} kayma ile sonuçlanacaktır. Daha sonraki bir zamanda fonları kaldırırsanız kayma daha düşük olabilir. Daha fazla bilgi için bkz.: {LINK}.",
       "TVL": "TVL",
       "VAULT": "Kasa",
-      "VAULT_DESCRIPTION": "Bu kasa h2rwa piyasaları genelinde otomatik olarak işlem görür ve ücret gelirinden pay alır. Kasa, kitabın her iki tarafına da alıntı yaparak piyasadan bağımsız bir pozisyon hedefler. Kar ve zarar piyasa koşullarına bağlı olarak değişir ve yatırılan USDC'nin bir kısmını veya tamamını kaybetme riski vardır.",
+      "VAULT_DESCRIPTION": "Bu kasa h2rwa piyasaları genelinde otomatik olarak işlem görür ve ücret gelirinden pay alır. Kasa, kitabın her iki tarafına da alıntı yaparak piyasadan bağımsız bir pozisyon hedefler. Kar ve zarar piyasa koşullarına bağlı olarak değişir ve yatırılan USDT'nin bir kısmını veya tamamını kaybetme riski vardır.",
       "VAULT_EQUITY": "Kasa Net Varlığı",
       "VAULT_FAQS": "Kasa SSS",
       "VAULT_OPERATOR_DESCRIPTION": "Bu kasa {OPERATOR_NAME} tarafından işletilmektedir. Operatör h2rwa topluluğu tarafından seçildi.",
@@ -2150,7 +2150,7 @@
       "COUNTRY": "Ülke",
       "EARN_COMMISSION": "Diğer yatırımcılara referans olun ve %40'a kadar komisyon kazanın",
       "EARN_H2RWA_REWARDS": "Alım satım yaptıkça $H2RWA ödülleri kazanın",
-      "EARN_USDC": "Diğer yatırımcıları h2rwa'e davet ederek USDC kazanın",
+      "EARN_USDT": "Diğer yatırımcıları h2rwa'e davet ederek USDT kazanın",
       "EARNINGS": "Kazançlar",
       "ENTITY": "Varlık",
       "ENTITY_NAME": "Varlık Adı",
@@ -2187,7 +2187,7 @@
     },
     "STAKING_REWARDS": {
       "AVAILABLE_IN_DAYS": "{DAYS} gün içinde kullanılabilir olacak",
-      "CLAIM_USDC_AMOUNT": "{USDC_AMOUNT} USDC talep edin",
+      "CLAIM_USDT_AMOUNT": "{USDT_AMOUNT} USDT talep edin",
       "CLAIM_STAKING_REWARDS": "Staking Ödüllerini Talep Edin!",
       "EARN_APR": "{APR_PERCENTAGE} APR kazanın",
       "ESTIMATED_APR_DATA_BASED_ON": "Tahmini APR, {PROTOCOL_STAKING_LINK} verilerine dayanmaktadır.",
@@ -2219,7 +2219,7 @@
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_QUESTION": "Alım satım ödüllerimi nasıl alabilirim?",
       "FAQ_HOW_DO_I_CLAIM_MY_REWARDS_ANSWER": "Her blokta, alım satım ödülleri otomatik olarak doğrudan yatırımcının h2rwa Zinciri adresine gönderilir.",
       "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_QUESTION": "Nasıl stake ederim ve stake ödüllerini talep ederim?",
-      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "Stake etmek için \"Stake\" butonuna tıklayın ve stake etmek istediğiniz token miktarını girin. Toplulukta iyi durumda olan doğrulayıcılar arasından bir tanesi, en az token stake eden ve hiç slash edilmemiş olan uygun doğrulayıcı kriteriyle otomatik olarak seçilecektir. Staking ödüllerini talep etmek için, USDC ödülleri mevcut olduğunda \"Talep Et\" butonuna tıklayın. Talep edilen USDC ödülleri hesabınıza yatırılacaktır, böylece anında işlem yapabilirsiniz! USDC ödüllerini talep etmek için bir gas ücreti olduğunu unutmayın. Daha fazlasını görün: {HERE_LINK}.",
+      "FAQ_HOW_DO_I_STAKE_AND_CLAIM_REWARDS_ANSWER": "Stake etmek için \"Stake\" butonuna tıklayın ve stake etmek istediğiniz token miktarını girin. Toplulukta iyi durumda olan doğrulayıcılar arasından bir tanesi, en az token stake eden ve hiç slash edilmemiş olan uygun doğrulayıcı kriteriyle otomatik olarak seçilecektir. Staking ödüllerini talep etmek için, USDT ödülleri mevcut olduğunda \"Talep Et\" butonuna tıklayın. Talep edilen USDT ödülleri hesabınıza yatırılacaktır, böylece anında işlem yapabilirsiniz! USDT ödüllerini talep etmek için bir gas ücreti olduğunu unutmayın. Daha fazlasını görün: {HERE_LINK}.",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_QUESTION": "Alım satım ödülleri nasıl çalışır?",
       "FAQ_HOW_DO_TRADING_REWARDS_WORK_ANSWER": "Her karşılamadan hemen sonra, alım satım ödülleri, yatırımcı tarafından ödenen ücret miktarına bağlı olarak doğrudan yatırımcının h2rwa Zinciri adresine gönderilir. Daha fazla bilgi edinin: {HERE_LINK}.",
       "FAQ_HOW_IS_THE_PRECONFIGURED_SET_OF_VALIDATORS_DETERMINED_QUESTION": "Önceden yapılandırılmış doğrulayıcı kümesi nasıl belirlenir?",
@@ -2227,7 +2227,7 @@
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_QUESTION": "Stake etmenin riskleri nelerdir?",
       "FAQ_WHAT_ARE_THE_RISKS_OF_STAKING_ANSWER": "Herhangi bir DeFi protokolünün kullanımı, risklerle birlikte gelir. Staking söz konusu olduğunda, token'leri staking'den çıkarmanın 30 gün sürdüğünü bilmek önemlidir; bu, protokol veya piyasa oynaklığı durumunda bile token'lerinizi transfer edemeyeceğiniz bir likidite eksikliği dönemi olduğu anlamına gelir. Ayrıca, kullanıcılar varlıklarını bir doğrulayıcı ile stake etmeden önce doğrulayıcılar hakkında kendi durum tespitlerini yapmalıdır. Protokol kurallarını ihlal eden doğrulayıcılar, kendilerine stake edilen token'lerin slash edilmesiyle (yani yakılmasıyla) veya ödül kazanmalarını engelleyecek şekilde nezarete alınmaları yoluyla cezalandırılabilir.",
       "FAQ_WHAT_IS_STAKING_QUESTION": "Staking nedir?",
-      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa Zinciri, konsensüs mekanizması için Proof-of-Stake kullanır. Token sahipleri, ağın güvenliğini sağlamaya ve işlemleri doğrulamaya yardımcı olmak için token'lerini doğrulayıcılara stake edebilir ve bunun karşılığında protokolün topladığı alım satım ve gas ücretlerinden USDC ödülleri kazanabilir. Tüm ücretler, sigorta fonuna gönderilen ücretler ve doğrulayıcı komisyonları düşüldükten sonra stake edenlere ödenir. Ödül oranları, {HERE_LINK} verilerine dayanmaktadır. Protokol koşullarına bağlı olarak dalgalanabilecek olan gelecekteki ödül oranlarının garantisi yoktur.",
+      "FAQ_WHAT_IS_STAKING_ANSWER": "h2rwa Zinciri, konsensüs mekanizması için Proof-of-Stake kullanır. Token sahipleri, ağın güvenliğini sağlamaya ve işlemleri doğrulamaya yardımcı olmak için token'lerini doğrulayıcılara stake edebilir ve bunun karşılığında protokolün topladığı alım satım ve gas ücretlerinden USDT ödülleri kazanabilir. Tüm ücretler, sigorta fonuna gönderilen ücretler ve doğrulayıcı komisyonları düşüldükten sonra stake edenlere ödenir. Ödül oranları, {HERE_LINK} verilerine dayanmaktadır. Protokol koşullarına bağlı olarak dalgalanabilecek olan gelecekteki ödül oranlarının garantisi yoktur.",
       "FAQ_WHO_IS_ELIGIBLE_QUESTION": "Alım satım ödüllerini kimler alabilir?",
       "FAQ_WHO_IS_ELIGIBLE_ANSWER": "Tüm yatırımcılar alım satım ödülleri için uygundur.",
       "FAQ_WHICH_VALIDATORS_ARE_AVAILABLE_QUESTION": "Hangi doğrulayıcılar stake etmek için kullanılabilir?",
@@ -2335,14 +2335,14 @@
     "DEPOSIT_WITH_FIAT": {
       "BANXA_SUPPORT_LINK": "Banxa destek",
       "CHECK_ORDER_STATUS": "Bir fiat mevduat mı arıyorsunuz? Emir durumunuzu e-postanızda kontrol edin veya {BANXA_SUPPORT_LINK} ile iletişime geçin",
-      "MODAL_BUY_CTA": "USDC satın alma",
-      "MODAL_CONFIRMATION": "Gas ücreti ödemeden fiat para ile USDC satın almak için Banxa'dan emir verin. Emir durumunuzu e-postanızda kontrol edin veya {BANXA_SUPPORT_LINK} ile iletişime geçin",
+      "MODAL_BUY_CTA": "USDT satın alma",
+      "MODAL_CONFIRMATION": "Gas ücreti ödemeden fiat para ile USDT satın almak için Banxa'dan emir verin. Emir durumunuzu e-postanızda kontrol edin veya {BANXA_SUPPORT_LINK} ile iletişime geçin",
       "MODAL_CONFIRMATION_TITLE": "Banxa'daki işlemlerinizi bitirin",
-      "MODAL_LEGAL_DISCLAIMER": "\"USDC Satın Al\" seçeneğine tıklayarak bu hizmetin size doğrudan Banxa.com Pty Ltd. (\"Banxa\") tarafından sağlandığını ve h2rwa Trading Inc.'in (\"h2rwa\") bu süreçte yer almadığını; bu hizmetin ve bir değer (ör. fiat para, kripto para, kredi vb.) karşılığında kripto para satın almanın ancak siz h2rwa web sitesinden ve protokolden ayrıldıktan sonra gerçekleşeceğini ve bir değer iletiminin (gönderim, alım ve emanet değeri dahil) doğrudan Ethereum ağ adresiniz ve Banxa arasında gerçekleşeceğini teyit ve kabul edersiniz. Bu hizmet Amerika Birleşik Devletleri'nde yerleşik herhangi bir kişiye sağlanmaz. Ayrıca, Banxa'nın sizden talep ettiği bilgilerin (kart numarası ve KYC dâhil) h2rwa'e verilmediğini ve siz ile Banxa arasındaki bir işlemle veya iletimle ilgili bir hususta h2rwa'i sorumlu tutmayacağınızı kabul edersiniz. Bir uyuşmazlık durumunda, bu beyanın İngilizce sürümü geçerli olacaktır. Bu beyan https://h2chain.io/legal adresindeki h2rwa Kullanım Koşulları'nda bulunabilir.",
+      "MODAL_LEGAL_DISCLAIMER": "\"USDT Satın Al\" seçeneğine tıklayarak bu hizmetin size doğrudan Banxa.com Pty Ltd. (\"Banxa\") tarafından sağlandığını ve h2rwa Trading Inc.'in (\"h2rwa\") bu süreçte yer almadığını; bu hizmetin ve bir değer (ör. fiat para, kripto para, kredi vb.) karşılığında kripto para satın almanın ancak siz h2rwa web sitesinden ve protokolden ayrıldıktan sonra gerçekleşeceğini ve bir değer iletiminin (gönderim, alım ve emanet değeri dahil) doğrudan Ethereum ağ adresiniz ve Banxa arasında gerçekleşeceğini teyit ve kabul edersiniz. Bu hizmet Amerika Birleşik Devletleri'nde yerleşik herhangi bir kişiye sağlanmaz. Ayrıca, Banxa'nın sizden talep ettiği bilgilerin (kart numarası ve KYC dâhil) h2rwa'e verilmediğini ve siz ile Banxa arasındaki bir işlemle veya iletimle ilgili bir hususta h2rwa'i sorumlu tutmayacağınızı kabul edersiniz. Bir uyuşmazlık durumunda, bu beyanın İngilizce sürümü geçerli olacaktır. Bu beyan https://h2chain.io/legal adresindeki h2rwa Kullanım Koşulları'nda bulunabilir.",
       "MODAL_NEED_HELP": "Yardıma mı ihtiyacınız var?",
-      "MODAL_SUBTITLE": "Banxa aracılığıyla USDC satın alın. Fonlar, doğrudan hesabınıza yatırılacaktır ve {NO_GAS_FEES_STYLED}.",
+      "MODAL_SUBTITLE": "Banxa aracılığıyla USDT satın alın. Fonlar, doğrudan hesabınıza yatırılacaktır ve {NO_GAS_FEES_STYLED}.",
       "NO_GAS_FEES_STYLED": "hiçbir gas ücreti gerekmeden",
-      "PROMO_COPY": "Kredi kartıyla, banka havalesiyle ve daha fazlasıyla USDC satın alın. Fonlarınız doğrudan banka hesabınıza {NO_GAS_FEES_STYLED} yatırılacaktır.",
+      "PROMO_COPY": "Kredi kartıyla, banka havalesiyle ve daha fazlasıyla USDT satın alın. Fonlarınız doğrudan banka hesabınıza {NO_GAS_FEES_STYLED} yatırılacaktır.",
       "PROMO_CTA": "Şimdi satın alın"
     },
     "TRADE_BOX_CARDS": {
@@ -2396,11 +2396,11 @@
     },
     "DEPOSIT_OPTIONS": {
       "DEPOSIT_ALL_ASSET_CTA": "{ASSET} varlığının tümünü yatırın",
-      "DEPOSIT_ETH_INFO": "Bu cüzdanda arta kalan tüm ETH USDC'ye çevrilerek alım satım hesabınıza yatırılacaktır.",
+      "DEPOSIT_ETH_INFO": "Bu cüzdanda arta kalan tüm ETH USDT'ye çevrilerek alım satım hesabınıza yatırılacaktır.",
       "DEPOSIT_FUNDS_SUBTITLE": "Alım satım yapmaya başlamak için fonlara ihtiyacınız olacaktır.",
-      "DEPOSIT_NON_UDSC_INFO": "Bu cüzdandaki tüm {ASSET} varlığı USDC'ye çevrilerek alım satım hesabınıza yatırılacaktır.",
-      "DEPOSIT_USDC_INFO": "Bu cüzdandaki tüm USDC alım satım hesabınıza yatırılacaktır.",
-      "FIAT_SUBTITLE": "Kredi kartıyla USDC satın alın ve daha fazlasını yapın. Fonlar doğrudan hesabınıza yatırılacaktır ve gas ücreti gerekmez.",
+      "DEPOSIT_NON_UDSC_INFO": "Bu cüzdandaki tüm {ASSET} varlığı USDT'ye çevrilerek alım satım hesabınıza yatırılacaktır.",
+      "DEPOSIT_USDT_INFO": "Bu cüzdandaki tüm USDT alım satım hesabınıza yatırılacaktır.",
+      "FIAT_SUBTITLE": "Kredi kartıyla USDT satın alın ve daha fazlasını yapın. Fonlar doğrudan hesabınıza yatırılacaktır ve gas ücreti gerekmez.",
       "INSUFFICIENT_BALANCE": "Yetersiz bakiye",
       "NETWORK_FEE": "Ağ ücreti",
       "NETWORK_FEE_ETH_INFO": "Ağ ücretini karşılamak için cüzdanınızda en az {ETH_AMOUNT} bulunmalıdır.",
@@ -2929,7 +2929,7 @@
       "ISOLATED_MARGIN_ADJUSTMENT_INVALID_AMOUNT": "Lütfen geçerli bir tutar girin."
     },
     "NEW_MARKET_WIDGET": {
-      "LAUNCHING_MARKET_REQUIRES_USDC": "Bir piyasa başlatmak, minimum {USDC_AMOUNT} USDC serbest çapraz teminat gerektirir",
+      "LAUNCHING_MARKET_REQUIRES_USDT": "Bir piyasa başlatmak, minimum {USDT_AMOUNT} USDT serbest çapraz teminat gerektirir",
       "NOT_ENOUGH_BALANCE": "Bir piyasa eklemeniz için en az {NUM_TOKENS_REQUIRED} {NATIVE_TOKEN_DENOM} tutarına ihtiyacınız vardır."
     },
     "WALLET_SPECIFIC": {
@@ -2943,9 +2943,9 @@
   },
   "WARNINGS": {
     "ACCOUNT_FUND_MANAGEMENT": {
-      "WITHDRAWAL_LIMIT_OVER": "Lütfen daha küçük bir miktar girin. h2rwa Zinciri'nden maksimum çekme limiti şu anda {USDC_LIMIT} düzeyindedir.",
+      "WITHDRAWAL_LIMIT_OVER": "Lütfen daha küçük bir miktar girin. h2rwa Zinciri'nden maksimum çekme limiti şu anda {USDT_LIMIT} düzeyindedir.",
       "WITHDRAWAL_LIMIT_OVER_TITLE": "Lütfen daha küçük bir miktar girin",
-      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "h2rwa Zinciri'nden maksimum çekme limiti şu anda {USDC_LIMIT} düzeyindedir.",
+      "WITHDRAWAL_LIMIT_OVER_DESCRIPTION": "h2rwa Zinciri'nden maksimum çekme limiti şu anda {USDT_LIMIT} düzeyindedir.",
       "WITHDRAWAL_LIMIT_OVER_ACTION": "Miktarı değiştir",
       "WITHDRAWAL_PAUSED_TITLE": "Çekme işlemleri duraklatıldı",
       "WITHDRAWAL_PAUSED_DESCRIPTION": "Lütfen {SECONDS} saniye içinde tekrar deneyin.",
@@ -2956,7 +2956,7 @@
     },
     "ONBOARDING": {
       "ALWAYS_VERIFY_URL": "Anahtarlarınızı kurtarırken daima https://h2rwa.io üzerinde olduğunuzu kontrol edin ve doğrulayın.",
-      "NOBLE_CHAIN_ONLY": "Bu adres yalnızca Noble Zinciri üzerine Noble USDC transferleri içindir. Diğer blok zincirlerden herhangi bir fon göndermek, bu fonların kaybına neden olacaktır."
+      "NOBLE_CHAIN_ONLY": "Bu adres yalnızca Noble Zinciri üzerine Noble USDT transferleri içindir. Diğer blok zincirlerden herhangi bir fon göndermek, bu fonların kaybına neden olacaktır."
     },
     "TRADE_BOX": {
       "LIMIT_PRICE_TRIGGER_PRICE_SLIPPAGE_HIGHER": "Bu emirde kayma düşük; emrinizi karşılama ihtimalinizi artırmak için ${LIMIT_PRICE} veya daha yüksek bir limit fiyatını öneriyoruz. Emriniz tetiklendiğinde mümkün olan en iyi fiyatla yürütülecektir.",

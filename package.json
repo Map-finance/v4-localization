@@ -1,6 +1,6 @@
 {
   "name": "@h2protocol/v4-localization",
-  "version": "1.1.353-h2.1",
+  "version": "1.1.355-h2.1",
   "description": "v4 localization",
   "main": "index.ts",
   "scripts": {
