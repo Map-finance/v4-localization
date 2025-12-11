@@ -335,7 +335,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "最低手数料の入金",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}へのUSDC入金には、最低手数料が適用されます。"
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}へのUSDT入金には、最低手数料が適用されます。"
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "最低入金額",
@@ -343,7 +343,7 @@
     },
     "SWAP": {
       "TITLE": "スワップおよび入金",
-      "BODY": "USDC以外の資産を入金すると、資産は0x APIを介して自動的にUSDCに変換されます。許容スリッページを設定すると、変換が失敗する前にお客様が許容するスリッページを指定できます。"
+      "BODY": "USDT以外の資産を入金すると、資産は0x APIを介して自動的にUSDTに変換されます。許容スリッページを設定すると、変換が失敗する前にお客様が許容するスリッページを指定できます。"
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -373,7 +373,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "最低手数料の出金",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}のUSDC出金は最も低い手数料で行えます。"
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}のUSDT出金は最も低い手数料で行えます。"
     },
     "BRIDGE_FEES": {
       "TITLE": "ブリッジ手数料",

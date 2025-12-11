@@ -335,7 +335,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "최저 수수료 예금",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}에 USDC 입급이 수수료가 가장 낮습니다."
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}에 USDT 입급이 수수료가 가장 낮습니다."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "최소 입금 금액",
@@ -343,7 +343,7 @@
     },
     "SWAP": {
       "TITLE": "스왑 및 입금",
-      "BODY": "USDC 외의 자산을 입금할 때, 해당 자산은 자동으로 0x API를 통해 자동으로 USDC로 전환됩니다. 최대 슬리피지를 설정하면 전환 실패 전에 허용할 슬리피지를 지정할 수 있습니다."
+      "BODY": "USDT 외의 자산을 입금할 때, 해당 자산은 자동으로 0x API를 통해 자동으로 USDT로 전환됩니다. 최대 슬리피지를 설정하면 전환 실패 전에 허용할 슬리피지를 지정할 수 있습니다."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -373,7 +373,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "최저 수수료 인출",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES}에서 USDC 인출이 수수료가 가장 낮습니다."
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES}에서 USDT 인출이 수수료가 가장 낮습니다."
     },
     "BRIDGE_FEES": {
       "TITLE": "브리지 수수료",

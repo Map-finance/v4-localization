@@ -335,7 +335,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Lowest Fee Deposits",
-      "BODY": "USDC deposits on {LOWEST_FEE_TOKEN_NAMES} have the lowest fees."
+      "BODY": "USDT deposits on {LOWEST_FEE_TOKEN_NAMES} have the lowest fees."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "Minimum Deposit Amount",
@@ -343,7 +343,7 @@
     },
     "SWAP": {
       "TITLE": "Swap & Deposit",
-      "BODY": "When depositing a non-USDC asset, your asset is automatically converted to USDC via the 0x API. Setting max slippage allows you to specify the slippage you will allow before the conversion fails."
+      "BODY": "When depositing a non-USDT asset, your asset is automatically converted to USDT via the 0x API. Setting max slippage allows you to specify the slippage you will allow before the conversion fails."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -373,7 +373,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Lowest Fee Withdrawals",
-      "BODY": "USDC withdrawals on {LOWEST_FEE_TOKEN_NAMES} have the lowest fees."
+      "BODY": "USDT withdrawals on {LOWEST_FEE_TOKEN_NAMES} have the lowest fees."
     },
     "BRIDGE_FEES": {
       "TITLE": "Bridge Fees",

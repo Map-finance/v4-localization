@@ -327,7 +327,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "En Düşük Ücretli Yatırma İşlemleri",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES} üzerindeki USDC yatırma işlemleri en düşük ücretlere tabidir."
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES} üzerindeki USDT yatırma işlemleri en düşük ücretlere tabidir."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "Minimum Yatırma Miktarı",
@@ -335,7 +335,7 @@
     },
     "SWAP": {
       "TITLE": "Takas ve Yatırma",
-      "BODY": "USDC dışı bir varlık yatırma işleminde, varlığınız 0x API aracılığıyla otomatik olarak USDC'ye dönüştürülür. Maksimum kayma değerini ayarlamak, dönüşüm başarısız olmadan önce izin vereceğiniz kayma miktarını belirlemenize olanak tanır."
+      "BODY": "USDT dışı bir varlık yatırma işleminde, varlığınız 0x API aracılığıyla otomatik olarak USDT'ye dönüştürülür. Maksimum kayma değerini ayarlamak, dönüşüm başarısız olmadan önce izin vereceğiniz kayma miktarını belirlemenize olanak tanır."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -365,7 +365,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "En Düşük Ücretli Çekme İşlemleri",
-      "BODY": "{LOWEST_FEE_TOKEN_NAMES} üzerine yapılan USDC çekme işlemleri, en düşük ücretlere sahiptir."
+      "BODY": "{LOWEST_FEE_TOKEN_NAMES} üzerine yapılan USDT çekme işlemleri, en düşük ücretlere sahiptir."
     },
     "BRIDGE_FEES": {
       "TITLE": "Köprü Ücretleri",

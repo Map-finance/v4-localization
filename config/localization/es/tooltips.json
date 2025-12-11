@@ -327,7 +327,7 @@
     },
     "LOWEST_FEE_DEPOSITS": {
       "TITLE": "Depósitos de tarifa más baja",
-      "BODY": "Los depósitos USDC en {LOWEST_FEE_TOKEN_NAMES} tienen las tarifas más bajas."
+      "BODY": "Los depósitos USDT en {LOWEST_FEE_TOKEN_NAMES} tienen las tarifas más bajas."
     },
     "MINIMUM_DEPOSIT_AMOUNT": {
       "TITLE": "Cantidad mínima de depósito",
@@ -335,7 +335,7 @@
     },
     "SWAP": {
       "TITLE": "Intercambiar y depositar",
-      "BODY": "Al depositar un activo que no sea USDC, el activo se va a convertir automáticamente a USDC a través de la API 0x. Establecer un máximo slippage te permite especificar el slippage que vas a permitir antes de que falle la conversión."
+      "BODY": "Al depositar un activo que no sea USDT, el activo se va a convertir automáticamente a USDT a través de la API 0x. Establecer un máximo slippage te permite especificar el slippage que vas a permitir antes de que falle la conversión."
     }
   },
   "TRANSFER_AND_DEPOSIT": {
@@ -365,7 +365,7 @@
     },
     "LOWEST_FEE_WITHDRAWALS": {
       "TITLE": "Retiros de la tarifa más baja",
-      "BODY": "Los retiros de USDC en {LOWEST_FEE_TOKEN_NAMES} tienen las tarifas más bajas."
+      "BODY": "Los retiros de USDT en {LOWEST_FEE_TOKEN_NAMES} tienen las tarifas más bajas."
     },
     "BRIDGE_FEES": {
       "TITLE": "Tarifas de puente",
